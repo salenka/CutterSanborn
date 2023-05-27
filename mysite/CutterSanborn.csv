@@ -13,20 +13,20 @@ Abb,A122,Abbat
 Abbat,A123,Abbe
 Abbe,A124,Abbo
 Abbo,A125,Abbot
-Abbot,A126,"Abbot, J"
-"Abbot, J",A127,"Abbot, M"
-"Abbot, M",A128,"Abbot, S"
-"Abbot, S",A129,Abbott
-Abbott,A131,"Abbott, J"
-"Abbott, J",A132,"Abbott, M"
-"Abbott, M",A133,"Abbott, S"
-"Abbott, S",A134,Abd
+Abbot,A126,"Abbot,J"
+"Abbot,J",A127,"Abbot,M"
+"Abbot,M",A128,"Abbot,S"
+"Abbot,S",A129,Abbott
+Abbott,A131,"Abbott,J"
+"Abbott,J",A132,"Abbott,M"
+"Abbott,M",A133,"Abbott,S"
+"Abbott,S",A134,Abd
 Abd,A135,Abdul
 Abdul,A136,Abdy
 Abdy,A137,Abe
 Abe,A138,Abel
-Abel,A139,"Abel, L"
-"Abel, L",A141,Aben
+Abel,A139,"Abel,L"
+"Abel,L",A141,Aben
 Aben,A142,Aber
 Aber,A143,Abercr
 Abercr,A144,Aberd
@@ -73,29 +73,29 @@ Act,A188,Acu
 Acu,A189,Ada
 Ada,A191,Adal
 Adal,A192,Adam
-Adam,A193,"Adam, J"
-"Adam, J",A194,"Adam, M"
-"Adam, M",A195,"Adam, S"
-"Adam, S",A196,"Adam, W"
-"Adam, W",A197,Adami
+Adam,A193,"Adam,J"
+"Adam,J",A194,"Adam,M"
+"Adam,M",A195,"Adam,S"
+"Adam,S",A196,"Adam,W"
+"Adam,W",A197,Adami
 Adami,A198,Adamo
 Adamo,A199,Adams
-Adams,A211,"Adams, F"
-"Adams, F",A212,"Adams, G"
-"Adams, G",A213,"Adams, J"
-"Adams, J",A214,"Adams, M"
-"Adams, M",A215,"Adams, N"
-"Adams, N",A216,"Adams, S"
-"Adams, S",A217,"Adams, T"
-"Adams, T",A218,"Adams, W"
-"Adams, W",A219,Adamson
+Adams,A211,"Adams,F"
+"Adams,F",A212,"Adams,G"
+"Adams,G",A213,"Adams,J"
+"Adams,J",A214,"Adams,M"
+"Adams,M",A215,"Adams,N"
+"Adams,N",A216,"Adams,S"
+"Adams,S",A217,"Adams,T"
+"Adams,T",A218,"Adams,W"
+"Adams,W",A219,Adamson
 Adamson,A221,Add
 Add,A222,Adde
 Adde,A223,Addi
 Addi,A224,Addison
-Addison,A225,"Addison, M"
-"Addison, M",A226,"Addison, S"
-"Addison, S",A227,Ade
+Addison,A225,"Addison,M"
+"Addison,M",A226,"Addison,S"
+"Addison,S",A227,Ade
 Ade,A228,Adelh
 Adelh,A229,Adelo
 Adelo,A231,Aden
@@ -204,8 +204,8 @@ Alco,A354,Alcot
 Alcot,A355,Alcu
 Alcu,A356,Ald
 Ald,A357,Alden
-Alden,A358,"Alden, S"
-"Alden, S",A359,Alder
+Alden,A358,"Alden,S"
+"Alden,S",A359,Alder
 Alder,A361,Alders
 Alders,A362,Aldi
 Aldi,A363,Aldo
@@ -218,14 +218,14 @@ Alep,A369,Ales
 Ales,A371,Alessi
 Alessi,A372,Alew
 Alew,A373,Alex
-Alex,A374,"Alexander, C"
-"Alexander, C",A375,"Alexander, J"
-"Alexander, J",A376,"Alexander, M"
-"Alexander, M",A377,"Alexander, S"
-"Alexander, S",A378,"Alexander, W"
-"Alexander, W",A379,Alexandre
-Alexandre,A381,"Alexandre, M"
-"Alexandre, M",A382,Alexandro
+Alex,A374,"Alexander,C"
+"Alexander,C",A375,"Alexander,J"
+"Alexander,J",A376,"Alexander,M"
+"Alexander,M",A377,"Alexander,S"
+"Alexander,S",A378,"Alexander,W"
+"Alexander,W",A379,Alexandre
+Alexandre,A381,"Alexandre,M"
+"Alexandre,M",A382,Alexandro
 Alexandro,A383,Alexi
 Alexi,A384,Alfa
 Alfa,A385,Alfe
@@ -244,31 +244,31 @@ Ali,A398,Alif
 Alif,A399,Alig
 Alig,A411,Alip
 Alip,A412,Alis
-Alis,A413,"Alison, M"
-"Alison, M",A414,Alk
+Alis,A413,"Alison,M"
+"Alison,M",A414,Alk
 Alk,A415,All
 All,A416,Allan
-Allan,A417,"Allan, M"
-"Allan, M",A418,Allard
+Allan,A417,"Allan,M"
+"Allan,M",A418,Allard
 Allard,A419,Allas
 Allas,A421,Alle
 Alle,A422,Allein
 Allein,A423,Allem
 Allem,A424,Allen
-Allen,A425,"Allen, H"
-"Allen, H",A426,"Allen, J"
-"Allen, J",A427,"Allen, N"
-"Allen, N",A428,"Allen, S"
-"Allen, S",A429,"Allen, T"
-"Allen, T",A431,"Allen, W"
-"Allen, W",A432,Allens
+Allen,A425,"Allen,H"
+"Allen,H",A426,"Allen,J"
+"Allen,J",A427,"Allen,N"
+"Allen,N",A428,"Allen,S"
+"Allen,S",A429,"Allen,T"
+"Allen,T",A431,"Allen,W"
+"Allen,W",A432,Allens
 Allens,A433,Aller
 Aller,A434,Alley
 Alley,A435,Alli
 Alli,A436,Alling
 Alling,A437,Allis
-Allis,A438,"Allison, M"
-"Allison, M",A439,Allo
+Allis,A438,"Allison,M"
+"Allison,M",A439,Allo
 Allo,A441,Alls
 Alls,A442,Ally
 Ally,A443,Alm
@@ -325,8 +325,8 @@ Ame,A498,Amelo
 Amelo,A499,Amen
 Amen,A511,Amer
 Amer,A512,Ames
-Ames,A513,"Ames, M"
-"Ames, M",A514,Amh
+Ames,A513,"Ames,M"
+"Ames,M",A514,Amh
 Amh,A515,Ami
 Ami,A516,Amin
 Amin,A517,Amm
@@ -354,13 +354,13 @@ Anci,A541,Anco
 Anco,A542,And
 And,A543,Anders
 Anders,A544,Anderson
-Anderson,A545,"Anderson, D"
-"Anderson, D",A546,"Anderson, J"
-"Anderson, J",A547,"Anderson, M"
-"Anderson, M",A548,"Anderson, R"
-"Anderson, R",A549,"Anderson, T"
-"Anderson, T",A551,"Anderson, W"
-"Anderson, W",A552,Andr
+Anderson,A545,"Anderson,D"
+"Anderson,D",A546,"Anderson,J"
+"Anderson,J",A547,"Anderson,M"
+"Anderson,M",A548,"Anderson,R"
+"Anderson,R",A549,"Anderson,T"
+"Anderson,T",A551,"Anderson,W"
+"Anderson,W",A552,Andr
 Andr,A553,Andral
 Andral,A554,Andre
 Andre,A555,Andrea
@@ -369,16 +369,16 @@ Andreas,A557,Andree
 Andree,A558,Andrei
 Andrei,A559,Andres
 Andres,A561,Andrew
-Andrew,A562,"Andrew, M"
-"Andrew, M",A563,Andrewe
+Andrew,A562,"Andrew,M"
+"Andrew,M",A563,Andrewe
 Andrewe,A564,Andrews
-Andrews,A565,"Andrews, E"
-"Andrews, E",A566,"Andrews, J"
-"Andrews, J",A567,"Andrews, M"
-"Andrews, M",A568,"Andrews, R"
-"Andrews, R",A569,"Andrews, T"
-"Andrews, T",A571,"Andrews, W"
-"Andrews, W",A572,Andri
+Andrews,A565,"Andrews,E"
+"Andrews,E",A566,"Andrews,J"
+"Andrews,J",A567,"Andrews,M"
+"Andrews,M",A568,"Andrews,R"
+"Andrews,R",A569,"Andrews,T"
+"Andrews,T",A571,"Andrews,W"
+"Andrews,W",A572,Andri
 Andri,A573,Andro
 Andro,A574,Andron
 Andron,A575,Andros
@@ -439,9 +439,9 @@ Apos,A645,App
 App,A646,Appi
 Appi,A647,Appl
 Appl,A648,Appleton
-Appleton,A649,"Appleton, J"
-"Appleton, J",A651,"Appleton, T"
-"Appleton, T",A652,Appu
+Appleton,A649,"Appleton,J"
+"Appleton,J",A651,"Appleton,T"
+"Appleton,T",A652,Appu
 Appu,A653,Apr
 Apr,A654,Apt
 Apt,A655,Aqu
@@ -458,8 +458,8 @@ Arbo,A666,Arbu
 Arbu,A667,Arc
 Arc,A668,Arch
 Arch,A669,Archer
-Archer,A671,"Archer, M"
-"Archer, M",A672,Archi
+Archer,A671,"Archer,M"
+"Archer,M",A672,Archi
 Archi,A673,Arci
 Arci,A674,Arco
 Arco,A675,Ard
@@ -504,14 +504,14 @@ Arm,A727,Arme
 Arme,A728,Armi
 Armi,A729,Armis
 Armis,A731,Armit
-Armit,A732,"Armitage, M"
-"Armitage, M",A733,Arms
+Armit,A732,"Armitage,M"
+"Armitage,M",A733,Arms
 Arms,A734,Armstrong
-Armstrong,A735,"Armstrong, J"
-"Armstrong, J",A736,"Armstrong, M"
-"Armstrong, M",A737,"Armstrong, S"
-"Armstrong, S",A738,"Armstrong, W"
-"Armstrong, W",A739,Army
+Armstrong,A735,"Armstrong,J"
+"Armstrong,J",A736,"Armstrong,M"
+"Armstrong,M",A737,"Armstrong,S"
+"Armstrong,S",A738,"Armstrong,W"
+"Armstrong,W",A739,Army
 Army,A741,Arn
 Arn,A742,Arnal
 Arnal,A743,Arnau
@@ -522,15 +522,15 @@ Arnd,A747,Arne
 Arne,A748,Arni
 Arni,A749,Arno
 Arno,A751,Arnold
-Arnold,A752,"Arnold, D"
-"Arnold, D",A753,"Arnold, G"
-"Arnold, G",A754,"Arnold, H"
-"Arnold, H",A755,"Arnold, J"
-"Arnold, J",A756,"Arnold, M"
-"Arnold, M",A757,"Arnold, R"
-"Arnold, R",A758,"Arnold, T"
-"Arnold, T",A759,"Arnold, W"
-"Arnold, W",A761,Arnoldi
+Arnold,A752,"Arnold,D"
+"Arnold,D",A753,"Arnold,G"
+"Arnold,G",A754,"Arnold,H"
+"Arnold,H",A755,"Arnold,J"
+"Arnold,J",A756,"Arnold,M"
+"Arnold,M",A757,"Arnold,R"
+"Arnold,R",A758,"Arnold,T"
+"Arnold,T",A759,"Arnold,W"
+"Arnold,W",A761,Arnoldi
 Arnoldi,A762,Arnon
 Arnon,A763,Arnot
 Arnot,A764,Arnou
@@ -555,9 +555,9 @@ Art,A784,Artau
 Artau,A785,Arte
 Arte,A786,Arth
 Arth,A787,Arthur
-Arthur,A788,"Arthur, M"
-"Arthur, M",A789,"Arthur, S"
-"Arthur, S",A791,Arto
+Arthur,A788,"Arthur,M"
+"Arthur,M",A789,"Arthur,S"
+"Arthur,S",A791,Arto
 Arto,A792,Aru
 Aru,A793,Arunt
 Arunt,A794,Arv
@@ -582,8 +582,8 @@ Ashe,A824,Asher
 Asher,A825,Ashl
 Ashl,A826,Ashm
 Ashm,A827,Asht
-Asht,A828,"Ashton, M"
-"Ashton, M",A829,Ashw
+Asht,A828,"Ashton,M"
+"Ashton,M",A829,Ashw
 Ashw,A831,Asi
 Asi,A832,Asio
 Asio,A833,Ask
@@ -618,16 +618,16 @@ Ate,A864,Ath
 Ath,A865,Athe
 Athe,A866,Athen
 Athen,A867,Ather
-Ather,A868,"Atherton, M"
-"Atherton, M",A869,Athi
+Ather,A868,"Atherton,M"
+"Atherton,M",A869,Athi
 Athi,A871,Ati
 Ati,A872,Atk
-Atk,A873,"Atkins, M"
-"Atkins, M",A874,Atkinson
-Atkinson,A875,"Atkinson, J"
-"Atkinson, J",A876,"Atkinson, M"
-"Atkinson, M",A877,"Atkinson, T"
-"Atkinson, T",A878,Atky
+Atk,A873,"Atkins,M"
+"Atkins,M",A874,Atkinson
+Atkinson,A875,"Atkinson,J"
+"Atkinson,J",A876,"Atkinson,M"
+"Atkinson,M",A877,"Atkinson,T"
+"Atkinson,T",A878,Atky
 Atky,A879,Atl
 Atl,A881,Atr
 Atr,A882,Att
@@ -667,12 +667,12 @@ Auri,A928,Auriv
 Auriv,A929,Auro
 Auro,A931,Aus
 Aus,A932,Austen
-Austen,A933,"Austen, M"
-"Austen, M",A934,Austin
-Austin,A935,"Austin, J"
-"Austin, J",A936,"Austin, M"
-"Austin, M",A937,"Austin, T"
-"Austin, T",A938,Aut
+Austen,A933,"Austen,M"
+"Austen,M",A934,Austin
+Austin,A935,"Austin,J"
+"Austin,J",A936,"Austin,M"
+"Austin,M",A937,"Austin,T"
+"Austin,T",A938,Aut
 Aut,A939,Autr
 Autr,A941,Auv
 Auv,A942,Aux
@@ -686,8 +686,8 @@ Avell,A949,Aven
 Aven,A951,Aver
 Aver,A952,Avero
 Avero,A953,Avery
-Avery,A954,"Avery, M"
-"Avery, M",A955,Avez
+Avery,A954,"Avery,M"
+"Avery,M",A955,Avez
 Avez,A956,Avi
 Avi,A957,Avil
 Avil,A958,Avit
@@ -744,8 +744,8 @@ Bachm,B124,Baci
 Baci,B125,Back
 Back,B126,Bacm
 Bacm,B127,Baco
-Baco,B128,"Bacon, M"
-"Bacon, M",B129,Bacr
+Baco,B128,"Bacon,M"
+"Bacon,M",B129,Bacr
 Bacr,B131,Bad
 Bad,B132,Bade
 Bade,B133,Baden
@@ -767,9 +767,9 @@ Bags,B149,Bah
 Bah,B151,Bai
 Bai,B152,Bail
 Bail,B153,Baile
-Baile,B154,"Bailey, L"
-"Bailey, L",B155,"Bailey, S"
-"Bailey, S",B156,Baill
+Baile,B154,"Bailey,L"
+"Bailey,L",B155,"Bailey,S"
+"Bailey,S",B156,Baill
 Baill,B157,Baillo
 Baillo,B158,Bails
 Bails,B159,Baily
@@ -779,8 +779,8 @@ Bair,B163,Bait
 Bait,B164,Baj
 Baj,B165,Bak
 Bak,B166,Bake
-Bake,B167,"Baker, M"
-"Baker, M",B168,Baks
+Bake,B167,"Baker,M"
+"Baker,M",B168,Baks
 Baks,B169,Bal
 Bal,B171,Balb
 Balb,B172,Balbo
@@ -791,8 +791,8 @@ Balder,B176,Baldi
 Baldi,B177,Baldo
 Baldo,B178,Baldu
 Baldu,B179,Baldw
-Baldw,B181,"Baldwin, M"
-"Baldwin, M",B182,Bale
+Baldw,B181,"Baldwin,M"
+"Baldwin,M",B182,Bale
 Bale,B183,Bales
 Bales,B184,Balf
 Balf,B185,Bali
@@ -871,8 +871,8 @@ Barri,B275,Barrin
 Barrin,B276,Barro
 Barro,B277,Barrow
 Barrow,B278,Barry
-Barry,B279,"Barry, L"
-"Barry, L",B281,Bars
+Barry,B279,"Barry,L"
+"Barry,L",B281,Bars
 Bars,B282,Bart
 Bart,B283,Barth
 Barth,B284,Barthel
@@ -880,8 +880,8 @@ Barthel,B285,Bartho
 Bartho,B286,Bartholo
 Bartholo,B287,Barti
 Barti,B288,Bartl
-Bartl,B289,"Bartlett, M"
-"Bartlett, M",B291,Barto
+Bartl,B289,"Bartlett,M"
+"Bartlett,M",B291,Barto
 Barto,B292,Barton
 Barton,B293,Bartr
 Bartr,B294,Baru
@@ -966,8 +966,8 @@ Bech,B391,Bechs
 Bechs,B392,Beck
 Beck,B393,Becke
 Becke,B394,Becker
-Becker,B395,"Becker, P"
-"Becker, P",B396,Becki
+Becker,B395,"Becker,P"
+"Becker,P",B396,Becki
 Becki,B397,Becm
 Becm,B398,Bed
 Bed,B399,Bede
@@ -991,9 +991,9 @@ Bele,B428,Belg
 Belg,B429,Beli
 Beli,B431,Belk
 Belk,B432,Bell
-Bell,B433,"Bell, L"
-"Bell, L",B434,"Bell, R"
-"Bell, R",B435,Bellan
+Bell,B433,"Bell,L"
+"Bell,L",B434,"Bell,R"
+"Bell,R",B435,Bellan
 Bellan,B436,Bellav
 Bellav,B437,Belle
 Belle,B438,Belleg
@@ -1025,8 +1025,8 @@ Beng,B466,Beni
 Beni,B467,Benj
 Benj,B468,Benn
 Benn,B469,Bennett
-Bennett,B471,"Bennett, M"
-"Bennett, M",B472,Beno
+Bennett,B471,"Bennett,M"
+"Bennett,M",B472,Beno
 Beno,B473,Bens
 Bens,B474,Bent
 Bent,B475,Benth
@@ -1059,10 +1059,10 @@ Berl,B514,Berlin
 Berlin,B515,Berm
 Berm,B516,Bern
 Bern,B517,Bernar
-Bernar,B518,"Bernard, J"
-"Bernard, J",B519,"Bernard, M"
-"Bernard, M",B521,"Bernard, T"
-"Bernard, T",B522,Bernardi
+Bernar,B518,"Bernard,J"
+"Bernard,J",B519,"Bernard,M"
+"Bernard,M",B521,"Bernard,T"
+"Bernard,T",B522,Bernardi
 Bernardi,B523,Bernat
 Bernat,B524,Berne
 Berne,B525,Bernet
@@ -1086,9 +1086,9 @@ Bertin,B544,Berto
 Berto,B545,Bertol
 Bertol,B546,Berton
 Berton,B547,Bertr
-Bertr,B548,"Bertrand, F"
-"Bertrand, F",B549,"Bertrand, N"
-"Bertrand, N",B551,Bertu
+Bertr,B548,"Bertrand,F"
+"Bertrand,F",B549,"Bertrand,N"
+"Bertrand,N",B551,Bertu
 Bertu,B552,Berw
 Berw,B553,Bes
 Bes,B554,Besl
@@ -1355,16 +1355,16 @@ Brooks,B873,Bros
 Bros,B874,Brou
 Brou,B875,Brous
 Brous,B876,Brow
-Brow,B877,"Brown, H"
-"Brown, H",B878,"Brown, M"
-"Brown, M",B879,"Brown, T"
-"Brown, T",B881,Browne
-Browne,B882,"Browne, M"
-"Browne, M",B883,"Browne, S"
-"Browne, S",B884,Browni
+Brow,B877,"Brown,H"
+"Brown,H",B878,"Brown,M"
+"Brown,M",B879,"Brown,T"
+"Brown,T",B881,Browne
+Browne,B882,"Browne,M"
+"Browne,M",B883,"Browne,S"
+"Browne,S",B884,Browni
 Browni,B885,Bru
-Bru,B886,"Bruce, J"
-"Bruce, J",B887,Bruck
+Bru,B886,"Bruce,J"
+"Bruce,J",B887,Bruck
 Bruck,B888,Brue
 Brue,B889,Brug
 Brug,B891,Bruh
@@ -1443,9 +1443,9 @@ Buss,B981,Bust
 Bust,B982,But
 But,B983,Buti
 Buti,B984,Butl
-Butl,B985,"Butler, M"
-"Butler, M",B986,"Butler, T"
-"Butler, T",B987,Butt
+Butl,B985,"Butler,M"
+"Butler,M",B986,"Butler,T"
+"Butler,T",B987,Butt
 Butt,B988,Butto
 Butto,B989,Bux
 Bux,B991,Buy
@@ -1526,11 +1526,11 @@ Cami,C183,Camm
 Camm,C184,Camo
 Camo,C185,Camp
 Camp,C186,Campbell
-Campbell,C187,"Campbell, H"
-"Campbell, H",C188,"Campbell, M"
-"Campbell, M",C189,"Campbell, S"
-"Campbell, S",C191,"Campbell, W"
-"Campbell, W",C192,Campe
+Campbell,C187,"Campbell,H"
+"Campbell,H",C188,"Campbell,M"
+"Campbell,M",C189,"Campbell,S"
+"Campbell,S",C191,"Campbell,W"
+"Campbell,W",C192,Campe
 Campe,C193,Campen
 Campen,C194,Camper
 Camper,C195,Campi
@@ -1594,10 +1594,10 @@ Cardo,C268,Cardw
 Cardw,C269,Care
 Care,C271,Carew
 Carew,C272,Carey
-Carey,C273,"Carey, H"
-"Carey, H",C274,"Carey, M"
-"Carey, M",C275,"Carey, S"
-"Carey, S",C276,Cari
+Carey,C273,"Carey,H"
+"Carey,H",C274,"Carey,M"
+"Carey,M",C275,"Carey,S"
+"Carey,S",C276,Cari
 Cari,C277,Carl
 Carl,C278,Carlet
 Carlet,C279,Carleton
@@ -1614,13 +1614,13 @@ Carno,C291,Caro
 Caro,C292,Caron
 Caron,C293,Carp
 Carp,C294,Carpenter
-Carpenter,C295,"Carpenter, L"
-"Carpenter, L",C296,"Carpenter, S"
-"Carpenter, S",C297,Carpi
+Carpenter,C295,"Carpenter,L"
+"Carpenter,L",C296,"Carpenter,S"
+"Carpenter,S",C297,Carpi
 Carpi,C298,Carpo
 Carpo,C299,Carr
-Carr,C311,"Carr, M"
-"Carr, M",C312,Carrar
+Carr,C311,"Carr,M"
+"Carr,M",C312,Carrar
 Carrar,C313,Carre
 Carre,C314,Carret
 Carret,C315,Carri
@@ -1630,16 +1630,16 @@ Carrin,C318,Carro
 Carro,C319,Cars
 Cars,C321,Cart
 Cart,C322,Carter
-Carter,C323,"Carter, L"
-"Carter, L",C324,"Carter, S"
-"Carter, S",C325,Carth
+Carter,C323,"Carter,L"
+"Carter,L",C324,"Carter,S"
+"Carter,S",C325,Carth
 Carth,C326,Carti
 Carti,C327,Carto
 Carto,C328,Cartw
 Cartw,C329,Carv
 Carv,C331,Cary
-Cary,C332,"Cary, M"
-"Cary, M",C333,Cas
+Cary,C332,"Cary,M"
+"Cary,M",C333,Cas
 Cas,C334,Casan
 Casan,C335,Casat
 Casat,C336,Case
@@ -1681,8 +1681,8 @@ Caut,C375,Cav
 Cav,C376,Cavall
 Cavall,C377,Cave
 Cave,C378,Caven
-Caven,C379,"Cavendish, L"
-"Cavendish, L",C381,Cavi
+Caven,C379,"Cavendish,L"
+"Cavendish,L",C381,Cavi
 Cavi,C382,Cavo
 Cavo,C383,Cax
 Cax,C384,Cay
@@ -1730,8 +1730,8 @@ Chalo,C439,Chalt
 Chalt,C441,Cham
 Cham,C442,Chamber
 Chamber,C443,Chambers
-Chambers,C444,"Chambers, M"
-"Chambers, M",C445,Chambo
+Chambers,C444,"Chambers,M"
+"Chambers,M",C445,Chambo
 Chambo,C446,Chambr
 Chambr,C447,Chami
 Chami,C448,Champ
@@ -1740,8 +1740,8 @@ Champe,C451,Champi
 Champi,C452,Champl
 Champl,C453,Chan
 Chan,C454,Chandl
-Chandl,C455,"Chandler, M"
-"Chandler, M",C456,Chanl
+Chandl,C455,"Chandler,M"
+"Chandler,M",C456,Chanl
 Chanl,C457,Chann
 Chann,C458,Chant
 Chant,C459,Chao
@@ -1758,9 +1758,9 @@ Chard,C471,Chare
 Chare,C472,Chari
 Chari,C473,Charl
 Charl,C474,Charles
-Charles,C475,"Charles, M"
-"Charles, M",C476,"Charles, S"
-"Charles, S",C477,Charlet
+Charles,C475,"Charles,M"
+"Charles,M",C476,"Charles,S"
+"Charles,S",C477,Charlet
 Charlet,C478,Charlo
 Charlo,C479,Charlt
 Charlt,C481,Charm
@@ -1826,8 +1826,8 @@ Christo,C556,Chro
 Chro,C557,Chry
 Chry,C558,Chu
 Chu,C559,Church
-Church,C561,"Church, M"
-"Church, M",C562,Churchill
+Church,C561,"Church,M"
+"Church,M",C562,Churchill
 Churchill,C563,Chut
 Chut,C564,Ci
 Ci,C565,Cian
@@ -1854,25 +1854,25 @@ Clan,C587,Clap
 Clap,C588,Clapp
 Clapp,C589,Clar
 Clar,C591,Clark
-Clark,C592,"Clark, G"
-"Clark, G",C593,"Clark, M"
-"Clark, M",C594,"Clark, S"
-"Clark, S",C595,"Clark, W"
-"Clark, W",C596,Clarke
-Clarke,C597,"Clarke, G"
-"Clarke, G",C598,"Clarke, M"
-"Clarke, M",C599,"Clarke, S"
-"Clarke, S",C611,"Clarke, W"
-"Clarke, W",C612,Clarks
+Clark,C592,"Clark,G"
+"Clark,G",C593,"Clark,M"
+"Clark,M",C594,"Clark,S"
+"Clark,S",C595,"Clark,W"
+"Clark,W",C596,Clarke
+Clarke,C597,"Clarke,G"
+"Clarke,G",C598,"Clarke,M"
+"Clarke,M",C599,"Clarke,S"
+"Clarke,S",C611,"Clarke,W"
+"Clarke,W",C612,Clarks
 Clarks,C613,Clary
 Clary,C614,Clau
 Clau,C615,Claus
 Claus,C616,Clav
 Clav,C617,Clax
 Clax,C618,Clay
-Clay,C619,"Clay, M"
-"Clay, M",C621,"Clay, T"
-"Clay, T",C622,Cle
+Clay,C619,"Clay,M"
+"Clay,M",C621,"Clay,T"
+"Clay,T",C622,Cle
 Cle,C623,Clee
 Clee,C624,Clem
 Clem,C625,Clement
@@ -1886,8 +1886,8 @@ Clerm,C633,Cles
 Cles,C634,Clev
 Clev,C635,Cli
 Cli,C636,Clif
-Clif,C637,"Clifford, M"
-"Clifford, M",C638,Clift
+Clif,C637,"Clifford,M"
+"Clifford,M",C638,Clift
 Clift,C639,Clin
 Clin,C641,Cliv
 Cliv,C642,Clo
@@ -1944,8 +1944,8 @@ Coll,C697,Collet
 Collet,C698,Colli
 Colli,C699,Colling
 Colling,C711,Collins
-Collins,C712,"Collins, S"
-"Collins, S",C713,Collo
+Collins,C712,"Collins,S"
+"Collins,S",C713,Collo
 Collo,C714,Colly
 Colly,C715,Colm
 Colm,C716,Coln
@@ -1998,13 +1998,13 @@ Conw,C767,Cony
 Cony,C768,Coo
 Coo,C769,Cook
 Cook,C771,Cooke
-Cooke,C772,"Cooke, M"
-"Cooke, M",C773,Cool
+Cooke,C772,"Cooke,M"
+"Cooke,M",C773,Cool
 Cool,C774,Coom
 Coom,C775,Coop
-Coop,C776,"Cooper, H"
-"Cooper, H",C777,"Cooper, O"
-"Cooper, O",C778,Coot
+Coop,C776,"Cooper,H"
+"Cooper,H",C777,"Cooper,O"
+"Cooper,O",C778,Coot
 Coot,C779,Cop
 Cop,C781,Cope
 Cope,C782,Copi
@@ -2084,8 +2084,8 @@ Cov,C873,Cow
 Cow,C874,Cowl
 Cowl,C875,Cowp
 Cowp,C876,Cox
-Cox,C877,"Cox, R"
-"Cox, R",C878,Coxe
+Cox,C877,"Cox,R"
+"Cox,R",C878,Coxe
 Coxe,C879,Coy
 Coy,C881,Coz
 Coz,C882,Cr
@@ -2166,13 +2166,13 @@ Cup,C974,Cur
 Cur,C975,Curr
 Curr,C976,Curs
 Curs,C977,Curt
-Curt,C978,"Curtis, J"
-"Curtis, J",C979,"Curtis, P"
-"Curtis, P",C981,Curw
+Curt,C978,"Curtis,J"
+"Curtis,J",C979,"Curtis,P"
+"Curtis,P",C981,Curw
 Curw,C982,Curz
 Curz,C983,Cus
-Cus,C984,"Cushing, M"
-"Cushing, M",C985,Cushm
+Cus,C984,"Cushing,M"
+"Cushing,M",C985,Cushm
 Cushm,C986,Cust
 Cust,C987,Cut
 Cut,C988,Cutl
@@ -2237,10 +2237,10 @@ Damo,D163,Damop
 Damop,D164,Damp
 Damp,D165,Dampi
 Dampi,D166,Dan
-Dan,D167,"Dana, H"
-"Dana, H",D168,"Dana, M"
-"Dana, M",D169,"Dana, S"
-"Dana, S",D171,Danb
+Dan,D167,"Dana,H"
+"Dana,H",D168,"Dana,M"
+"Dana,M",D169,"Dana,S"
+"Dana,S",D171,Danb
 Danb,D172,Danc
 Danc,D173,Danck
 Danck,D174,Danco
@@ -2304,36 +2304,36 @@ Davenp,D247,Daves
 Daves,D248,Davi
 Davi,D249,Davids
 Davids,D251,Davidson
-Davidson,D252,"Davidson, M"
-"Davidson, M",D253,Davie
+Davidson,D252,"Davidson,M"
+"Davidson,M",D253,Davie
 Davie,D254,Davies
-Davies,D255,"Davies, J"
-"Davies, J",D256,"Davies, P"
-"Davies, P",D257,Davig
+Davies,D255,"Davies,J"
+"Davies,J",D256,"Davies,P"
+"Davies,P",D257,Davig
 Davig,D258,Davil
 Davil,D259,Davis
-Davis,D261,"Davis, H"
-"Davis, H",D262,"Davis, M"
-"Davis, M",D263,"Davis, S"
-"Davis, S",D264,"Davis, W"
-"Davis, W",D265,Davo
+Davis,D261,"Davis,H"
+"Davis,H",D262,"Davis,M"
+"Davis,M",D263,"Davis,S"
+"Davis,S",D264,"Davis,W"
+"Davis,W",D265,Davo
 Davo,D266,Davr
 Davr,D267,Davy
 Davy,D268,Daw
 Daw,D269,Dawk
 Dawk,D271,Daws
 Daws,D272,Day
-Day,D273,"Day, J"
-"Day, J",D274,"Day, S"
-"Day, S",D275,Dayt
+Day,D273,"Day,J"
+"Day,J",D274,"Day,S"
+"Day,S",D275,Dayt
 Dayt,D276,Daz
 Daz,D277,De
 De,D278,Deal
 Deal,D279,Dean
-Dean,D281,"Dean, M"
-"Dean, M",D282,Deane
-Deane,D283,"Deane, M"
-"Deane, M",D284,Dear
+Dean,D281,"Dean,M"
+"Dean,M",D282,Deane
+Deane,D283,"Deane,M"
+"Deane,M",D284,Dear
 Dear,D285,Deb
 Deb,D286,Debo
 Debo,D287,Debr
@@ -2444,8 +2444,8 @@ Depp,D423,Depr
 Depr,D424,Depu
 Depu,D425,Deq
 Deq,D426,Der
-Der,D427,"Derby, M"
-"Derby, M",D428,Derc
+Der,D427,"Derby,M"
+"Derby,M",D428,Derc
 Derc,D429,Dere
 Dere,D431,Derh
 Derh,D432,Deri
@@ -2520,12 +2520,12 @@ Dewes,D517,Dewet
 Dewet,D518,Dewey
 Dewey,D519,Dewi
 Dewi,D521,Dewitt
-Dewitt,D522,"Dewitt, M"
-"Dewitt, M",D523,Dewl
+Dewitt,D522,"Dewitt,M"
+"Dewitt,M",D523,Dewl
 Dewl,D524,Dex
 Dex,D525,Dext
-Dext,D526,"Dexter, M"
-"Dexter, M",D527,Dey
+Dext,D526,"Dexter,M"
+"Dexter,M",D527,Dey
 Dey,D528,Deyn
 Deyn,D529,Deys
 Deys,D531,Dez
@@ -2621,8 +2621,8 @@ Dodd,D639,Doddr
 Doddr,D641,Dodds
 Dodds,D642,Dode
 Dode,D643,Dodg
-Dodg,D644,"Dodge, M"
-"Dodge, M",D645,Dodi
+Dodg,D644,"Dodge,M"
+"Dodge,M",D645,Dodi
 Dodi,D646,Dods
 Dods,D647,Dodw
 Dodw,D648,Doe
@@ -2692,11 +2692,11 @@ Douc,D728,Doue
 Doue,D729,Doug
 Doug,D731,Dough
 Dough,D732,Dougl
-Dougl,D733,"Douglas, G"
-"Douglas, G",D734,"Douglas, M"
-"Douglas, M",D735,"Douglas, S"
-"Douglas, S",D736,"Douglas, W"
-"Douglas, W",D737,Doul
+Dougl,D733,"Douglas,G"
+"Douglas,G",D734,"Douglas,M"
+"Douglas,M",D735,"Douglas,S"
+"Douglas,S",D736,"Douglas,W"
+"Douglas,W",D737,Doul
 Doul,D738,Dour
 Dour,D739,Dous
 Dous,D741,Douv
@@ -2717,12 +2717,12 @@ Dr,D756,Drac
 Drac,D757,Drae
 Drae,D758,Drag
 Drag,D759,Drak
-Drak,D761,"Drake, M"
-"Drake, M",D762,"Drake, S"
-"Drake, S",D763,Dran
+Drak,D761,"Drake,M"
+"Drake,M",D762,"Drake,S"
+"Drake,S",D763,Dran
 Dran,D764,Drap
-Drap,D765,"Draper, M"
-"Draper, M",D766,Drapp
+Drap,D765,"Draper,M"
+"Draper,M",D766,Drapp
 Drapp,D767,Dray
 Dray,D768,Drayt
 Drayt,D769,Dre
@@ -2757,8 +2757,8 @@ Drys,D811,Du
 Du,D812,Dub
 Dub,D813,Dube
 Dube,D814,Dubo
-Dubo,D815,"Dubois, M"
-"Dubois, M",D816,Dubos
+Dubo,D815,"Dubois,M"
+"Dubois,M",D816,Dubos
 Dubos,D817,Dubou
 Dubou,D818,Dubr
 Dubr,D819,Dubu
@@ -2786,9 +2786,9 @@ Ducro,D843,Dud
 Dud,D844,Dude
 Dude,D845,Dudi
 Dudi,D846,Dudl
-Dudl,D847,"Dudley, L"
-"Dudley, L",D848,"Dudley, S"
-"Dudley, S",D849,Dudo
+Dudl,D847,"Dudley,L"
+"Dudley,L",D848,"Dudley,S"
+"Dudley,S",D849,Dudo
 Dudo,D851,Due
 Due,D852,Duer
 Duer,D853,Duf
@@ -2832,10 +2832,10 @@ Dumor,D894,Dumou
 Dumou,D895,Dumour
 Dumour,D896,Dun
 Dun,D897,Dunb
-Dunb,D898,"Dunbar, M"
-"Dunbar, M",D899,Dunc
-Dunc,D911,"Duncan, M"
-"Duncan, M",D912,Dunco
+Dunb,D898,"Dunbar,M"
+"Dunbar,M",D899,Dunc
+Dunc,D911,"Duncan,M"
+"Duncan,M",D912,Dunco
 Dunco,D913,Dund
 Dund,D914,Dundo
 Dundo,D915,Dung
@@ -2868,8 +2868,8 @@ Dupu,D944,Dupuy
 Dupuy,D945,Duq
 Duq,D946,Dur
 Dur,D947,Duran
-Duran,D948,"Durand, M"
-"Durand, M",D949,Durant
+Duran,D948,"Durand,M"
+"Durand,M",D949,Durant
 Durant,D951,Duras
 Duras,D952,Duraz
 Duraz,D953,Durd
@@ -2906,9 +2906,9 @@ Duvet,D986,Duvi
 Duvi,D987,Duy
 Duy,D988,Dw
 Dw,D989,Dwi
-Dwi,D991,"Dwight, J"
-"Dwight, J",D992,"Dwight, S"
-"Dwight, S",D993,Dy
+Dwi,D991,"Dwight,J"
+"Dwight,J",D992,"Dwight,S"
+"Dwight,S",D993,Dy
 Dy,D994,Dye
 Dye,D995,Dyer
 Dyer,D996,Dym
@@ -3046,10 +3046,10 @@ Fain,F162,Fair
 Fair,F163,Fairban
 Fairban,F164,Fairc
 Fairc,F165,Fairf
-Fairf,F166,"Fairfax, M"
-"Fairfax, M",F167,Fairfie
-Fairfie,F168,"Fairfield, M"
-"Fairfield, M",F169,Fairh
+Fairf,F166,"Fairfax,M"
+"Fairfax,M",F167,Fairfie
+Fairfie,F168,"Fairfield,M"
+"Fairfield,M",F169,Fairh
 Fairh,F171,Fairl
 Fairl,F172,Fais
 Fais,F173,Fait
@@ -3060,8 +3060,8 @@ Fal,F177,Falc
 Falc,F178,Falck
 Falck,F179,Falco
 Falco,F181,Falcone
-Falcone,F182,"Falconer, M"
-"Falconer, M",F183,Falconet
+Falcone,F182,"Falconer,M"
+"Falconer,M",F183,Falconet
 Falconet,F184,Falcu
 Falcu,F185,Fald
 Fald,F186,Fale
@@ -3095,19 +3095,19 @@ Faring,F226,Farini
 Farini,F227,Faris
 Faris,F228,Farj
 Farj,F229,Farl
-Farl,F231,"Farley, M"
-"Farley, M",F232,Farm
-Farm,F233,"Farmer, M"
-"Farmer, M",F234,Farn
+Farl,F231,"Farley,M"
+"Farley,M",F232,Farm
+Farm,F233,"Farmer,M"
+"Farmer,M",F234,Farn
 Farn,F235,Farnh
 Farnh,F236,Faro
 Faro,F237,Farq
 Farq,F238,Farr
 Farr,F239,Farran
 Farran,F241,Farrar
-Farrar,F242,"Farrar, J"
-"Farrar, J",F243,"Farrar, S"
-"Farrar, S",F244,Farre
+Farrar,F242,"Farrar,J"
+"Farrar,J",F243,"Farrar,S"
+"Farrar,S",F244,Farre
 Farre,F245,Farri
 Farri,F246,Fars
 Fars,F247,Fas
@@ -3173,8 +3173,8 @@ Fellow,F322,Felo
 Felo,F323,Fels
 Fels,F324,Felt
 Felt,F325,Felto
-Felto,F326,"Felton, M"
-"Felton, M",F327,Feltr
+Felto,F326,"Felton,M"
+"Felton,M",F327,Feltr
 Feltr,F328,Felv
 Felv,F329,Fen
 Fen,F331,Fene
@@ -3196,8 +3196,8 @@ Ferd,F347,Ferdo
 Ferdo,F348,Fere
 Fere,F349,Ferg
 Ferg,F351,Fergu
-Fergu,F352,"Ferguson, M"
-"Ferguson, M",F353,Ferguss
+Fergu,F352,"Ferguson,M"
+"Ferguson,M",F353,Ferguss
 Ferguss,F354,Ferh
 Ferh,F355,Feri
 Feri,F356,Ferl
@@ -3243,8 +3243,8 @@ Ferry,F399,Fert
 Fert,F411,Feru
 Feru,F412,Fes
 Fes,F413,Fessen
-Fessen,F414,"Fessenden, M"
-"Fessenden, M",F415,Fessi
+Fessen,F414,"Fessenden,M"
+"Fessenden,M",F415,Fessi
 Fessi,F416,Fessl
 Fessl,F417,Fest
 Fest,F418,Fet
@@ -3278,16 +3278,16 @@ Fico,F448,Fid
 Fid,F449,Fide
 Fide,F451,Fie
 Fie,F452,Field
-Field,F453,"Field, H"
-"Field, H",F454,"Field, M"
-"Field, M",F455,"Field, S"
-"Field, S",F456,"Field, W"
-"Field, W",F457,Fielde
+Field,F453,"Field,H"
+"Field,H",F454,"Field,M"
+"Field,M",F455,"Field,S"
+"Field,S",F456,"Field,W"
+"Field,W",F457,Fielde
 Fielde,F458,Fieldi
 Fieldi,F459,Fields
-Fields,F461,"Fields, J"
-"Fields, J",F462,"Fields, S"
-"Fields, S",F463,Fien
+Fields,F461,"Fields,J"
+"Fields,J",F462,"Fields,S"
+"Fields,S",F463,Fien
 Fien,F464,Fier
 Fier,F465,Fies
 Fies,F466,Fiesco
@@ -3341,26 +3341,26 @@ Fis,F528,Fische
 Fische,F529,Fise
 Fise,F531,Fish
 Fish,F532,Fisher
-Fisher,F533,"Fisher, J"
-"Fisher, J",F534,"Fisher, M"
-"Fisher, M",F535,"Fisher, S"
-"Fisher, S",F536,"Fisher, W"
-"Fisher, W",F537,Fisk
-Fisk,F538,"Fisk, M"
-"Fisk, M",F539,Fiske
-Fiske,F541,"Fiske, M"
-"Fiske, M",F542,Fiss
+Fisher,F533,"Fisher,J"
+"Fisher,J",F534,"Fisher,M"
+"Fisher,M",F535,"Fisher,S"
+"Fisher,S",F536,"Fisher,W"
+"Fisher,W",F537,Fisk
+Fisk,F538,"Fisk,M"
+"Fisk,M",F539,Fiske
+Fiske,F541,"Fiske,M"
+"Fiske,M",F542,Fiss
 Fiss,F543,Fit
-Fit,F544,"Fitch, J"
-"Fitch, J",F545,"Fitch, S"
-"Fitch, S",F546,Fitt
+Fit,F544,"Fitch,J"
+"Fitch,J",F545,"Fitch,S"
+"Fitch,S",F546,Fitt
 Fitt,F547,Fitz
 Fitz,F548,Fitza
 Fitza,F549,Fitzb
 Fitzb,F551,Fitzc
 Fitzc,F552,Fitzg
-Fitzg,F553,"Fitzgerald, M"
-"Fitzgerald, M",F554,Fitzh
+Fitzg,F553,"Fitzgerald,M"
+"Fitzgerald,M",F554,Fitzh
 Fitzh,F555,Fitzj
 Fitzj,F556,Fitzm
 Fitzm,F557,Fitzn
@@ -3399,23 +3399,23 @@ Fle,F593,Flee
 Flee,F594,Fleetw
 Fleetw,F595,Flei
 Flei,F596,Flem
-Flem,F597,"Fleming, M"
-"Fleming, M",F598,Flemm
+Flem,F597,"Fleming,M"
+"Fleming,M",F598,Flemm
 Flemm,F599,Fles
 Fles,F611,Flet
-Flet,F612,"Fletcher, J"
-"Fletcher, J",F613,"Fletcher, P"
-"Fletcher, P",F614,"Fletcher, S"
-"Fletcher, S",F615,Fleu
+Flet,F612,"Fletcher,J"
+"Fletcher,J",F613,"Fletcher,P"
+"Fletcher,P",F614,"Fletcher,S"
+"Fletcher,S",F615,Fleu
 Fleu,F616,Fleuri
 Fleuri,F617,Fleury
 Fleury,F618,Flex
 Flex,F619,Fli
 Fli,F621,Flin
 Flin,F622,Flint
-Flint,F623,"Flint, J"
-"Flint, J",F624,"Flint, S"
-"Flint, S",F625,Flip
+Flint,F623,"Flint,J"
+"Flint,J",F624,"Flint,S"
+"Flint,S",F625,Flip
 Flip,F626,Flit
 Flit,F627,Flo
 Flo,F628,Flog
@@ -3472,18 +3472,18 @@ Fonti,F684,Fontr
 Fontr,F685,Foo
 Foo,F686,Foot
 Foot,F687,Foote
-Foote,F688,"Foote, M"
-"Foote, M",F689,Fop
+Foote,F688,"Foote,M"
+"Foote,M",F689,Fop
 Fop,F691,For
-For,F692,"Forbes, H"
-"Forbes, H",F693,"Forbes, M"
-"Forbes, M",F694,"Forbes, S"
-"Forbes, S",F695,Forbi
+For,F692,"Forbes,H"
+"Forbes,H",F693,"Forbes,M"
+"Forbes,M",F694,"Forbes,S"
+"Forbes,S",F695,Forbi
 Forbi,F696,Forc
 Forc,F697,Forch
 Forch,F698,Ford
-Ford,F699,"Ford, M"
-"Ford, M",F711,Fordh
+Ford,F699,"Ford,M"
+"Ford,M",F711,Fordh
 Fordh,F712,Fordy
 Fordy,F713,Fore
 Fore,F714,Forem
@@ -3499,12 +3499,12 @@ Forman,F724,Forme
 Forme,F725,Formo
 Formo,F726,Forn
 Forn,F727,Forr
-Forr,F728,"Forrest, M"
-"Forrest, M",F729,Forrester
+Forr,F728,"Forrest,M"
+"Forrest,M",F729,Forrester
 Forrester,F731,Fors
 Fors,F732,Forst
-Forst,F733,"Forster, M"
-"Forster, M",F734,Forsy
+Forst,F733,"Forster,M"
+"Forster,M",F734,Forsy
 Forsy,F735,Fort
 Fort,F736,Forte
 Forte,F737,Fortes
@@ -3522,11 +3522,11 @@ Fosg,F749,Foss
 Foss,F751,Fosse
 Fosse,F752,Fost
 Fost,F753,Foster
-Foster,F754,"Foster, H"
-"Foster, H",F755,"Foster, M"
-"Foster, M",F756,"Foster, S"
-"Foster, S",F757,"Foster, W"
-"Foster, W",F758,Fot
+Foster,F754,"Foster,H"
+"Foster,H",F755,"Foster,M"
+"Foster,M",F756,"Foster,S"
+"Foster,S",F757,"Foster,W"
+"Foster,W",F758,Fot
 Fot,F759,Fother
 Fother,F761,Fou
 Fou,F762,Fouch
@@ -3550,15 +3550,15 @@ Fourq,F781,Fout
 Fout,F782,Fov
 Fov,F783,Fow
 Fow,F784,Fowl
-Fowl,F785,"Fowler, H"
-"Fowler, H",F786,"Fowler, M"
-"Fowler, M",F787,"Fowler, S"
-"Fowler, S",F788,"Fowler, W"
-"Fowler, W",F789,Fox
-Fox,F791,"Fox, H"
-"Fox, H",F792,"Fox, M"
-"Fox, M",F793,"Fox, S"
-"Fox, S",F794,Foxe
+Fowl,F785,"Fowler,H"
+"Fowler,H",F786,"Fowler,M"
+"Fowler,M",F787,"Fowler,S"
+"Fowler,S",F788,"Fowler,W"
+"Fowler,W",F789,Fox
+Fox,F791,"Fox,H"
+"Fox,H",F792,"Fox,M"
+"Fox,M",F793,"Fox,S"
+"Fox,S",F794,Foxe
 Foxe,F795,Foy
 Foy,F796,Fr
 Fr,F797,Frach
@@ -3571,8 +3571,8 @@ Fran,F814,France
 France,F815,Franch
 Franch,F816,Franci
 Franci,F817,Francis
-Francis,F818,"Francis, M"
-"Francis, M",F819,Franciu
+Francis,F818,"Francis,M"
+"Francis,M",F819,Franciu
 Franciu,F821,Franck
 Franck,F822,Francke
 Francke,F823,Franckl
@@ -3582,17 +3582,17 @@ Francon,F826,Frang
 Frang,F827,Frank
 Frank,F828,Franke
 Franke,F829,Frankl
-Frankl,F831,"Franklin, H"
-"Franklin, H",F832,"Franklin, M"
-"Franklin, M",F833,"Franklin, S"
-"Franklin, S",F834,Franq
+Frankl,F831,"Franklin,H"
+"Franklin,H",F832,"Franklin,M"
+"Franklin,M",F833,"Franklin,S"
+"Franklin,S",F834,Franq
 Franq,F835,Frant
 Frant,F836,Franz
 Franz,F837,Frap
 Frap,F838,Frar
 Frar,F839,Fras
-Fras,F841,"Fraser, M"
-"Fraser, M",F842,Frass
+Fras,F841,"Fraser,M"
+"Fraser,M",F842,Frass
 Frass,F843,Frat
 Frat,F844,Frau
 Frau,F845,Frav
@@ -3620,11 +3620,11 @@ Frel,F868,Frem
 Frem,F869,Fremi
 Fremi,F871,Fremo
 Fremo,F872,Fren
-Fren,F873,"French, H"
-"French, H",F874,"French, M"
-"French, M",F875,"French, S"
-"French, S",F876,"French, W"
-"French, W",F877,Frend
+Fren,F873,"French,H"
+"French,H",F874,"French,M"
+"French,M",F875,"French,S"
+"French,S",F876,"French,W"
+"French,W",F877,Frend
 Frend,F878,Freni
 Freni,F879,Frer
 Frer,F881,Freret
@@ -3677,8 +3677,8 @@ Frou,F942,Frow
 Frow,F943,Fru
 Fru,F944,Frun
 Frun,F945,Fry
-Fry,F946,"Fry, M"
-"Fry, M",F947,Frye
+Fry,F946,"Fry,M"
+"Fry,M",F947,Frye
 Frye,F948,Fu
 Fu,F949,Fuchs
 Fuchs,F951,Fud
@@ -3694,11 +3694,11 @@ Fui,F961,Ful
 Ful,F962,Fulg
 Fulg,F963,Fulk
 Fulk,F964,Full
-Full,F965,"Fuller, H"
-"Fuller, H",F966,"Fuller, M"
-"Fuller, M",F967,"Fuller, S"
-"Fuller, S",F968,"Fuller, W"
-"Fuller, W",F969,Fullert
+Full,F965,"Fuller,H"
+"Fuller,H",F966,"Fuller,M"
+"Fuller,M",F967,"Fuller,S"
+"Fuller,S",F968,"Fuller,W"
+"Fuller,W",F969,Fullert
 Fullert,F971,Fullo
 Fullo,F972,Fulm
 Fulm,F973,Fult
@@ -3746,8 +3746,8 @@ Gae,G127,Gaer
 Gaer,G128,Gaet
 Gaet,G129,Gaf
 Gaf,G131,Gag
-Gag,G132,"Gage, M"
-"Gage, M",G133,Gagi
+Gag,G132,"Gage,M"
+"Gage,M",G133,Gagi
 Gagi,G134,Gagl
 Gagl,G135,Gago
 Gago,G136,Gai
@@ -3763,8 +3763,8 @@ Gal,G146,Galau
 Galau,G147,Galb
 Galb,G148,Gald
 Gald,G149,Gale
-Gale,G151,"Gale, M"
-"Gale, M",G152,Galen
+Gale,G151,"Gale,M"
+"Gale,M",G152,Galen
 Galen,G153,Galer
 Galer,G154,Galf
 Galf,G155,Gali
@@ -3817,14 +3817,14 @@ Garci,G216,Gard
 Gard,G217,Garde
 Garde,G218,Gardi
 Gardi,G219,Gardiner
-Gardiner,G221,"Gardiner, H"
-"Gardiner, H",G222,"Gardiner, M"
-"Gardiner, M",G223,"Gardiner, S"
-"Gardiner, S",G224,Gardn
+Gardiner,G221,"Gardiner,H"
+"Gardiner,H",G222,"Gardiner,M"
+"Gardiner,M",G223,"Gardiner,S"
+"Gardiner,S",G224,Gardn
 Gardn,G225,Gardner
-Gardner,G226,"Gardner, H"
-"Gardner, H",G227,"Gardner, P"
-"Gardner, P",G228,Gare
+Gardner,G226,"Gardner,H"
+"Gardner,H",G227,"Gardner,P"
+"Gardner,P",G228,Gare
 Gare,G229,Garf
 Garf,G231,Gari
 Gari,G232,Garl
@@ -3922,16 +3922,16 @@ Geof,G343,Geoffri
 Geoffri,G344,Geoffro
 Geoffro,G345,Geor
 Geor,G346,George
-George,G347,"George, H"
-"George, H",G348,"George, S"
-"George, S",G349,Georges
+George,G347,"George,H"
+"George,H",G348,"George,S"
+"George,S",G349,Georges
 Georges,G351,Georgi
 Georgi,G352,Gep
 Gep,G353,Ger
 Ger,G354,Geran
 Geran,G355,Gerar
-Gerar,G356,"Gerard, M"
-"Gerard, M",G357,Gerardi
+Gerar,G356,"Gerard,M"
+"Gerard,M",G357,Gerardi
 Gerardi,G358,Gerau
 Gerau,G359,Gerb
 Gerb,G361,Gerber
@@ -3998,15 +3998,15 @@ Gib,G437,Gibbe
 Gibbe,G438,Gibbo
 Gibbo,G439,Gibbons
 Gibbons,G441,Gibbs
-Gibbs,G442,"Gibbs, H"
-"Gibbs, H",G443,"Gibbs, S"
-"Gibbs, S",G444,Gibe
+Gibbs,G442,"Gibbs,H"
+"Gibbs,H",G443,"Gibbs,S"
+"Gibbs,S",G444,Gibe
 Gibe,G445,Gibi
 Gibi,G446,Gibn
 Gibn,G447,Gibs
-Gibs,G448,"Gibson, H"
-"Gibson, H",G449,"Gibson, S"
-"Gibson, S",G451,Gic
+Gibs,G448,"Gibson,H"
+"Gibson,H",G449,"Gibson,S"
+"Gibson,S",G451,Gic
 Gic,G452,Gid
 Gid,G453,Gie
 Gie,G454,Gies
@@ -4018,9 +4018,9 @@ Gig,G459,Gigo
 Gigo,G461,Gih
 Gih,G462,Gil
 Gil,G463,Gilbert
-Gilbert,G464,"Gilbert, J"
-"Gilbert, J",G465,"Gilbert, S"
-"Gilbert, S",G466,Gilc
+Gilbert,G464,"Gilbert,J"
+"Gilbert,J",G465,"Gilbert,S"
+"Gilbert,S",G466,Gilc
 Gilc,G467,Gild
 Gild,G468,Gildo
 Gildo,G469,Gile
@@ -4057,8 +4057,8 @@ Giove,G513,Giovi
 Giovi,G514,Gir
 Gir,G515,Giral
 Giral,G516,Girar
-Girar,G517,"Girard, M"
-"Girard, M",G518,Girarde
+Girar,G517,"Girard,M"
+"Girard,M",G518,Girarde
 Girarde,G519,Girardi
 Girardi,G521,Girau
 Girau,G522,Giraul
@@ -4123,8 +4123,8 @@ Godk,G586,Godm
 Godm,G587,Godo
 Godo,G588,Godon
 Godon,G589,Godw
-Godw,G591,"Godwin, M"
-"Godwin, M",G592,Goe
+Godw,G591,"Godwin,M"
+"Godwin,M",G592,Goe
 Goe,G593,Goed
 Goed,G594,Goel
 Goel,G595,Goep
@@ -4171,17 +4171,17 @@ Gooden,G649,Goodf
 Goodf,G651,Goodh
 Goodh,G652,Goodm
 Goodm,G653,Goodr
-Goodr,G654,"Goodrich, M"
-"Goodrich, M",G655,Goodw
-Goodw,G656,"Goodwin, M"
-"Goodwin, M",G657,Goody
+Goodr,G654,"Goodrich,M"
+"Goodrich,M",G655,Goodw
+Goodw,G656,"Goodwin,M"
+"Goodwin,M",G657,Goody
 Goody,G658,Gook
 Gook,G659,Gor
 Gor,G661,Gordon
-Gordon,G662,"Gordon, G"
-"Gordon, G",G663,"Gordon, M"
-"Gordon, M",G664,"Gordon, S"
-"Gordon, S",G665,Gore
+Gordon,G662,"Gordon,G"
+"Gordon,G",G663,"Gordon,M"
+"Gordon,M",G664,"Gordon,S"
+"Gordon,S",G665,Gore
 Gore,G666,Gorg
 Gorg,G667,Gorh
 Gorh,G668,Gori
@@ -4209,9 +4209,9 @@ Gough,G692,Gouj
 Gouj,G693,Goul
 Goul,G694,Goulb
 Goulb,G695,Gould
-Gould,G696,"Gould, J"
-"Gould, J",G697,"Gould, S"
-"Gould, S",G698,Gouls
+Gould,G696,"Gould,J"
+"Gould,J",G697,"Gould,S"
+"Gould,S",G698,Gouls
 Gouls,G699,Goun
 Goun,G711,Goup
 Goup,G712,Gour
@@ -4238,10 +4238,10 @@ Grae,G734,Graes
 Graes,G735,Graf
 Graf,G736,Graft
 Graft,G737,Grah
-Grah,G738,"Graham, G"
-"Graham, G",G739,"Graham, M"
-"Graham, M",G741,"Graham, S"
-"Graham, S",G742,Grai
+Grah,G738,"Graham,G"
+"Graham,G",G739,"Graham,M"
+"Graham,M",G741,"Graham,S"
+"Graham,S",G742,Grai
 Grai,G743,Gral
 Gral,G744,Gram
 Gram,G745,Grammo
@@ -4258,9 +4258,9 @@ Grane,G756,Grang
 Grang,G757,Granger
 Granger,G758,Grani
 Grani,G759,Grant
-Grant,G761,"Grant, H"
-"Grant, H",G762,"Grant, S"
-"Grant, S",G763,Grantl
+Grant,G761,"Grant,H"
+"Grant,H",G762,"Grant,S"
+"Grant,S",G763,Grantl
 Grantl,G764,Granv
 Granv,G765,Grap
 Grap,G766,Gras
@@ -4274,11 +4274,11 @@ Grau,G774,Grav
 Grav,G775,Graves
 Graves,G776,Gravi
 Gravi,G777,Gray
-Gray,G778,"Gray, G"
-"Gray, G",G779,"Gray, M"
-"Gray, M",G781,"Gray, S"
-"Gray, S",G782,"Gray, W"
-"Gray, W",G783,Grays
+Gray,G778,"Gray,G"
+"Gray,G",G779,"Gray,M"
+"Gray,M",G781,"Gray,S"
+"Gray,S",G782,"Gray,W"
+"Gray,W",G783,Grays
 Grays,G784,Graz
 Graz,G785,Gre
 Gre,G786,Greav
@@ -4289,13 +4289,13 @@ Greco,G791,Gred
 Gred,G792,Gree
 Gree,G793,Greel
 Greel,G794,Green
-Green,G795,"Green, G"
-"Green, G",G796,"Green, M"
-"Green, M",G797,"Green, S"
-"Green, S",G798,Greene
-Greene,G799,"Greene, J"
-"Greene, J",G811,"Greene, S"
-"Greene, S",G812,Greenh
+Green,G795,"Green,G"
+"Green,G",G796,"Green,M"
+"Green,M",G797,"Green,S"
+"Green,S",G798,Greene
+Greene,G799,"Greene,J"
+"Greene,J",G811,"Greene,S"
+"Greene,S",G812,Greenh
 Greenh,G813,Greenl
 Greenl,G814,Greeno
 Greeno,G815,Greenw
@@ -4304,8 +4304,8 @@ Gref,G817,Greg
 Greg,G818,Gregg
 Gregg,G819,Gregori
 Gregori,G821,Gregory
-Gregory,G822,"Gregory, M"
-"Gregory, M",G823,Grei
+Gregory,G822,"Gregory,M"
+"Gregory,M",G823,Grei
 Grei,G824,Grel
 Grel,G825,Gren
 Gren,G826,Greni
@@ -4322,18 +4322,18 @@ Grev,G837,Grevi
 Grevi,G838,Grevy
 Grevy,G839,Grew
 Grew,G841,Grey
-Grey,G842,"Grey, G"
-"Grey, G",G843,"Grey, M"
-"Grey, M",G844,"Grey, S"
-"Grey, S",G845,Gri
+Grey,G842,"Grey,G"
+"Grey,G",G843,"Grey,M"
+"Grey,M",G844,"Grey,S"
+"Grey,S",G845,Gri
 Gri,G846,Grid
 Grid,G847,Grie
 Grie,G848,Grif
 Grif,G849,Griffin
-Griffin,G851,"Griffin, M"
-"Griffin, M",G852,Griffith
-Griffith,G853,"Griffith, M"
-"Griffith, M",G854,Griffiths
+Griffin,G851,"Griffin,M"
+"Griffin,M",G852,Griffith
+Griffith,G853,"Griffith,M"
+"Griffith,M",G854,Griffiths
 Griffiths,G855,Griffo
 Griffo,G856,Grig
 Grig,G857,Gril
@@ -4414,8 +4414,8 @@ Guie,G949,Guig
 Guig,G951,Guij
 Guij,G952,Guil
 Guil,G953,Guild
-Guild,G954,"Guild, M"
-"Guild, M",G955,Guile
+Guild,G954,"Guild,M"
+"Guild,M",G955,Guile
 Guile,G956,Guill
 Guill,G957,Guille
 Guille,G958,Guilli
@@ -4501,11 +4501,11 @@ Hakl,H156,Hal
 Hal,H157,Hald
 Hald,H158,Halde
 Halde,H159,Hale
-Hale,H161,"Hale, G"
-"Hale, G",H162,"Hale, M"
-"Hale, M",H163,"Hale, S"
-"Hale, S",H164,"Hale, W"
-"Hale, W",H165,Halen
+Hale,H161,"Hale,G"
+"Hale,G",H162,"Hale,M"
+"Hale,M",H163,"Hale,S"
+"Hale,S",H164,"Hale,W"
+"Hale,W",H165,Halen
 Halen,H166,Hales
 Hales,H167,Halet
 Halet,H168,Half
@@ -4513,13 +4513,13 @@ Half,H169,Halh
 Halh,H171,Hali
 Hali,H172,Halif
 Halif,H173,Hall
-Hall,H174,"Hall, D"
-"Hall, D",H175,"Hall, G"
-"Hall, G",H176,"Hall, J"
-"Hall, J",H177,"Hall, M"
-"Hall, M",H178,"Hall, S"
-"Hall, S",H179,"Hall, W"
-"Hall, W",H181,Hallam
+Hall,H174,"Hall,D"
+"Hall,D",H175,"Hall,G"
+"Hall,G",H176,"Hall,J"
+"Hall,J",H177,"Hall,M"
+"Hall,M",H178,"Hall,S"
+"Hall,S",H179,"Hall,W"
+"Hall,W",H181,Hallam
 Hallam,H182,Halle
 Halle,H183,Hallec
 Hallec,H184,Haller
@@ -4543,23 +4543,23 @@ Hameli,H213,Hamer
 Hamer,H214,Hamert
 Hamert,H215,Hami
 Hami,H216,Hamil
-Hamil,H217,"Hamilton, G"
-"Hamilton, G",H218,"Hamilton, M"
-"Hamilton, M",H219,"Hamilton, S"
-"Hamilton, S",H221,"Hamilton, W"
-"Hamilton, W",H222,Haml
+Hamil,H217,"Hamilton,G"
+"Hamilton,G",H218,"Hamilton,M"
+"Hamilton,M",H219,"Hamilton,S"
+"Hamilton,S",H221,"Hamilton,W"
+"Hamilton,W",H222,Haml
 Haml,H223,Hamm
 Hamm,H224,Hammo
-Hammo,H225,"Hammond, G"
-"Hammond, G",H226,"Hammond, M"
-"Hammond, M",H227,Hamo
+Hammo,H225,"Hammond,G"
+"Hammond,G",H226,"Hammond,M"
+"Hammond,M",H227,Hamo
 Hamo,H228,Hamp
 Hamp,H229,Hamps
 Hamps,H231,Hampt
 Hampt,H232,Han
 Han,H233,Hanc
-Hanc,H234,"Hancock, M"
-"Hancock, M",H235,Hand
+Hanc,H234,"Hancock,M"
+"Hancock,M",H235,Hand
 Hand,H236,Hane
 Hane,H237,Hanf
 Hanf,H238,Hang
@@ -4589,13 +4589,13 @@ Hardinge,H264,Hardo
 Hardo,H265,Hardt
 Hardt,H266,Hardw
 Hardw,H267,Hardy
-Hardy,H268,"Hardy, G"
-"Hardy, G",H269,"Hardy, M"
-"Hardy, M",H271,"Hardy, S"
-"Hardy, S",H272,"Hardy, W"
-"Hardy, W",H273,Hare
-Hare,H274,"Hare, M"
-"Hare, M",H275,Haren
+Hardy,H268,"Hardy,G"
+"Hardy,G",H269,"Hardy,M"
+"Hardy,M",H271,"Hardy,S"
+"Hardy,S",H272,"Hardy,W"
+"Hardy,W",H273,Hare
+Hare,H274,"Hare,M"
+"Hare,M",H275,Haren
 Haren,H276,Harew
 Harew,H277,Harf
 Harf,H278,Harg
@@ -4611,30 +4611,30 @@ Harmo,H288,Harn
 Harn,H289,Harni
 Harni,H291,Haro
 Haro,H292,Harp
-Harp,H293,"Harper, G"
-"Harper, G",H294,"Harper, W"
-"Harper, W",H295,Harr
+Harp,H293,"Harper,G"
+"Harper,G",H294,"Harper,W"
+"Harper,W",H295,Harr
 Harr,H296,Harri
-Harri,H297,"Harriman, M"
-"Harriman, M",H298,Harrin
-Harrin,H299,"Harrington, M"
-"Harrington, M",H311,Harrio
+Harri,H297,"Harriman,M"
+"Harriman,M",H298,Harrin
+Harrin,H299,"Harrington,M"
+"Harrington,M",H311,Harrio
 Harrio,H312,Harris
-Harris,H313,"Harris, F"
-"Harris, F",H314,"Harris, M"
-"Harris, M",H315,"Harris, S"
-"Harris, S",H316,"Harris, W"
-"Harris, W",H317,Harrison
-Harrison,H318,"Harrison, F"
-"Harrison, F",H319,"Harrison, M"
-"Harrison, M",H321,"Harrison, S"
-"Harrison, S",H322,"Harrison, W"
-"Harrison, W",H323,Hars
+Harris,H313,"Harris,F"
+"Harris,F",H314,"Harris,M"
+"Harris,M",H315,"Harris,S"
+"Harris,S",H316,"Harris,W"
+"Harris,W",H317,Harrison
+Harrison,H318,"Harrison,F"
+"Harrison,F",H319,"Harrison,M"
+"Harrison,M",H321,"Harrison,S"
+"Harrison,S",H322,"Harrison,W"
+"Harrison,W",H323,Hars
 Hars,H324,Hart
-Hart,H325,"Hart, M"
-"Hart, M",H326,Harte
-Harte,H327,"Harte, M"
-"Harte, M",H328,Harti
+Hart,H325,"Hart,M"
+"Hart,M",H326,Harte
+Harte,H327,"Harte,M"
+"Harte,M",H328,Harti
 Harti,H329,Hartl
 Hartl,H331,Hartley
 Hartley,H332,Hartm
@@ -4645,8 +4645,8 @@ Hartu,H336,Hartw
 Hartw,H337,Hartz
 Hartz,H338,Harv
 Harv,H339,Harvey
-Harvey,H341,"Harvey, M"
-"Harvey, M",H342,Harw
+Harvey,H341,"Harvey,M"
+"Harvey,M",H342,Harw
 Harw,H343,Has
 Has,H344,Hasd
 Hasd,H345,Hase
@@ -4660,8 +4660,8 @@ Hass,H353,Hasse
 Hasse,H354,Hassel
 Hassel,H355,Hast
 Hast,H356,Hastings
-Hastings,H357,"Hastings, M"
-"Hastings, M",H358,Hasw
+Hastings,H357,"Hastings,M"
+"Hastings,M",H358,Hasw
 Hasw,H359,Hat
 Hat,H361,Hatf
 Hatf,H362,Hath
@@ -4685,28 +4685,28 @@ Hautem,H381,Hautp
 Hautp,H382,Hav
 Hav,H383,Havel
 Havel,H384,Haven
-Haven,H385,"Haven, M"
-"Haven, M",H386,Haver
+Haven,H385,"Haven,M"
+"Haven,M",H386,Haver
 Haver,H387,Havi
 Havi,H388,Haw
 Haw,H389,Hawes
 Hawes,H391,Hawk
 Hawk,H392,Hawkins
-Hawkins,H393,"Hawkins, M"
-"Hawkins, M",H394,Hawks
+Hawkins,H393,"Hawkins,M"
+"Hawkins,M",H394,Hawks
 Hawks,H395,Hawl
 Hawl,H396,Hawo
 Hawo,H397,Haws
 Haws,H398,Hawt
 Hawt,H399,Hax
 Hax,H411,Hay
-Hay,H412,"Hay, M"
-"Hay, M",H413,Hayden
-Hayden,H414,"Hayden, M"
-"Hayden, M",H415,Haydon
+Hay,H412,"Hay,M"
+"Hay,M",H413,Hayden
+Hayden,H414,"Hayden,M"
+"Hayden,M",H415,Haydon
 Haydon,H416,Haye
-Haye,H417,"Hayes, M"
-"Hayes, M",H418,Hayg
+Haye,H417,"Hayes,M"
+"Hayes,M",H418,Hayg
 Hayg,H419,Hayl
 Hayl,H421,Haym
 Haym,H422,Hayn
@@ -4723,8 +4723,8 @@ Headl,H433,Heal
 Heal,H434,Hear
 Hear,H435,Hearn
 Hearn,H436,Heat
-Heat,H437,"Heath, M"
-"Heath, M",H438,Heathc
+Heat,H437,"Heath,M"
+"Heath,M",H438,Heathc
 Heathc,H439,Heathe
 Heathe,H441,Heato
 Heato,H442,Heb
@@ -4776,8 +4776,8 @@ Hems,H492,Hen
 Hen,H493,Henc
 Henc,H494,Hend
 Hend,H495,Henderson
-Henderson,H496,"Henderson, M"
-"Henderson, M",H497,Hendr
+Henderson,H496,"Henderson,M"
+"Henderson,M",H497,Hendr
 Hendr,H498,Henf
 Henf,H499,Heng
 Heng,H511,Henk
@@ -4789,10 +4789,10 @@ Henni,H516,Hennin
 Hennin,H517,Henr
 Henr,H518,Henrio
 Henrio,H519,Henry
-Henry,H521,"Henry, M"
-"Henry, M",H523,"Henry, S"
-"Henry, S",H524,"Henry, W"
-"Henry, W",H525,HenryG
+Henry,H521,"Henry,M"
+"Henry,M",H523,"Henry,S"
+"Henry,S",H524,"Henry,W"
+"Henry,W",H525,HenryG
 HenryG,H522,Hens
 Hens,H526,Hent
 Hent,H527,Hentz
@@ -4803,8 +4803,8 @@ Herar,H532,Herau
 Herau,H533,Herb
 Herb,H534,Herber
 Herber,H535,Herbert
-Herbert,H536,"Herbert, M"
-"Herbert, M",H537,Herbi
+Herbert,H536,"Herbert,M"
+"Herbert,M",H537,Herbi
 Herbi,H538,Herc
 Herc,H539,Herd
 Herd,H541,Here
@@ -4841,8 +4841,8 @@ Hertf,H574,Herts
 Herts,H575,Hertz
 Hertz,H576,Herv
 Herv,H577,Hervey
-Hervey,H578,"Hervey, M"
-"Hervey, M",H579,Herw
+Hervey,H578,"Hervey,M"
+"Hervey,M",H579,Herw
 Herw,H581,Herz
 Herz,H582,Hes
 Hes,H583,Hese
@@ -4892,10 +4892,10 @@ Hil,H641,Hild
 Hild,H642,Hilder
 Hilder,H643,Hildr
 Hildr,H644,Hill
-Hill,H645,"Hill, G"
-"Hill, G",H646,"Hill, M"
-"Hill, M",H647,"Hill, S"
-"Hill, S",H648,Hilla
+Hill,H645,"Hill,G"
+"Hill,G",H646,"Hill,M"
+"Hill,M",H647,"Hill,S"
+"Hill,S",H648,Hilla
 Hilla,H649,Hille
 Hille,H651,Hiller
 Hiller,H652,Hillh
@@ -4931,8 +4931,8 @@ Hobs,H684,Hoc
 Hoc,H685,Hocq
 Hocq,H686,Hod
 Hod,H687,Hodg
-Hodg,H688,"Hodges, M"
-"Hodges, M",H689,Hodgs
+Hodg,H688,"Hodges,M"
+"Hodges,M",H689,Hodgs
 Hodgs,H691,Hods
 Hods,H692,Hoe
 Hoe,H693,Hoel
@@ -4941,8 +4941,8 @@ Hoes,H695,Hoey
 Hoey,H696,Hof
 Hof,H697,Hoff
 Hoff,H698,Hoffm
-Hoffm,H699,"Hoffman, M"
-"Hoffman, M",H711,Hofl
+Hoffm,H699,"Hoffman,M"
+"Hoffman,M",H711,Hofl
 Hofl,H712,Hofm
 Hofm,H713,Hog
 Hog,H714,Hogar
@@ -4963,24 +4963,24 @@ Hole,H729,Holg
 Holg,H731,Holi
 Holi,H732,Holl
 Holl,H733,Holland
-Holland,H734,"Holland, G"
-"Holland, G",H735,"Holland, M"
-"Holland, M",H736,"Holland, S"
-"Holland, S",H737,Holley
+Holland,H734,"Holland,G"
+"Holland,G",H735,"Holland,M"
+"Holland,M",H736,"Holland,S"
+"Holland,S",H737,Holley
 Holley,H738,Holli
 Holli,H739,Hollin
 Hollin,H741,Hollis
-Hollis,H742,"Hollis, M"
-"Hollis, M",H743,Hollist
+Hollis,H742,"Hollis,M"
+"Hollis,M",H743,Hollist
 Hollist,H744,Hollo
 Hollo,H745,Holly
 Holly,H746,Holm
 Holm,H747,Holme
 Holme,H748,Holmes
-Holmes,H749,"Holmes, G"
-"Holmes, G",H751,"Holmes, M"
-"Holmes, M",H752,"Holmes, S"
-"Holmes, S",H753,Holo
+Holmes,H749,"Holmes,G"
+"Holmes,G",H751,"Holmes,M"
+"Holmes,M",H752,"Holmes,S"
+"Holmes,S",H753,Holo
 Holo,H754,Holr
 Holr,H755,Hols
 Hols,H756,Holste
@@ -5001,25 +5001,25 @@ Hone,H772,Honi
 Honi,H773,Hono
 Hono,H774,Hont
 Hont,H775,Hoo
-Hoo,H776,"Hood, M"
-"Hood, M",H777,Hoof
+Hoo,H776,"Hood,M"
+"Hood,M",H777,Hoof
 Hoof,H778,Hoog
 Hoog,H779,Hook
 Hook,H781,Hooke
 Hooke,H782,Hooker
-Hooker,H783,"Hooker, M"
-"Hooker, M",H784,Hoop
-Hoop,H785,"Hooper, G"
-"Hooper, G",H786,"Hooper, M"
-"Hooper, M",H787,"Hooper, S"
-"Hooper, S",H788,Hoor
+Hooker,H783,"Hooker,M"
+"Hooker,M",H784,Hoop
+Hoop,H785,"Hooper,G"
+"Hooper,G",H786,"Hooper,M"
+"Hooper,M",H787,"Hooper,S"
+"Hooper,S",H788,Hoor
 Hoor,H789,Hop
 Hop,H791,Hopf
 Hopf,H792,Hopk
-Hopk,H793,"Hopkins, G"
-"Hopkins, G",H794,"Hopkins, M"
-"Hopkins, M",H795,"Hopkins, S"
-"Hopkins, S",H796,Hopkinson
+Hopk,H793,"Hopkins,G"
+"Hopkins,G",H794,"Hopkins,M"
+"Hopkins,M",H795,"Hopkins,S"
+"Hopkins,S",H796,Hopkinson
 Hopkinson,H797,Hopp
 Hopp,H798,Hopt
 Hopt,H799,Hor
@@ -5057,16 +5057,16 @@ Hout,H844,Hov
 Hov,H845,Hovey
 Hovey,H846,How
 How,H847,Howard
-Howard,H848,"Howard, G"
-"Howard, G",H849,"Howard, M"
-"Howard, M",H851,"Howard, S"
-"Howard, S",H852,"Howard, W"
-"Howard, W",H853,Howd
+Howard,H848,"Howard,G"
+"Howard,G",H849,"Howard,M"
+"Howard,M",H851,"Howard,S"
+"Howard,S",H852,"Howard,W"
+"Howard,W",H853,Howd
 Howd,H854,Howe
-Howe,H855,"Howe, G"
-"Howe, G",H856,"Howe, M"
-"Howe, M",H857,"Howe, S"
-"Howe, S",H858,Howel
+Howe,H855,"Howe,G"
+"Howe,G",H856,"Howe,M"
+"Howe,M",H857,"Howe,S"
+"Howe,S",H858,Howel
 Howel,H859,Howi
 Howi,H861,Howis
 Howis,H862,Howit
@@ -5076,13 +5076,13 @@ Howle,H865,Hows
 Hows,H866,Hox
 Hox,H871,Hoy
 Hoy,H867,Hoyt
-Hoyt,H868,"Hoyt, M"
-"Hoyt, M",H869,Hoz
+Hoyt,H868,"Hoyt,M"
+"Hoyt,M",H869,Hoz
 Hoz,H872,Hr
 Hr,H873,Hu
 Hu,H874,Hub
-Hub,H875,"Hubbard, M"
-"Hubbard, M",H876,Hube
+Hub,H875,"Hubbard,M"
+"Hubbard,M",H876,Hube
 Hube,H877,Hubert
 Hubert,H878,Hubn
 Hubn,H879,Hubs
@@ -5090,15 +5090,15 @@ Hubs,H881,Huc
 Huc,H882,Hud
 Hud,H883,Huddl
 Huddl,H884,Huds
-Huds,H885,"Hudson, M"
-"Hudson, M",H886,Hue
+Huds,H885,"Hudson,M"
+"Hudson,M",H886,Hue
 Hue,H887,Huet
 Huet,H888,Huf
 Huf,H889,Hug
 Hug,H891,Hugh
 Hugh,H892,Hughes
-Hughes,H893,"Hughes, M"
-"Hughes, M",H894,Hugo
+Hughes,H893,"Hughes,M"
+"Hughes,M",H894,Hugo
 Hugo,H895,Hugon
 Hugon,H896,Hugu
 Hugu,H897,Hugui
@@ -5113,8 +5113,8 @@ Hulo,H916,Huls
 Huls,H917,Hum
 Hum,H918,Humb
 Humb,H919,Hume
-Hume,H921,"Hume, M"
-"Hume, M",H922,Humf
+Hume,H921,"Hume,M"
+"Hume,M",H922,Humf
 Humf,H923,Humi
 Humi,H924,Humm
 Humm,H925,Hump
@@ -5130,26 +5130,26 @@ Hunf,H935,Hung
 Hung,H936,Huni
 Huni,H937,Hunn
 Hunn,H938,Hunt
-Hunt,H939,"Hunt, G"
-"Hunt, G",H941,"Hunt, M"
-"Hunt, M",H942,"Hunt, S"
-"Hunt, S",H943,Hunte
+Hunt,H939,"Hunt,G"
+"Hunt,G",H941,"Hunt,M"
+"Hunt,M",H942,"Hunt,S"
+"Hunt,S",H943,Hunte
 Hunte,H944,Hunter
-Hunter,H945,"Hunter, M"
-"Hunter, M",H946,"Hunter, S"
-"Hunter, S",H947,Hunting
+Hunter,H945,"Hunter,M"
+"Hunter,M",H946,"Hunter,S"
+"Hunter,S",H947,Hunting
 Hunting,H948,Huntington
-Huntington,H949,"Huntington, G"
-"Huntington, G",H951,"Huntington, M"
-"Huntington, M",H952,"Huntington, S"
-"Huntington, S",H953,Huntl
+Huntington,H949,"Huntington,G"
+"Huntington,G",H951,"Huntington,M"
+"Huntington,M",H952,"Huntington,S"
+"Huntington,S",H953,Huntl
 Huntl,H954,Hunto
 Hunto,H955,Hunts
 Hunts,H956,Huo
 Huo,H957,Hup
 Hup,H958,Hur
-Hur,H959,"Hurd, M"
-"Hurd, M",H961,Hurdi
+Hur,H959,"Hurd,M"
+"Hurd,M",H961,Hurdi
 Hurdi,H962,Hure
 Hure,H963,Huri
 Huri,H964,Hurl
@@ -5162,25 +5162,25 @@ Husk,H971,Huss
 Huss,H972,Hut
 Hut,H973,Hutchins
 Hutchins,H974,Hutchinson
-Hutchinson,H975,"Hutchinson, G"
-"Hutchinson, G",H976,"Hutchinson, M"
-"Hutchinson, M",H977,"Hutchinson, S"
-"Hutchinson, S",H978,Huth
+Hutchinson,H975,"Hutchinson,G"
+"Hutchinson,G",H976,"Hutchinson,M"
+"Hutchinson,M",H977,"Hutchinson,S"
+"Hutchinson,S",H978,Huth
 Huth,H979,Huti
 Huti,H981,Hutt
 Hutt,H982,Hutter
 Hutter,H983,Hutto
-Hutto,H984,"Hutton, M"
-"Hutton, M",H985,Hux
+Hutto,H984,"Hutton,M"
+"Hutton,M",H985,Hux
 Hux,H986,Huy
 Huy,H987,Huys
 Huys,H988,Huz
 Huz,H989,Hw
 Hw,H991,Hy
 Hy,H992,Hyde
-Hyde,H993,"Hyde, H"
-"Hyde, H",H994,"Hyde, P"
-"Hyde, P",H995,Hyl
+Hyde,H993,"Hyde,H"
+"Hyde,H",H994,"Hyde,P"
+"Hyde,P",H995,Hyl
 Hyl,H996,Hyn
 Hyn,H997,Hyp
 Hyp,H998,Hyr
@@ -5267,9 +5267,9 @@ Ix,I97,Iz
 Iz,I98,Izm
 Izm,I99,Ja
 Ja,J11,Jac
-Jac,J12,"Jackson, J"
-"Jackson, J",J13,"Jackson, S"
-"Jackson, S",J14,Jaco
+Jac,J12,"Jackson,J"
+"Jackson,J",J13,"Jackson,S"
+"Jackson,S",J14,Jaco
 Jaco,J15,Jacobi
 Jacobi,J16,Jacobs
 Jacobs,J17,Jacop
@@ -5281,9 +5281,9 @@ Jaf,J23,Jag
 Jag,J24,Jah
 Jah,J25,Jal
 Jal,J26,Jam
-Jam,J27,"James, M"
-"James, M",J28,"James, S"
-"James, S",J29,Jameso
+Jam,J27,"James,M"
+"James,M",J28,"James,S"
+"James,S",J29,Jameso
 Jameso,J31,Jami
 Jami,J32,Jan
 Jan,J33,Jann
@@ -5315,19 +5315,19 @@ Jo,J62,Joc
 Joc,J63,Joe
 Joe,J64,Joh
 Joh,J65,Johnso
-Johnso,J66,"Johnson, G"
-"Johnson, G",J67,"Johnson, M"
-"Johnson, M",J68,"Johnson, S"
-"Johnson, S",J69,"Johnson, W"
-"Johnson, W",J71,Johnst
-Johnst,J72,"Johnston, M"
-"Johnston, M",J73,Joi
+Johnso,J66,"Johnson,G"
+"Johnson,G",J67,"Johnson,M"
+"Johnson,M",J68,"Johnson,S"
+"Johnson,S",J69,"Johnson,W"
+"Johnson,W",J71,Johnst
+Johnst,J72,"Johnston,M"
+"Johnston,M",J73,Joi
 Joi,J74,Jol
 Jol,J75,Jon
-Jon,J76,"Jones, G"
-"Jones, G",J77,"Jones, M"
-"Jones, M",J78,"Jones, S"
-"Jones, S",J79,Jons
+Jon,J76,"Jones,G"
+"Jones,G",J77,"Jones,M"
+"Jones,M",J78,"Jones,S"
+"Jones,S",J79,Jons
 Jons,J81,Jor
 Jor,J82,Jos
 Jos,J83,Joss
@@ -5368,8 +5368,8 @@ Kem,K31,Kemp
 Kemp,K32,Ken
 Ken,K33,Kenn
 Kenn,K34,Kennedy
-Kennedy,K35,"Kennedy, M"
-"Kennedy, M",K36,Kent
+Kennedy,K35,"Kennedy,M"
+"Kennedy,M",K36,Kent
 Kent,K37,Kep
 Kep,K38,Ker
 Ker,K39,Kerr
@@ -5383,9 +5383,9 @@ Kie,K47,Kil
 Kil,K48,Kim
 Kim,K49,Kin
 Kin,K51,King
-King,K52,"King, J"
-"King, J",K53,"King, P"
-"King, P",K54,Kings
+King,K52,"King,J"
+"King,J",K53,"King,P"
+"King,P",K54,Kings
 Kings,K55,Kins
 Kins,K56,Kip
 Kip,K57,Kir
@@ -5399,8 +5399,8 @@ Kli,K65,Klo
 Klo,K66,Kn
 Kn,K67,Kne
 Kne,K68,Kni
-Kni,K69,"Knight, M"
-"Knight, M",K71,Kno
+Kni,K69,"Knight,M"
+"Knight,M",K71,Kno
 Kno,K72,Know
 Know,K73,Knox
 Knox,K74,Ko
@@ -5538,8 +5538,8 @@ Lampr,L239,Lams
 Lams,L241,Lamy
 Lamy,L242,Lan
 Lan,L243,Lanc
-Lanc,L244,"Lancaster, M"
-"Lancaster, M",L245,Lance
+Lanc,L244,"Lancaster,M"
+"Lancaster,M",L245,Lance
 Lance,L246,Lancel
 Lancel,L247,Lancey
 Lancey,L248,Lanci
@@ -5557,12 +5557,12 @@ Landor,L261,Landr
 Landr,L262,Lands
 Lands,L263,Landu
 Landu,L264,Lane
-Lane,L265,"Lane, M"
-"Lane, M",L266,Laneh
+Lane,L265,"Lane,M"
+"Lane,M",L266,Laneh
 Laneh,L267,Lanf
 Lanf,L268,Lang
-Lang,L269,"Lang, M"
-"Lang, M",L271,Langd
+Lang,L269,"Lang,M"
+"Lang,M",L271,Langd
 Langd,L272,Langdo
 Langdo,L273,Lange
 Lange,L274,Langen
@@ -5627,9 +5627,9 @@ Lassu,L348,Last
 Last,L349,Lat
 Lat,L351,Lath
 Lath,L352,Lathr
-Lathr,L353,"Lathrop, G"
-"Lathrop, G",L354,"Lathrop, M"
-"Lathrop, M",L355,Lati
+Lathr,L353,"Lathrop,G"
+"Lathrop,G",L354,"Lathrop,M"
+"Lathrop,M",L355,Lati
 Lati,L356,Latim
 Latim,L357,Lato
 Lato,L358,Latour
@@ -5674,15 +5674,15 @@ Lavi,L411,Lavil
 Lavil,L412,Lavis
 Lavis,L413,Lavo
 Lavo,L414,Law
-Law,L415,"Law, M"
-"Law, M",L416,Lawe
+Law,L415,"Law,M"
+"Law,M",L416,Lawe
 Lawe,L417,Lawl
 Lawl,L418,Lawrence
-Lawrence,L419,"Lawrence, G"
-"Lawrence, G",L421,"Lawrence, M"
-"Lawrence, M",L422,"Lawrence, S"
-"Lawrence, S",L423,"Lawrence, W"
-"Lawrence, W",L424,Laws
+Lawrence,L419,"Lawrence,G"
+"Lawrence,G",L421,"Lawrence,M"
+"Lawrence,M",L422,"Lawrence,S"
+"Lawrence,S",L423,"Lawrence,W"
+"Lawrence,W",L424,Laws
 Laws,L425,Lay
 Lay,L426,Layc
 Layc,L427,Layn
@@ -5730,11 +5730,11 @@ Lede,L473,Ledo
 Ledo,L474,Ledr
 Ledr,L475,Ledy
 Ledy,L476,Lee
-Lee,L477,"Lee, G"
-"Lee, G",L478,"Lee, M"
-"Lee, M",L479,"Lee, S"
-"Lee, S",L481,"Lee, W"
-"Lee, W",L482,Leec
+Lee,L477,"Lee,G"
+"Lee,G",L478,"Lee,M"
+"Lee,M",L479,"Lee,S"
+"Lee,S",L481,"Lee,W"
+"Lee,W",L482,Leec
 Leec,L483,Leed
 Leed,L484,Leek
 Leek,L485,Leen
@@ -5767,8 +5767,8 @@ Leho,L524,Lei
 Lei,L525,Leic
 Leic,L526,Leid
 Leid,L527,Leig
-Leig,L528,"Leigh, M"
-"Leigh, M",L529,Lein
+Leig,L528,"Leigh,M"
+"Leigh,M",L529,Lein
 Lein,L531,Leis
 Leis,L532,Leit
 Leit,L533,Lej
@@ -5840,8 +5840,8 @@ Lerd,L615,Lerm
 Lerm,L616,Lero
 Lero,L617,Leroux
 Leroux,L618,Leroy
-Leroy,L619,"Leroy, M"
-"Leroy, M",L621,Les
+Leroy,L619,"Leroy,M"
+"Leroy,M",L621,Les
 Les,L622,Lesb
 Lesb,L623,Lesc
 Lesc,L624,Lesch
@@ -5851,12 +5851,12 @@ Lescu,L627,Lesd
 Lesd,L628,Lesg
 Lesg,L629,Lesl
 Lesl,L631,Lesley
-Lesley,L632,"Lesley, M"
-"Lesley, M",L633,Leslie
-Leslie,L634,"Leslie, G"
-"Leslie, G",L635,"Leslie, M"
-"Leslie, M",L636,"Leslie, S"
-"Leslie, S",L637,Less
+Lesley,L632,"Lesley,M"
+"Lesley,M",L633,Leslie
+Leslie,L634,"Leslie,G"
+"Leslie,G",L635,"Leslie,M"
+"Leslie,M",L636,"Leslie,S"
+"Leslie,S",L637,Less
 Less,L638,Lessi
 Lessi,L639,Lesso
 Lesso,L641,Lest
@@ -5875,8 +5875,8 @@ Leus,L654,Lev
 Lev,L655,Levas
 Levas,L656,Leve
 Leve,L657,Lever
-Lever,L658,"Lever, M"
-"Lever, M",L659,Levere
+Lever,L658,"Lever,M"
+"Lever,M",L659,Levere
 Levere,L661,Leves
 Leves,L662,Levet
 Levet,L663,Levi
@@ -5888,11 +5888,11 @@ Levy,L668,Lew
 Lew,L669,Lewe
 Lewe,L671,Lewin
 Lewin,L672,Lewis
-Lewis,L673,"Lewis, G"
-"Lewis, G",L674,"Lewis, M"
-"Lewis, M",L675,"Lewis, S"
-"Lewis, S",L676,"Lewis, W"
-"Lewis, W",L677,Lewk
+Lewis,L673,"Lewis,G"
+"Lewis,G",L674,"Lewis,M"
+"Lewis,M",L675,"Lewis,S"
+"Lewis,S",L676,"Lewis,W"
+"Lewis,W",L677,Lewk
 Lewk,L678,Lex
 Lex,L679,Ley
 Ley,L681,Leybu
@@ -5936,22 +5936,22 @@ Lim,L732,Limb
 Limb,L733,Limi
 Limi,L734,Lin
 Lin,L735,Linc
-Linc,L736,"Lincoln, G"
-"Lincoln, G",L737,"Lincoln, M"
-"Lincoln, M",L738,"Lincoln, S"
-"Lincoln, S",L739,"Lincoln, W"
-"Lincoln, W",L741,Lind
+Linc,L736,"Lincoln,G"
+"Lincoln,G",L737,"Lincoln,M"
+"Lincoln,M",L738,"Lincoln,S"
+"Lincoln,S",L739,"Lincoln,W"
+"Lincoln,W",L741,Lind
 Lind,L742,Linde
 Linde,L743,Linden
 Linden,L744,Lindes
 Lindes,L745,Lindl
 Lindl,L746,Lindn
 Lindn,L747,Linds
-Linds,L748,"Lindsay, M"
-"Lindsay, M",L749,Lindsel
+Linds,L748,"Lindsay,M"
+"Lindsay,M",L749,Lindsel
 Lindsel,L751,Lindsey
-Lindsey,L752,"Lindsey, M"
-"Lindsey, M",L753,Lindw
+Lindsey,L752,"Lindsey,M"
+"Lindsey,M",L753,Lindw
 Lindw,L754,Ling
 Ling,L755,Lini
 Lini,L756,Linl
@@ -5979,10 +5979,10 @@ Littleb,L779,Littlet
 Littlet,L781,Littr
 Littr,L782,Liu
 Liu,L783,Liv
-Liv,L784,"Livermore, M"
-"Livermore, M",L785,Livings
-Livings,L786,"Livingston, M"
-"Livingston, M",L787,Livingstone
+Liv,L784,"Livermore,M"
+"Livermore,M",L785,Livings
+Livings,L786,"Livingston,M"
+"Livingston,M",L787,Livingstone
 Livingstone,L788,Liz
 Liz,L789,Ll
 Ll,L791,Llo
@@ -6028,8 +6028,8 @@ Lombr,L844,Lome
 Lome,L845,Lomo
 Lomo,L846,Lon
 Lon,L847,Long
-Long,L848,"Long, M"
-"Long, M",L849,Longc
+Long,L848,"Long,M"
+"Long,M",L849,Longc
 Longc,L851,Longe
 Longe,L852,Longf
 Longf,L853,Longh
@@ -6044,14 +6044,14 @@ Lons,L862,Loo
 Loo,L863,Lop
 Lop,L864,Lor
 Lor,L865,Lord
-Lord,L866,"Lord, M"
-"Lord, M",L867,Lore
+Lord,L866,"Lord,M"
+"Lord,M",L867,Lore
 Lore,L868,Lorenz
 Lorenz,L869,Lorg
 Lorg,L871,Lori
 Lori,L872,Loring
-Loring,L873,"Loring, M"
-"Loring, M",L874,Lorm
+Loring,L873,"Loring,M"
+"Loring,M",L874,Lorm
 Lorm,L875,Lorr
 Lorr,L876,Lorry
 Lorry,L877,Lort
@@ -6074,14 +6074,14 @@ Louvo,L895,Lov
 Lov,L896,Love
 Love,L897,Lovel
 Lovel,L898,Lovell
-Lovell,L899,"Lovell, M"
-"Lovell, M",L911,Low
+Lovell,L899,"Lovell,M"
+"Lovell,M",L911,Low
 Low,L912,Lowe
 Lowe,L913,Lowell
-Lowell,L914,"Lowell, G"
-"Lowell, G",L915,"Lowell, M"
-"Lowell, M",L916,"Lowell, S"
-"Lowell, S",L917,Lowi
+Lowell,L914,"Lowell,G"
+"Lowell,G",L915,"Lowell,M"
+"Lowell,M",L916,"Lowell,S"
+"Lowell,S",L917,Lowi
 Lowi,L918,Lown
 Lown,L919,Lowr
 Lowr,L921,Lowt
@@ -6196,8 +6196,8 @@ Maci,M152,Mack
 Mack,M153,Macke
 Macke,M154,Macken
 Macken,M155,Mackenz
-Mackenz,M156,"Mackenzie, M"
-"Mackenzie, M",M157,Macki
+Mackenz,M156,"Mackenzie,M"
+"Mackenzie,M",M157,Macki
 Macki,M158,Mackn
 Mackn,M159,Macl
 Macl,M161,Maclay
@@ -6299,10 +6299,10 @@ Manf,M276,Mang
 Mang,M277,Mani
 Mani,M278,Manl
 Manl,M279,Mann
-Mann,M281,"Mann, M"
-"Mann, M",M282,Manni
-Manni,M283,"Manning, M"
-"Manning, M",M284,Manno
+Mann,M281,"Mann,M"
+"Mann,M",M282,Manni
+Manni,M283,"Manning,M"
+"Manning,M",M284,Manno
 Manno,M285,Mans
 Mans,M286,Mansf
 Mansf,M287,Mansi
@@ -6366,11 +6366,11 @@ Marro,M361,Marry
 Marry,M362,Mars
 Mars,M363,Marsd
 Marsd,M364,Marsh
-Marsh,M365,"Marsh, M"
-"Marsh, M",M366,Marshall
-Marshall,M367,"Marshall, G"
-"Marshall, G",M368,"Marshall, M"
-"Marshall, M",M369,Marshm
+Marsh,M365,"Marsh,M"
+"Marsh,M",M366,Marshall
+Marshall,M367,"Marshall,G"
+"Marshall,G",M368,"Marshall,M"
+"Marshall,M",M369,Marshm
 Marshm,M371,Marsi
 Marsi,M372,Marso
 Marso,M373,Marst
@@ -6379,10 +6379,10 @@ Mart,M375,Martel
 Martel,M376,Marten
 Marten,M377,Marti
 Marti,M378,Martin
-Martin,M379,"Martin, G"
-"Martin, G",M381,"Martin, M"
-"Martin, M",M382,"Martin, S"
-"Martin, S",M383,Martind
+Martin,M379,"Martin,G"
+"Martin,G",M381,"Martin,M"
+"Martin,M",M382,"Martin,S"
+"Martin,S",M383,Martind
 Martind,M384,Martine
 Martine,M385,Martini
 Martini,M386,Marto
@@ -6396,18 +6396,18 @@ Mas,M394,Masc
 Masc,M395,Mase
 Mase,M396,Mash
 Mash,M397,Maso
-Maso,M398,"Mason, G"
-"Mason, G",M399,"Mason, M"
-"Mason, M",M411,"Mason, S"
-"Mason, S",M412,Masq
+Maso,M398,"Mason,G"
+"Mason,G",M399,"Mason,M"
+"Mason,M",M411,"Mason,S"
+"Mason,S",M412,Masq
 Masq,M413,Mass
 Mass,M414,Masse
 Masse,M415,Massey
 Massey,M416,Massi
 Massi,M417,Massing
 Massing,M418,Masso
-Masso,M419,"Masson, M"
-"Masson, M",M421,Massu
+Masso,M419,"Masson,M"
+"Masson,M",M421,Massu
 Massu,M422,Mast
 Mast,M423,Masu
 Masu,M424,Mat
@@ -6423,10 +6423,10 @@ Mats,M434,Matt
 Matt,M435,Matth
 Matth,M436,Matthew
 Matthew,M437,Matthews
-Matthews,M438,"Matthews, C"
-"Matthews, C",M439,"Matthews, M"
-"Matthews, M",M441,"Matthews, S"
-"Matthews, S",M442,Matthi
+Matthews,M438,"Matthews,C"
+"Matthews,C",M439,"Matthews,M"
+"Matthews,M",M441,"Matthews,S"
+"Matthews,S",M442,Matthi
 Matthi,M443,Matti
 Matti,M444,Matu
 Matu,M445,Maty
@@ -6437,8 +6437,8 @@ Maug,M449,Maun
 Maun,M451,Maup
 Maup,M452,Maur
 Maur,M453,Mauri
-Mauri,M454,"Maurice, M"
-"Maurice, M",M455,Maurit
+Mauri,M454,"Maurice,M"
+"Maurice,M",M455,Maurit
 Maurit,M456,Mauro
 Mauro,M457,Mauru
 Mauru,M458,Maury
@@ -6448,8 +6448,8 @@ Maw,M462,Max
 Max,M463,Maxi
 Maxi,M464,Maxw
 Maxw,M465,May
-May,M466,"May, M"
-"May, M",M467,Mayer
+May,M466,"May,M"
+"May,M",M467,Mayer
 Mayer,M468,Mayh
 Mayh,M469,Mayn
 Mayn,M471,Mayne
@@ -6477,8 +6477,8 @@ Mee,M494,Meer
 Meer,M495,Meg
 Meg,M496,Meger
 Meger,M497,Meh
-Meh,M498,"Mei, "
-"Mei, ",M499,Meier
+Meh,M498,"Mei,"
+"Mei,",M499,Meier
 Meier,M511,Meig
 Meig,M512,Meil
 Meil,M513,Mein
@@ -6561,8 +6561,8 @@ Meu,M597,Meur
 Meur,M598,Meus
 Meus,M599,Mew
 Mew,M611,Mey
-Mey,M612,"Meyer, M"
-"Meyer, M",M613,Meyn
+Mey,M612,"Meyer,M"
+"Meyer,M",M613,Meyn
 Meyn,M614,Meyr
 Meyr,M615,Meys
 Meys,M616,Mez
@@ -6576,8 +6576,8 @@ Michi,M624,Micho
 Micho,M625,Mico
 Mico,M626,Mid
 Mid,M627,Middleton
-Middleton,M628,"Middleton, M"
-"Middleton, M",M629,Mie
+Middleton,M628,"Middleton,M"
+"Middleton,M",M629,Mie
 Mie,M631,Mier
 Mier,M632,Mif
 Mif,M633,Mig
@@ -6593,11 +6593,11 @@ Miles,M643,Milf
 Milf,M644,Mill
 Mill,M645,Mille
 Mille,M646,Miller
-Miller,M647,"Miller, G"
-"Miller, G",M648,"Miller, M"
-"Miller, M",M649,"Miller, S"
-"Miller, S",M651,"Miller, W"
-"Miller, W",M652,Millet
+Miller,M647,"Miller,G"
+"Miller,G",M648,"Miller,M"
+"Miller,M",M649,"Miller,S"
+"Miller,S",M651,"Miller,W"
+"Miller,W",M652,Millet
 Millet,M653,Milli
 Milli,M654,Millin
 Millin,M655,Millo
@@ -6623,8 +6623,8 @@ Miro,M676,Mirz
 Mirz,M677,Mis
 Mis,M678,Mit
 Mit,M679,Mitchell
-Mitchell,M681,"Mitchell, M"
-"Mitchell, M",M682,Mitf
+Mitchell,M681,"Mitchell,M"
+"Mitchell,M",M682,Mitf
 Mitf,M683,Mith
 Mith,M684,Mitt
 Mitt,M685,Mn
@@ -6710,8 +6710,8 @@ Montfl,M783,Montfo
 Montfo,M784,Montg
 Montg,M785,Montgo
 Montgo,M786,Montgom
-Montgom,M787,"Montgomery, M"
-"Montgomery, M",M788,Month
+Montgom,M787,"Montgomery,M"
+"Montgomery,M",M788,Month
 Month,M789,Monti
 Monti,M791,Montig
 Montig,M792,Montl
@@ -6731,11 +6731,11 @@ Monz,M816,Moo
 Moo,M817,Moon
 Moon,M818,Moor
 Moor,M819,Moore
-Moore,M821,"Moore, G"
-"Moore, G",M822,"Moore, M"
-"Moore, M",M823,"Moore, S"
-"Moore, S",M824,"Moore, W"
-"Moore, W",M825,Moq
+Moore,M821,"Moore,G"
+"Moore,G",M822,"Moore,M"
+"Moore,M",M823,"Moore,S"
+"Moore,S",M824,"Moore,W"
+"Moore,W",M825,Moq
 Moq,M826,Mor
 Mor,M827,Moral
 Moral,M828,Moran
@@ -6744,8 +6744,8 @@ Morat,M831,Moraz
 Moraz,M832,Morc
 Morc,M833,Mord
 Mord,M834,More
-More,M835,"More, M"
-"More, M",M836,Moreau
+More,M835,"More,M"
+"More,M",M836,Moreau
 Moreau,M837,Moreh
 Moreh,M838,Morel
 Morel,M839,Morell
@@ -6755,9 +6755,9 @@ Moren,M843,Moret
 Moret,M844,Moreti
 Moreti,M845,Morf
 Morf,M846,Morg
-Morg,M847,"Morgan, G"
-"Morgan, G",M848,"Morgan, M"
-"Morgan, M",M849,Morge
+Morg,M847,"Morgan,G"
+"Morgan,G",M848,"Morgan,M"
+"Morgan,M",M849,Morge
 Morge,M851,Morgeus
 Morgeus,M852,Morh
 Morh,M853,Mori
@@ -6780,21 +6780,21 @@ Moroz,M871,Morr
 Morr,M872,Morrell
 Morrell,M873,Morri
 Morri,M874,Morris
-Morris,M875,"Morris, G"
-"Morris, G",M876,"Morris, M"
-"Morris, M",M877,Morrison
-Morrison,M878,"Morrison, G"
-"Morrison, G",M879,"Morrison, M"
-"Morrison, M",M881,"Morrison, S"
-"Morrison, S",M882,"Morrison, W"
-"Morrison, W",M883,Mors
-Mors,M884,"Morse, G"
-"Morse, G",M885,"Morse, M"
-"Morse, M",M886,Mort
+Morris,M875,"Morris,G"
+"Morris,G",M876,"Morris,M"
+"Morris,M",M877,Morrison
+Morrison,M878,"Morrison,G"
+"Morrison,G",M879,"Morrison,M"
+"Morrison,M",M881,"Morrison,S"
+"Morrison,S",M882,"Morrison,W"
+"Morrison,W",M883,Mors
+Mors,M884,"Morse,G"
+"Morse,G",M885,"Morse,M"
+"Morse,M",M886,Mort
 Mort,M887,Morti
 Morti,M888,Morto
-Morto,M889,"Morton, M"
-"Morton, M",M891,Morv
+Morto,M889,"Morton,M"
+"Morton,M",M891,Morv
 Morv,M892,Mory
 Mory,M893,Mos
 Mos,M894,Mosch
@@ -6835,8 +6835,8 @@ Muc,M942,Mud
 Mud,M943,Mudg
 Mudg,M944,Mudi
 Mudi,M945,Muel
-Muel,M946,"Mueller, M"
-"Mueller, M",M947,Muen
+Muel,M946,"Mueller,M"
+"Mueller,M",M947,Muen
 Muen,M948,Muf
 Muf,M949,Mug
 Mug,M951,Muh
@@ -6866,10 +6866,10 @@ Murg,M976,Muri
 Muri,M977,Murp
 Murp,M978,Murr
 Murr,M979,Murray
-Murray,M981,"Murray, G"
-"Murray, G",M982,"Murray, M"
-"Murray, M",M983,"Murray, S"
-"Murray, S",M984,Mus
+Murray,M981,"Murray,G"
+"Murray,G",M982,"Murray,M"
+"Murray,M",M983,"Murray,S"
+"Murray,S",M984,Mus
 Mus,M985,Muse
 Muse,M986,Musg
 Musg,M987,Musp
@@ -6961,13 +6961,13 @@ Nanteu,N192,Nanti
 Nanti,N193,Nao
 Nao,N194,Nap
 Nap,N195,Napier
-Napier,N196,"Napier, C"
-"Napier, C",N197,"Napier, F"
-"Napier, F",N198,"Napier, J"
-"Napier, J",N199,"Napier, M"
-"Napier, M",N211,"Napier, S"
-"Napier, S",N212,"Napier, W"
-"Napier, W",N213,Napio
+Napier,N196,"Napier,C"
+"Napier,C",N197,"Napier,F"
+"Napier,F",N198,"Napier,J"
+"Napier,J",N199,"Napier,M"
+"Napier,M",N211,"Napier,S"
+"Napier,S",N212,"Napier,W"
+"Napier,W",N213,Napio
 Napio,N214,Napl
 Napl,N215,Napo
 Napo,N216,Napp
@@ -6979,8 +6979,8 @@ Narc,N222,Nard
 Nard,N223,Nardin
 Nardin,N224,Nare
 Nare,N225,Nares
-Nares,N226,"Nares, M"
-"Nares, M",N227,Narg
+Nares,N226,"Nares,M"
+"Nares,M",N227,Narg
 Narg,N228,Nari
 Nari,N229,Narin
 Narin,N231,Narn
@@ -6999,17 +6999,17 @@ Nasc,N244,Nasco
 Nasco,N245,Nase
 Nase,N246,Naser
 Naser,N247,Nash
-Nash,N248,"Nash, F"
-"Nash, F",N249,"Nash, J"
-"Nash, J",N251,"Nash, M"
-"Nash, M",N252,"Nash, S"
-"Nash, S",N253,Nasi
+Nash,N248,"Nash,F"
+"Nash,F",N249,"Nash,J"
+"Nash,J",N251,"Nash,M"
+"Nash,M",N252,"Nash,S"
+"Nash,S",N253,Nasi
 Nasi,N254,Nasm
 Nasm,N255,Nasmith
-Nasmith,N256,"Nasmith, M"
-"Nasmith, M",N257,Nasmyth
-Nasmyth,N258,"Nasmyth, M"
-"Nasmyth, M",N259,Naso
+Nasmith,N256,"Nasmith,M"
+"Nasmith,M",N257,Nasmyth
+Nasmyth,N258,"Nasmyth,M"
+"Nasmyth,M",N259,Naso
 Naso,N261,Nasol
 Nasol,N262,Nason
 Nason,N263,Nasr
@@ -7045,8 +7045,8 @@ Naue,N295,Nauer
 Nauer,N296,Naug
 Naug,N297,Naul
 Naul,N298,Naum
-Naum,N299,"Naumann, M"
-"Naumann, M",N311,Naun
+Naum,N299,"Naumann,M"
+"Naumann,M",N311,Naun
 Naun,N312,Naus
 Naus,N313,Nauss
 Nauss,N314,Nauz
@@ -7071,19 +7071,19 @@ Naz,N334,Nazar
 Nazar,N335,Nazo
 Nazo,N336,Nazz
 Nazz,N337,Ne
-Ne,N338,"Neal, F"
-"Neal, F",N339,"Neal, J"
-"Neal, J",N341,"Neal, M"
-"Neal, M",N342,"Neal, S"
-"Neal, S",N343,"Neal, W"
-"Neal, W",N344,Neale
-Neale,N345,"Neale, G"
-"Neale, G",N346,"Neale, M"
-"Neale, M",N347,"Neale, S"
-"Neale, S",N348,Neander
-Neander,N349,"Neander, J"
-"Neander, J",N351,"Neander, P"
-"Neander, P",N352,Neap
+Ne,N338,"Neal,F"
+"Neal,F",N339,"Neal,J"
+"Neal,J",N341,"Neal,M"
+"Neal,M",N342,"Neal,S"
+"Neal,S",N343,"Neal,W"
+"Neal,W",N344,Neale
+Neale,N345,"Neale,G"
+"Neale,G",N346,"Neale,M"
+"Neale,M",N347,"Neale,S"
+"Neale,S",N348,Neander
+Neander,N349,"Neander,J"
+"Neander,J",N351,"Neander,P"
+"Neander,P",N352,Neap
 Neap,N353,Near
 Near,N354,Neat
 Neat,N355,Neate
@@ -7096,15 +7096,15 @@ Nebr,N362,Nebu
 Nebu,N363,Nec
 Nec,N364,Neck
 Neck,N365,Necker
-Necker,N366,"Necker, M"
-"Necker, M",N367,Neco
+Necker,N366,"Necker,M"
+"Necker,M",N367,Neco
 Neco,N368,Nect
 Nect,N369,Ned
 Ned,N371,Nee
 Nee,N372,Neeb
 Neeb,N373,Need
-Need,N374,"Needham, M"
-"Needham, M",N375,Neef
+Need,N374,"Needham,M"
+"Needham,M",N375,Neef
 Neef,N376,Neefe
 Neefe,N377,Neel
 Neel,N378,Neele
@@ -7114,11 +7114,11 @@ Nees,N382,Nef
 Nef,N383,Neg
 Neg,N384,Negr
 Negr,N385,Negri
-Negri,N386,"Negri, G"
-"Negri, G",N387,"Negri, M"
-"Negri, M",N388,"Negri, S"
-"Negri, S",N389,"Negri, W"
-"Negri, W",N391,Negrier
+Negri,N386,"Negri,G"
+"Negri,G",N387,"Negri,M"
+"Negri,M",N388,"Negri,S"
+"Negri,S",N389,"Negri,W"
+"Negri,W",N391,Negrier
 Negrier,N392,Negro
 Negro,N393,Negron
 Negron,N394,Neh
@@ -7127,9 +7127,9 @@ Nehr,N396,Nei
 Nei,N397,Neil
 Neil,N398,Neile
 Neile,N399,Neill
-Neill,N411,"Neill, J"
-"Neill, J",N412,"Neill, P"
-"Neill, P",N413,Neils
+Neill,N411,"Neill,J"
+"Neill,J",N412,"Neill,P"
+"Neill,P",N413,Neils
 Neils,N414,Neip
 Neip,N415,Neis
 Neis,N416,Neit
@@ -7139,14 +7139,14 @@ Nel,N419,Nell
 Nell,N421,Nelli
 Nelli,N422,Nello
 Nello,N423,Nels
-Nels,N424,"Nelson, C"
-"Nelson, C",N425,"Nelson, F"
-"Nelson, F",N426,"Nelson, J"
-"Nelson, J",N427,"Nelson, M"
-"Nelson, M",N428,"Nelson, R"
-"Nelson, R",N429,"Nelson, S"
-"Nelson, S",N431,"Nelson, W"
-"Nelson, W",N432,Nem
+Nels,N424,"Nelson,C"
+"Nelson,C",N425,"Nelson,F"
+"Nelson,F",N426,"Nelson,J"
+"Nelson,J",N427,"Nelson,M"
+"Nelson,M",N428,"Nelson,R"
+"Nelson,R",N429,"Nelson,S"
+"Nelson,S",N431,"Nelson,W"
+"Nelson,W",N432,Nem
 Nem,N433,Nemi
 Nemi,N434,Nemn
 Nemn,N435,Nemo
@@ -7185,8 +7185,8 @@ Nets,N471,Nett
 Nett,N472,Nette
 Nette,N473,Netter
 Netter,N474,Nettl
-Nettl,N475,"Nettleton, M"
-"Nettleton, M",N476,Neu
+Nettl,N475,"Nettleton,M"
+"Nettleton,M",N476,Neu
 Neu,N477,Neube
 Neube,N478,Neud
 Neud,N479,Neue
@@ -7198,9 +7198,9 @@ Neuh,N485,Neuk
 Neuk,N486,Neul
 Neul,N487,Neum
 Neum,N488,Neuman
-Neuman,N489,"Neuman, G"
-"Neuman, G",N491,"Neuman, M"
-"Neuman, M",N492,Neumar
+Neuman,N489,"Neuman,G"
+"Neuman,G",N491,"Neuman,M"
+"Neuman,M",N492,Neumar
 Neumar,N493,Neun
 Neun,N494,Neus
 Neus,N495,Neusi
@@ -7211,20 +7211,20 @@ Nev,N499,Neve
 Neve,N511,Nevel
 Nevel,N512,Never
 Never,N513,Nevers
-Nevers,N514,"Nevers, G"
-"Nevers, G",N515,"Nevers, M"
-"Nevers, M",N516,"Nevers, S"
-"Nevers, S",N517,"Nevers, W"
-"Nevers, W",N518,Neveu
+Nevers,N514,"Nevers,G"
+"Nevers,G",N515,"Nevers,M"
+"Nevers,M",N516,"Nevers,S"
+"Nevers,S",N517,"Nevers,W"
+"Nevers,W",N518,Neveu
 Neveu,N519,Nevi
 Nevi,N521,Nevill
 Nevill,N522,Neville
-Neville,N523,"Neville, J"
-"Neville, J",N524,"Neville, P"
-"Neville, P",N525,Nevin
+Neville,N523,"Neville,J"
+"Neville,J",N524,"Neville,P"
+"Neville,P",N525,Nevin
 Nevin,N526,Nevins
-Nevins,N527,"Nevins, M"
-"Nevins, M",N528,Nevit
+Nevins,N527,"Nevins,M"
+"Nevins,M",N528,Nevit
 Nevit,N529,Nevy
 Nevy,N531,New
 New,N532,Newb
@@ -7232,37 +7232,37 @@ Newb,N533,Newbe
 Newbe,N534,Newbu
 Newbu,N535,Newc
 Newc,N536,Newco
-Newco,N537,"Newcomb, M"
-"Newcomb, M",N538,Newcombe
+Newco,N537,"Newcomb,M"
+"Newcomb,M",N538,Newcombe
 Newcombe,N539,Newcome
 Newcome,N541,Newd
 Newd,N542,Newe
 Newe,N543,Newell
-Newell,N544,"Newell, G"
-"Newell, G",N545,"Newell, M"
-"Newell, M",N546,"Newell, S"
-"Newell, S",N547,Newh
+Newell,N544,"Newell,G"
+"Newell,G",N545,"Newell,M"
+"Newell,M",N546,"Newell,S"
+"Newell,S",N547,Newh
 Newh,N548,Newl
 Newl,N549,Newm
-Newm,N551,"Newman, D"
-"Newman, D",N552,"Newman, J"
-"Newman, J",N553,"Newman, M"
-"Newman, M",N554,"Newman, S"
-"Newman, S",N555,"Newman, W"
-"Newman, W",N556,Newn
+Newm,N551,"Newman,D"
+"Newman,D",N552,"Newman,J"
+"Newman,J",N553,"Newman,M"
+"Newman,M",N554,"Newman,S"
+"Newman,S",N555,"Newman,W"
+"Newman,W",N556,Newn
 Newn,N557,Newp
 Newp,N558,Newt
 Newt,N559,Newton
-Newton,N561,"Newton, C"
-"Newton, C",N562,"Newton, F"
-"Newton, F",N563,"Newton, J"
-"Newton, J",N564,"Newton, M"
-"Newton, M",N565,"Newton, S"
-"Newton, S",N566,"Newton, W"
-"Newton, W",N567,Ney
-Ney,N568,"Ney, J"
-"Ney, J",N569,"Ney, P"
-"Ney, P",N571,Neyl
+Newton,N561,"Newton,C"
+"Newton,C",N562,"Newton,F"
+"Newton,F",N563,"Newton,J"
+"Newton,J",N564,"Newton,M"
+"Newton,M",N565,"Newton,S"
+"Newton,S",N566,"Newton,W"
+"Newton,W",N567,Ney
+Ney,N568,"Ney,J"
+"Ney,J",N569,"Ney,P"
+"Ney,P",N571,Neyl
 Neyl,N572,Neyn
 Neyn,N573,Neyr
 Neyr,N574,Nez
@@ -7284,36 +7284,36 @@ Nicer,N591,Nicet
 Nicet,N592,Nicetas
 Nicetas,N593,Nich
 Nich,N594,Nichol
-Nichol,N595,"Nichol, M"
-"Nichol, M",N596,Nicholas
-Nicholas,N597,"Nicholas, J"
-"Nicholas, J",N598,"Nicholas, P"
-"Nicholas, P",N599,Nicholl
-Nicholl,N611,"Nicholl, M"
-"Nicholl, M",N612,Nicholls
-Nicholls,N613,"Nicholls, G"
-"Nicholls, G",N614,"Nicholls, M"
-"Nicholls, M",N615,Nichols
-Nichols,N616,"Nichols, C"
-"Nichols, C",N617,"Nichols, F"
-"Nichols, F",N618,"Nichols, J"
-"Nichols, J",N619,"Nichols, M"
-"Nichols, M",N621,"Nichols, S"
-"Nichols, S",N622,"Nichols, W"
-"Nichols, W",N623,Nicholson
-Nicholson,N624,"Nicholson, D"
-"Nicholson, D",N625,"Nicholson, J"
-"Nicholson, J",N626,"Nicholson, M"
-"Nicholson, M",N627,"Nicholson, S"
-"Nicholson, S",N628,"Nicholson, W"
-"Nicholson, W",N629,Nici
+Nichol,N595,"Nichol,M"
+"Nichol,M",N596,Nicholas
+Nicholas,N597,"Nicholas,J"
+"Nicholas,J",N598,"Nicholas,P"
+"Nicholas,P",N599,Nicholl
+Nicholl,N611,"Nicholl,M"
+"Nicholl,M",N612,Nicholls
+Nicholls,N613,"Nicholls,G"
+"Nicholls,G",N614,"Nicholls,M"
+"Nicholls,M",N615,Nichols
+Nichols,N616,"Nichols,C"
+"Nichols,C",N617,"Nichols,F"
+"Nichols,F",N618,"Nichols,J"
+"Nichols,J",N619,"Nichols,M"
+"Nichols,M",N621,"Nichols,S"
+"Nichols,S",N622,"Nichols,W"
+"Nichols,W",N623,Nicholson
+Nicholson,N624,"Nicholson,D"
+"Nicholson,D",N625,"Nicholson,J"
+"Nicholson,J",N626,"Nicholson,M"
+"Nicholson,M",N627,"Nicholson,S"
+"Nicholson,S",N628,"Nicholson,W"
+"Nicholson,W",N629,Nici
 Nici,N631,Nick
 Nick,N632,Nico
 Nico,N633,Nicol
 Nicol,N634,Nicolai
-Nicolai,N635,"Nicolai, J"
-"Nicolai, J",N636,"Nicolai, P"
-"Nicolai, P",N637,Nicolas
+Nicolai,N635,"Nicolai,J"
+"Nicolai,J",N636,"Nicolai,P"
+"Nicolai,P",N637,Nicolas
 Nicolas,N638,Nicolau
 Nicolau,N639,Nicolay
 Nicolay,N641,Nicole
@@ -7322,13 +7322,13 @@ Nicolet,N643,Nicoli
 Nicoli,N644,Nicoll
 Nicoll,N645,Nicollet
 Nicollet,N646,Nicolls
-Nicolls,N647,"Nicolls, J"
-"Nicolls, J",N648,"Nicolls, P"
-"Nicolls, P",N649,Nicolo
+Nicolls,N647,"Nicolls,J"
+"Nicolls,J",N648,"Nicolls,P"
+"Nicolls,P",N649,Nicolo
 Nicolo,N651,Nicols
 Nicols,N652,Nicolson
-Nicolson,N653,"Nicolson, M"
-"Nicolson, M",N654,Nicom
+Nicolson,N653,"Nicolson,M"
+"Nicolson,M",N654,Nicom
 Nicom,N655,Nicome
 Nicome,N656,Nicon
 Nicon,N657,Nicop
@@ -7358,20 +7358,20 @@ Nif,N683,Nig
 Nig,N684,Niger
 Niger,N685,Niget
 Niget,N686,Nigh
-Nigh,N687,"Nightengale, M"
-"Nightengale, M",N688,Nigr
+Nigh,N687,"Nightengale,M"
+"Nightengale,M",N688,Nigr
 Nigr,N689,Nih
 Nih,N691,Nik
 Nik,N692,Niko
 Niko,N693,Nikon
 Nikon,N694,Nil
 Nil,N695,Niles
-Niles,N696,"Niles, D"
-"Niles, D",N697,"Niles, J"
-"Niles, J",N698,"Niles, M"
-"Niles, M",N699,"Niles, S"
-"Niles, S",N711,"Niles, W"
-"Niles, W",N712,Nim
+Niles,N696,"Niles,D"
+"Niles,D",N697,"Niles,J"
+"Niles,J",N698,"Niles,M"
+"Niles,M",N699,"Niles,S"
+"Niles,S",N711,"Niles,W"
+"Niles,W",N712,Nim
 Nim,N713,Nin
 Nin,N714,Nini
 Nini,N715,Nino
@@ -7381,8 +7381,8 @@ Nio,N718,Nip
 Nip,N719,Niq
 Niq,N721,Nis
 Nis,N722,Nisb
-Nisb,N723,"Nisbet, M"
-"Nisbet, M",N724,Nisl
+Nisb,N723,"Nisbet,M"
+"Nisbet,M",N724,Nisl
 Nisl,N725,Niss
 Niss,N726,Nisso
 Nisso,N727,Nit
@@ -7397,18 +7397,18 @@ Nix,N736,Niz
 Niz,N737,Nj
 Nj,N738,No
 No,N739,Noail
-Noail,N741,"Noailles, M"
-"Noailles, M",N742,Noak
+Noail,N741,"Noailles,M"
+"Noailles,M",N742,Noak
 Noak,N743,Nob
 Nob,N744,Nobi
 Nobi,N745,Nobl
 Nobl,N746,Noble
-Noble,N747,"Noble, D"
-"Noble, D",N748,"Noble, J"
-"Noble, J",N749,"Noble, M"
-"Noble, M",N751,"Noble, S"
-"Noble, S",N752,"Noble, W"
-"Noble, W",N753,Nobr
+Noble,N747,"Noble,D"
+"Noble,D",N748,"Noble,J"
+"Noble,J",N749,"Noble,M"
+"Noble,M",N751,"Noble,S"
+"Noble,S",N752,"Noble,W"
+"Noble,W",N753,Nobr
 Nobr,N754,Noby
 Noby,N755,Noc
 Noc,N756,Noch
@@ -7419,11 +7419,11 @@ Nod,N761,Nodu
 Nodu,N762,Noe
 Noe,N763,Noed
 Noed,N764,Noel
-Noel,N765,"Noel, D"
-"Noel, D",N766,"Noel, J"
-"Noel, J",N767,"Noel, M"
-"Noel, M",N768,"Noel, S"
-"Noel, S",N769,Noes
+Noel,N765,"Noel,D"
+"Noel,D",N766,"Noel,J"
+"Noel,J",N767,"Noel,M"
+"Noel,M",N768,"Noel,S"
+"Noel,S",N769,Noes
 Noes,N771,Noet
 Noet,N772,Nof
 Nof,N773,Nog
@@ -7439,9 +7439,9 @@ Noiret,N783,Noirot
 Noirot,N784,Nok
 Nok,N785,Nol
 Nol,N786,Nolan
-Nolan,N787,"Nolan, J"
-"Nolan, J",N788,"Nolan, P"
-"Nolan, P",N789,Nold
+Nolan,N787,"Nolan,J"
+"Nolan,J",N788,"Nolan,P"
+"Nolan,P",N789,Nold
 Nold,N791,Noli
 Noli,N792,Noll
 Noll,N793,Nollek
@@ -7462,8 +7462,8 @@ Noor,N818,Noot
 Noot,N819,Nop
 Nop,N821,Nor
 Nor,N822,Norbert
-Norbert,N823,"Norbert, M"
-"Norbert, M",N824,Norbl
+Norbert,N823,"Norbert,M"
+"Norbert,M",N824,Norbl
 Norbl,N825,Norby
 Norby,N826,Norc
 Norc,N827,Nord
@@ -7473,39 +7473,39 @@ Nordenh,N831,Nordens
 Nordens,N832,Nordt
 Nordt,N833,Nore
 Nore,N834,Norf
-Norf,N835,"Norfolk, J"
-"Norfolk, J",N836,"Norfolk, P"
-"Norfolk, P",N837,Norg
+Norf,N835,"Norfolk,J"
+"Norfolk,J",N836,"Norfolk,P"
+"Norfolk,P",N837,Norg
 Norg,N838,Norgh
 Norgh,N839,Nori
 Nori,N841,Norm
-Norm,N842,"Norman, M"
-"Norman, M",N843,Normanb
+Norm,N842,"Norman,M"
+"Norman,M",N843,Normanb
 Normanb,N844,Normand
-Normand,N845,"Normand, J"
-"Normand, J",N846,"Normand, P"
-"Normand, P",N847,Normandy
+Normand,N845,"Normand,J"
+"Normand,J",N846,"Normand,P"
+"Normand,P",N847,Normandy
 Normandy,N848,Normann
 Normann,N849,Normant
 Normant,N851,Noro
 Noro,N852,Norr
-Norr,N853,"Norris, C"
-"Norris, C",N854,"Norris, F"
-"Norris, F",N855,"Norris, J"
-"Norris, J",N856,"Norris, M"
-"Norris, M",N857,"Norris, R"
-"Norris, R",N858,"Norris, S"
-"Norris, S",N859,"Norris, W"
-"Norris, W",N861,Norry
+Norr,N853,"Norris,C"
+"Norris,C",N854,"Norris,F"
+"Norris,F",N855,"Norris,J"
+"Norris,J",N856,"Norris,M"
+"Norris,M",N857,"Norris,R"
+"Norris,R",N858,"Norris,S"
+"Norris,S",N859,"Norris,W"
+"Norris,W",N861,Norry
 Norry,N862,Nors
 Nors,N863,North
-North,N864,"North, G"
-"North, G",N865,"North, M"
-"North, M",N866,"North, S"
-"North, S",N867,Northa
+North,N864,"North,G"
+"North,G",N865,"North,M"
+"North,M",N866,"North,S"
+"North,S",N867,Northa
 Northa,N868,Northampton
-Northampton,N869,"Northampton, M"
-"Northampton, M",N871,Northb
+Northampton,N869,"Northampton,M"
+"Northampton,M",N871,Northb
 Northb,N872,Northc
 Northc,N873,Northe
 Northe,N874,Northn
@@ -7515,19 +7515,19 @@ Northr,N877,Northu
 Northu,N878,Northw
 Northw,N879,Northwo
 Northwo,N881,Norto
-Norto,N882,"Norton, C"
-"Norton, C",N883,"Norton, F"
-"Norton, F",N884,"Norton, J"
-"Norton, J",N885,"Norton, M"
-"Norton, M",N886,"Norton, R"
-"Norton, R",N887,"Norton, S"
-"Norton, S",N888,"Norton, W"
-"Norton, W",N889,Norv
+Norto,N882,"Norton,C"
+"Norton,C",N883,"Norton,F"
+"Norton,F",N884,"Norton,J"
+"Norton,J",N885,"Norton,M"
+"Norton,M",N886,"Norton,R"
+"Norton,R",N887,"Norton,S"
+"Norton,S",N888,"Norton,W"
+"Norton,W",N889,Norv
 Norv,N891,Norw
-Norw,N892,"Norwich, M"
-"Norwich, M",N893,Norwo
-Norwo,N894,"Norwood, M"
-"Norwood, M",N895,Norz
+Norw,N892,"Norwich,M"
+"Norwich,M",N893,Norwo
+Norwo,N894,"Norwood,M"
+"Norwood,M",N895,Norz
 Norz,N896,Nos
 Nos,N897,Nost
 Nost,N898,Not
@@ -7536,12 +7536,12 @@ Note,N911,Noth
 Noth,N912,Notk
 Notk,N913,Notr
 Notr,N914,Nott
-Nott,N915,"Nott, G"
-"Nott, G",N916,"Nott, M"
-"Nott, M",N917,"Nott, S"
-"Nott, S",N918,Notti
-Notti,N919,"Nottingham, M"
-"Nottingham, M",N921,Nottn
+Nott,N915,"Nott,G"
+"Nott,G",N916,"Nott,M"
+"Nott,M",N917,"Nott,S"
+"Nott,S",N918,Notti
+Notti,N919,"Nottingham,M"
+"Nottingham,M",N921,Nottn
 Nottn,N922,Notto
 Notto,N923,Nou
 Nou,N924,Noue
@@ -7565,44 +7565,44 @@ Novi,N943,Novio
 Novio,N944,Noviu
 Noviu,N945,Now
 Now,N946,Nowe
-Nowe,N947,"Nowell, M"
-"Nowell, M",N948,Noy
+Nowe,N947,"Nowell,M"
+"Nowell,M",N948,Noy
 Noy,N949,Noyer
 Noyer,N951,Noyes
-Noyes,N952,"Noyes, C"
-"Noyes, C",N953,"Noyes, F"
-"Noyes, F",N954,"Noyes, J"
-"Noyes, J",N955,"Noyes, M"
-"Noyes, M",N956,"Noyes, R"
-"Noyes, R",N957,"Noyes, S"
-"Noyes, S",N958,"Noyes, W"
-"Noyes, W",N959,Noz
+Noyes,N952,"Noyes,C"
+"Noyes,C",N953,"Noyes,F"
+"Noyes,F",N954,"Noyes,J"
+"Noyes,J",N955,"Noyes,M"
+"Noyes,M",N956,"Noyes,R"
+"Noyes,R",N957,"Noyes,S"
+"Noyes,S",N958,"Noyes,W"
+"Noyes,W",N959,Noz
 Noz,N961,Nu
 Nu,N962,Nuce
 Nuce,N963,Nuci
 Nuci,N964,Nug
 Nug,N965,Nugent
-Nugent,N966,"Nugent, J"
-"Nugent, J",N967,"Nugent, S"
-"Nugent, S",N968,Nul
+Nugent,N966,"Nugent,J"
+"Nugent,J",N967,"Nugent,S"
+"Nugent,S",N968,Nul
 Nul,N969,Num
 Num,N971,Nun
 Nun,N972,Nunu
 Nunu,N973,Nur
 Nur,N974,Nus
 Nus,N975,Nut
-Nut,N976,"Nutt, J"
-"Nutt, J",N977,"Nutt, P"
-"Nutt, P",N978,Nutta
-Nutta,N979,"Nuttall, M"
-"Nuttall, M",N981,Nutter
-Nutter,N982,"Nutter, G"
-"Nutter, G",N983,"Nutter, M"
-"Nutter, M",N984,"Nutter, S"
-"Nutter, S",N985,Nutting
-Nutting,N986,"Nutting, G"
-"Nutting, G",N987,"Nutting, M"
-"Nutting, M",N988,Nuv
+Nut,N976,"Nutt,J"
+"Nutt,J",N977,"Nutt,P"
+"Nutt,P",N978,Nutta
+Nutta,N979,"Nuttall,M"
+"Nuttall,M",N981,Nutter
+Nutter,N982,"Nutter,G"
+"Nutter,G",N983,"Nutter,M"
+"Nutter,M",N984,"Nutter,S"
+"Nutter,S",N985,Nutting
+Nutting,N986,"Nutting,G"
+"Nutting,G",N987,"Nutting,M"
+"Nutting,M",N988,Nuv
 Nuv,N989,Nuy
 Nuy,N991,Nuz
 Nuz,N992,Ny
@@ -7713,8 +7713,8 @@ Paez,P127,Pag
 Pag,P128,Pagani
 Pagani,P129,Pagano
 Pagano,P131,Page
-Page,P132,"Page, M"
-"Page, M",P133,Pagen
+Page,P132,"Page,M"
+"Page,M",P133,Pagen
 Pagen,P134,Paget
 Paget,P135,Pagi
 Pagi,P136,Pagit
@@ -7724,10 +7724,10 @@ Pagn,P139,Pah
 Pah,P141,Pai
 Pai,P142,Pail
 Pail,P143,Pain
-Pain,P144,"Paine, G"
-"Paine, G",P145,"Paine, M"
-"Paine, M",P146,"Paine, S"
-"Paine, S",P147,Paint
+Pain,P144,"Paine,G"
+"Paine,G",P145,"Paine,M"
+"Paine,M",P146,"Paine,S"
+"Paine,S",P147,Paint
 Paint,P148,Pais
 Pais,P149,Paj
 Paj,P151,Pak
@@ -7750,11 +7750,11 @@ Pallis,P168,Pallu
 Pallu,P169,Palm
 Palm,P171,Palme
 Palme,P172,Palmer
-Palmer,P173,"Palmer, G"
-"Palmer, G",P174,"Palmer, M"
-"Palmer, M",P175,"Palmer, S"
-"Palmer, S",P176,"Palmer, W"
-"Palmer, W",P177,Palmers
+Palmer,P173,"Palmer,G"
+"Palmer,G",P174,"Palmer,M"
+"Palmer,M",P175,"Palmer,S"
+"Palmer,S",P176,"Palmer,W"
+"Palmer,W",P177,Palmers
 Palmers,P178,Palmi
 Palmi,P179,Palo
 Palo,P181,Pals
@@ -7797,40 +7797,40 @@ Pari,P231,Paris
 Paris,P232,Parish
 Parish,P233,Parisi
 Parisi,P234,Park
-Park,P235,"Park, M"
-"Park, M",P236,Parke
+Park,P235,"Park,M"
+"Park,M",P236,Parke
 Parke,P237,Parker
-Parker,P238,"Parker, F"
-"Parker, F",P239,"Parker, J"
-"Parker, J",P241,"Parker, M"
-"Parker, M",P242,"Parker, S"
-"Parker, S",P243,"Parker, W"
-"Parker, W",P244,Parkes
+Parker,P238,"Parker,F"
+"Parker,F",P239,"Parker,J"
+"Parker,J",P241,"Parker,M"
+"Parker,M",P242,"Parker,S"
+"Parker,S",P243,"Parker,W"
+"Parker,W",P244,Parkes
 Parkes,P245,Parkh
 Parkh,P246,Parki
-Parki,P247,"Parkinson, M"
-"Parkinson, M",P248,Parkman
-Parkman,P249,"Parkman, M"
-"Parkman, M",P251,Parks
+Parki,P247,"Parkinson,M"
+"Parkinson,M",P248,Parkman
+Parkman,P249,"Parkman,M"
+"Parkman,M",P251,Parks
 Parks,P252,Parm
 Parm,P253,Parment
 Parment,P254,Parmi
 Parmi,P255,Parn
 Parn,P256,Paro
 Paro,P257,Parr
-Parr,P258,"Parr, M"
-"Parr, M",P259,Parri
+Parr,P258,"Parr,M"
+"Parr,M",P259,Parri
 Parri,P261,Parro
 Parro,P262,Parrot
 Parrot,P263,Parry
-Parry,P264,"Parry, M"
-"Parry, M",P265,Pars
+Parry,P264,"Parry,M"
+"Parry,M",P265,Pars
 Pars,P266,Parsons
-Parsons,P267,"Parsons, G"
-"Parsons, G",P268,"Parsons, M"
-"Parsons, M",P269,"Parsons, S"
-"Parsons, S",P271,"Parsons, W"
-"Parsons, W",P272,Part
+Parsons,P267,"Parsons,G"
+"Parsons,G",P268,"Parsons,M"
+"Parsons,M",P269,"Parsons,S"
+"Parsons,S",P271,"Parsons,W"
+"Parsons,W",P272,Part
 Part,P273,Parto
 Parto,P274,Partr
 Partr,P275,Parv
@@ -7852,8 +7852,8 @@ Pasto,P292,Pastor
 Pastor,P293,Pat
 Pat,P294,Pate
 Pate,P295,Paters
-Paters,P296,"Paterson, M"
-"Paterson, M",P297,Pati
+Paters,P296,"Paterson,M"
+"Paterson,M",P297,Pati
 Pati,P298,Patis
 Patis,P299,Patm
 Patm,P311,Pato
@@ -7862,8 +7862,8 @@ Patou,P313,Patr
 Patr,P314,Patt
 Patt,P315,Patten
 Patten,P316,Patterson
-Patterson,P317,"Patterson, M"
-"Patterson, M",P318,Pattes
+Patterson,P317,"Patterson,M"
+"Patterson,M",P318,Pattes
 Pattes,P319,Patti
 Patti,P321,Patto
 Patto,P322,Pau
@@ -7892,22 +7892,22 @@ Payne,P346,Pays
 Pays,P347,Paz
 Paz,P348,Pe
 Pe,P349,Peabody
-Peabody,P351,"Peabody, G"
-"Peabody, G",P352,"Peabody, M"
-"Peabody, M",P353,"Peabody, S"
-"Peabody, S",P354,Peac
+Peabody,P351,"Peabody,G"
+"Peabody,G",P352,"Peabody,M"
+"Peabody,M",P353,"Peabody,S"
+"Peabody,S",P354,Peac
 Peac,P355,Peaco
 Peaco,P356,Peak
 Peak,P357,Peal
 Peal,P358,Pear
 Pear,P359,Pears
-Pears,P361,"Pearson, M"
-"Pearson, M",P362,Peas
+Pears,P361,"Pearson,M"
+"Pearson,M",P362,Peas
 Peas,P363,Pec
 Pec,P364,Pecc
 Pecc,P365,Peck
-Peck,P366,"Peck, M"
-"Peck, M",P367,Peckh
+Peck,P366,"Peck,M"
+"Peck,M",P367,Peckh
 Peckh,P368,Peco
 Peco,P369,Ped
 Ped,P371,Pedro
@@ -7931,8 +7931,8 @@ Pellew,P389,Pelli
 Pelli,P391,Pello
 Pello,P392,Pelt
 Pelt,P393,Pemb
-Pemb,P394,"Pemberton, M"
-"Pemberton, M",P395,Pembr
+Pemb,P394,"Pemberton,M"
+"Pemberton,M",P395,Pembr
 Pembr,P396,Pen
 Pen,P397,Pendl
 Pendl,P398,Penh
@@ -7955,8 +7955,8 @@ Per,P426,Perau
 Perau,P427,Perc
 Perc,P428,Perci
 Perci,P429,Percy
-Percy,P431,"Percy, M"
-"Percy, M",P432,Perd
+Percy,P431,"Percy,M"
+"Percy,M",P432,Perd
 Perd,P433,Pere
 Pere,P434,Pereg
 Pereg,P435,Perei
@@ -7971,9 +7971,9 @@ Perigo,P444,Perin
 Perin,P445,Peris
 Peris,P446,Perk
 Perk,P447,Perkins
-Perkins,P448,"Perkins, J"
-"Perkins, J",P449,"Perkins, P"
-"Perkins, P",P451,Pern
+Perkins,P448,"Perkins,J"
+"Perkins,J",P449,"Perkins,P"
+"Perkins,P",P451,Pern
 Pern,P452,Pero
 Pero,P453,Perr
 Perr,P454,Perre
@@ -7983,10 +7983,10 @@ Perrier,P457,Perrin
 Perrin,P458,Perro
 Perro,P459,Perrot
 Perrot,P461,Perry
-Perry,P462,"Perry, G"
-"Perry, G",P463,"Perry, M"
-"Perry, M",P464,"Perry, S"
-"Perry, S",P465,Pers
+Perry,P462,"Perry,G"
+"Perry,G",P463,"Perry,M"
+"Perry,M",P464,"Perry,S"
+"Perry,S",P465,Pers
 Pers,P466,Perso
 Perso,P467,Pert
 Pert,P468,Perti
@@ -8000,9 +8000,9 @@ Pest,P476,Pet
 Pet,P477,Peter
 Peter,P478,Peterb
 Peterb,P479,Peters
-Peters,P481,"Peters, J"
-"Peters, J",P482,"Peters, P"
-"Peters, P",P483,Petersen
+Peters,P481,"Peters,J"
+"Peters,J",P482,"Peters,P"
+"Peters,P",P483,Petersen
 Petersen,P484,Peterson
 Peterson,P485,Peth
 Peth,P486,Peti
@@ -8032,8 +8032,8 @@ Pezr,P522,Pf
 Pf,P523,Pfe
 Pfe,P524,Pfei
 Pfei,P525,Pfeiffer
-Pfeiffer,P526,"Pfeiffer, M"
-"Pfeiffer, M",P527,Pfen
+Pfeiffer,P526,"Pfeiffer,M"
+"Pfeiffer,M",P527,Pfen
 Pfen,P528,Pfi
 Pfi,P529,Pfl
 Pfl,P531,Ph
@@ -8043,9 +8043,9 @@ Phale,P534,Phan
 Phan,P535,Phar
 Phar,P536,Phe
 Phe,P537,Phel
-Phel,P538,"Phelps, J"
-"Phelps, J",P539,"Phelps, P"
-"Phelps, P",P541,Pher
+Phel,P538,"Phelps,J"
+"Phelps,J",P539,"Phelps,P"
+"Phelps,P",P541,Pher
 Pher,P542,Phi
 Phi,P543,Phil
 Phil,P544,Philb
@@ -8057,16 +8057,16 @@ Philip,P549,Philipp
 Philipp,P551,Philippi
 Philippi,P552,Philippu
 Philippu,P553,Philips
-Philips,P554,"Philips, M"
-"Philips, M",P555,Phill
+Philips,P554,"Philips,M"
+"Philips,M",P555,Phill
 Phill,P556,Phillip
 Phillip,P557,Phillips
-Phillips,P558,"Phillips, F"
-"Phillips, F",P559,"Phillips, J"
-"Phillips, J",P561,"Phillips, M"
-"Phillips, M",P562,"Phillips, S"
-"Phillips, S",P563,"Phillips, W"
-"Phillips, W",P564,Philo
+Phillips,P558,"Phillips,F"
+"Phillips,F",P559,"Phillips,J"
+"Phillips,J",P561,"Phillips,M"
+"Phillips,M",P562,"Phillips,S"
+"Phillips,S",P563,"Phillips,W"
+"Phillips,W",P564,Philo
 Philo,P565,Philoc
 Philoc,P566,Philom
 Philom,P567,Philos
@@ -8094,8 +8094,8 @@ Picco,P591,Pich
 Pich,P592,Picho
 Picho,P593,Pick
 Pick,P594,Picker
-Picker,P595,"Pickering, M"
-"Pickering, M",P596,Picket
+Picker,P595,"Pickering,M"
+"Pickering,M",P596,Picket
 Picket,P597,Pico
 Pico,P598,Picou
 Picou,P599,Pict
@@ -8103,10 +8103,10 @@ Pict,P611,Pid
 Pid,P612,Pie
 Pie,P613,Pien
 Pien,P614,Pier
-Pier,P615,"Pierce, G"
-"Pierce, G",P616,"Pierce, M"
-"Pierce, M",P617,"Pierce, S"
-"Pierce, S",P618,Pierl
+Pier,P615,"Pierce,G"
+"Pierce,G",P616,"Pierce,M"
+"Pierce,M",P617,"Pierce,S"
+"Pierce,S",P618,Pierl
 Pierl,P619,Pierp
 Pierp,P621,Pierr
 Pierr,P622,Pierres
@@ -8121,8 +8121,8 @@ Pigg,P631,Pign
 Pign,P632,Pigo
 Pigo,P633,Pih
 Pih,P634,Pik
-Pik,P635,"Pike, M"
-"Pike, M",P636,Pil
+Pik,P635,"Pike,M"
+"Pike,M",P636,Pil
 Pil,P637,Piles
 Piles,P638,Pilk
 Pilk,P639,Pill
@@ -8234,13 +8234,13 @@ Poli,P766,Polier
 Polier,P767,Polig
 Polig,P768,Polit
 Polit,P769,Poll
-Poll,P771,"Pollard, M"
-"Pollard, M",P772,Polle
+Poll,P771,"Pollard,M"
+"Pollard,M",P772,Polle
 Polle,P773,Polli
 Polli,P774,Pollio
 Pollio,P775,Pollo
-Pollo,P776,"Pollock, M"
-"Pollock, M",P777,Polo
+Pollo,P776,"Pollock,M"
+"Pollock,M",P777,Polo
 Polo,P778,Polt
 Polt,P779,Poly
 Poly,P781,Polyc
@@ -8274,8 +8274,8 @@ Poo,P821,Poole
 Poole,P822,Poor
 Poor,P823,Poort
 Poort,P824,Pop
-Pop,P825,"Pope, M"
-"Pope, M",P826,Poph
+Pop,P825,"Pope,M"
+"Pope,M",P826,Poph
 Poph,P827,Popi
 Popi,P828,Popo
 Popo,P829,Popp
@@ -8291,12 +8291,12 @@ Port,P839,Portaf
 Portaf,P841,Portal
 Portal,P842,Porte
 Porte,P843,Porter
-Porter,P844,"Porter, F"
-"Porter, F",P845,"Porter, J"
-"Porter, J",P846,"Porter, M"
-"Porter, M",P847,"Porter, S"
-"Porter, S",P848,"Porter, W"
-"Porter, W",P849,Porth
+Porter,P844,"Porter,F"
+"Porter,F",P845,"Porter,J"
+"Porter,J",P846,"Porter,M"
+"Porter,M",P847,"Porter,S"
+"Porter,S",P848,"Porter,W"
+"Porter,W",P849,Porth
 Porth,P851,Porti
 Porti,P852,Portm
 Portm,P853,Porz
@@ -8311,10 +8311,10 @@ Poth,P862,Poti
 Poti,P863,Poto
 Poto,P864,Pott
 Pott,P865,Potter
-Potter,P866,"Potter, G"
-"Potter, G",P867,"Potter, M"
-"Potter, M",P868,"Potter, S"
-"Potter, S",P869,Potti
+Potter,P866,"Potter,G"
+"Potter,G",P867,"Potter,M"
+"Potter,M",P868,"Potter,S"
+"Potter,S",P869,Potti
 Potti,P871,Pou
 Pou,P872,Poui
 Poui,P873,Poul
@@ -8325,11 +8325,11 @@ Pour,P877,Pous
 Pous,P878,Pout
 Pout,P879,Pow
 Pow,P881,Powell
-Powell,P882,"Powell, F"
-"Powell, F",P883,"Powell, J"
-"Powell, J",P884,"Powell, M"
-"Powell, M",P885,"Powell, S"
-"Powell, S",P886,Power
+Powell,P882,"Powell,F"
+"Powell,F",P883,"Powell,J"
+"Powell,J",P884,"Powell,M"
+"Powell,M",P885,"Powell,S"
+"Powell,S",P886,Power
 Power,P887,Powers
 Powers,P888,Pown
 Pown,P889,Poy
@@ -8344,11 +8344,11 @@ Praet,P898,Pran
 Pran,P899,Pras
 Pras,P911,Prat
 Prat,P912,Pratt
-Pratt,P913,"Pratt, F"
-"Pratt, F",P914,"Pratt, J"
-"Pratt, J",P915,"Pratt, M"
-"Pratt, M",P916,"Pratt, S"
-"Pratt, S",P917,Prau
+Pratt,P913,"Pratt,F"
+"Pratt,F",P914,"Pratt,J"
+"Pratt,J",P915,"Pratt,M"
+"Pratt,M",P916,"Pratt,S"
+"Pratt,S",P917,Prau
 Prau,P918,Prax
 Prax,P919,Pray
 Pray,P921,Pre
@@ -8359,32 +8359,32 @@ Prem,P925,Pren
 Pren,P926,Prent
 Prent,P927,Pres
 Pres,P928,Prescott
-Prescott,P929,"Prescott, G"
-"Prescott, G",P931,"Prescott, M"
-"Prescott, M",P932,"Prescott, S"
-"Prescott, S",P933,Presl
+Prescott,P929,"Prescott,G"
+"Prescott,G",P931,"Prescott,M"
+"Prescott,M",P932,"Prescott,S"
+"Prescott,S",P933,Presl
 Presl,P934,Press
 Press,P935,Prest
 Prest,P936,Preston
-Preston,P937,"Preston, G"
-"Preston, G",P938,"Preston, M"
-"Preston, M",P939,"Preston, S"
-"Preston, S",P941,"Preston, W"
-"Preston, W",P942,Preu
+Preston,P937,"Preston,G"
+"Preston,G",P938,"Preston,M"
+"Preston,M",P939,"Preston,S"
+"Preston,S",P941,"Preston,W"
+"Preston,W",P942,Preu
 Preu,P943,Prev
 Prev,P944,Pri
-Pri,P945,"Price, M"
-"Price, M",P946,Prich
+Pri,P945,"Price,M"
+"Price,M",P946,Prich
 Prich,P947,Prie
 Prie,P948,Pries
 Pries,P949,Prieu
 Prieu,P951,Prim
 Prim,P952,Prime
 Prime,P953,Prin
-Prin,P954,"Prince, G"
-"Prince, G",P955,"Prince, M"
-"Prince, M",P956,"Prince, S"
-"Prince, S",P957,Prio
+Prin,P954,"Prince,G"
+"Prince,G",P955,"Prince,M"
+"Prince,M",P956,"Prince,S"
+"Prince,S",P957,Prio
 Prio,P958,Pris
 Pris,P959,Prit
 Prit,P961,Pro
@@ -8413,10 +8413,10 @@ Pur,P985,Purs
 Purs,P986,Pus
 Pus,P987,Put
 Put,P988,Putnam
-Putnam,P989,"Putnam, G"
-"Putnam, G",P991,"Putnam, M"
-"Putnam, M",P992,"Putnam, S"
-"Putnam, S",P993,Puy
+Putnam,P989,"Putnam,G"
+"Putnam,G",P991,"Putnam,M"
+"Putnam,M",P992,"Putnam,S"
+"Putnam,S",P993,Puy
 Puy,P994,Py
 Py,P995,Pyl
 Pyl,P996,Pyn
@@ -8494,21 +8494,21 @@ Ramm,R174,Ramo
 Ramo,R175,Ramou
 Ramou,R176,Ramp
 Ramp,R177,Rams
-Rams,R178,"Ramsay, J"
-"Ramsay, J",R179,"Ramsay, P"
-"Ramsay, P",R181,Ramsd
+Rams,R178,"Ramsay,J"
+"Ramsay,J",R179,"Ramsay,P"
+"Ramsay,P",R181,Ramsd
 Ramsd,R182,Ramse
 Ramse,R183,Ramu
 Ramu,R184,Ran
 Ran,R185,Rand
-Rand,R186,"Rand, M"
-"Rand, M",R187,Randall
-Randall,R188,"Randall, M"
-"Randall, M",R189,Rande
+Rand,R186,"Rand,M"
+"Rand,M",R187,Randall
+Randall,R188,"Randall,M"
+"Randall,M",R189,Rande
 Rande,R191,Rando
-Rando,R192,"Randolph, G"
-"Randolph, G",R193,"Randolph, M"
-"Randolph, M",R194,Randon
+Rando,R192,"Randolph,G"
+"Randolph,G",R193,"Randolph,M"
+"Randolph,M",R194,Randon
 Randon,R195,Rang
 Rang,R196,Rani
 Rani,R197,Rank
@@ -8561,16 +8561,16 @@ Rawl,R258,Rawlin
 Rawlin,R259,Rawlinson
 Rawlinson,R261,Raws
 Raws,R262,Ray
-Ray,R263,"Ray, M"
-"Ray, M",R264,Rayb
+Ray,R263,"Ray,M"
+"Ray,M",R264,Rayb
 Rayb,R265,Raye
 Raye,R266,Raym
 Raym,R267,Raymond
-Raymond,R268,"Raymond, G"
-"Raymond, G",R269,"Raymond, M"
-"Raymond, M",R271,"Raymond, S"
-"Raymond, S",R272,"Raymond, W"
-"Raymond, W",R273,Rayn
+Raymond,R268,"Raymond,G"
+"Raymond,G",R269,"Raymond,M"
+"Raymond,M",R271,"Raymond,S"
+"Raymond,S",R272,"Raymond,W"
+"Raymond,W",R273,Rayn
 Rayn,R274,Rayne
 Rayne,R275,Rayno
 Rayno,R276,Rayo
@@ -8578,11 +8578,11 @@ Rayo,R277,Raz
 Raz,R278,Razou
 Razou,R279,Re
 Re,R281,Read
-Read,R282,"Read, H"
-"Read, H",R283,"Read, M"
-"Read, M",R284,Reade
-Reade,R285,"Reade, M"
-"Reade, M",R286,Reading
+Read,R282,"Read,H"
+"Read,H",R283,"Read,M"
+"Read,M",R284,Reade
+Reade,R285,"Reade,M"
+"Reade,M",R286,Reading
 Reading,R287,Real
 Real,R288,Reb
 Reb,R289,Rebell
@@ -8606,11 +8606,11 @@ Redm,R318,Redo
 Redo,R319,Redp
 Redp,R321,Ree
 Ree,R322,Reed
-Reed,R323,"Reed, G"
-"Reed, G",R324,"Reed, M"
-"Reed, M",R325,"Reed, S"
-"Reed, S",R326,"Reed, W"
-"Reed, W",R327,Rees
+Reed,R323,"Reed,G"
+"Reed,G",R324,"Reed,M"
+"Reed,M",R325,"Reed,S"
+"Reed,S",R326,"Reed,W"
+"Reed,W",R327,Rees
 Rees,R328,Reese
 Reese,R329,Reev
 Reev,R331,Reeves
@@ -8633,13 +8633,13 @@ Reicha,R348,Reiche
 Reiche,R349,Reichen
 Reichen,R351,Reichm
 Reichm,R352,Reid
-Reid,R353,"Reid, D"
-"Reid, D",R354,"Reid, F"
-"Reid, F",R355,"Reid, J"
-"Reid, J",R356,"Reid, M"
-"Reid, M",R357,"Reid, S"
-"Reid, S",R358,"Reid, W"
-"Reid, W",R359,Reif
+Reid,R353,"Reid,D"
+"Reid,D",R354,"Reid,F"
+"Reid,F",R355,"Reid,J"
+"Reid,J",R356,"Reid,M"
+"Reid,M",R357,"Reid,S"
+"Reid,S",R358,"Reid,W"
+"Reid,W",R359,Reif
 Reif,R361,Reil
 Reil,R362,Reim
 Reim,R363,Rein
@@ -8722,11 +8722,11 @@ Reyb,R457,Reym
 Reym,R458,Reyn
 Reyn,R459,Reyni
 Reyni,R461,Reyno
-Reyno,R462,"Reynolds, G"
-"Reynolds, G",R463,"Reynolds, M"
-"Reynolds, M",R464,"Reynolds, S"
-"Reynolds, S",R465,"Reynolds, W"
-"Reynolds, W",R466,Rez
+Reyno,R462,"Reynolds,G"
+"Reynolds,G",R463,"Reynolds,M"
+"Reynolds,M",R464,"Reynolds,S"
+"Reynolds,S",R465,"Reynolds,W"
+"Reynolds,W",R466,Rez
 Rez,R467,Rh
 Rh,R468,Rhe
 Rhe,R469,Rhen
@@ -8735,8 +8735,8 @@ Rhet,R472,Rhi
 Rhi,R473,Rho
 Rho,R474,Rhod
 Rhod,R475,Rhodes
-Rhodes,R476,"Rhodes, M"
-"Rhodes, M",R477,Rhodo
+Rhodes,R476,"Rhodes,M"
+"Rhodes,M",R477,Rhodo
 Rhodo,R478,Rhou
 Rhou,R479,Ri
 Ri,R481,Rib
@@ -8752,44 +8752,44 @@ Ricci,R491,Ricciar
 Ricciar,R492,Riccio
 Riccio,R493,Ricco
 Ricco,R494,Rice
-Rice,R495,"Rice, G"
-"Rice, G",R496,"Rice, M"
-"Rice, M",R497,Rich
-Rich,R498,"Rich, M"
-"Rich, M",R499,Richard
-Richard,R511,"Richard, G"
-"Richard, G",R512,"Richard, M"
-"Richard, M",R513,Richards
-Richards,R514,"Richards, F"
-"Richards, F",R515,"Richards, J"
-"Richards, J",R516,"Richards, M"
-"Richards, M",R517,"Richards, S"
-"Richards, S",R518,"Richards, W"
-"Richards, W",R519,Richardson
-Richardson,R521,"Richardson, D"
-"Richardson, D",R522,"Richardson, J"
-"Richardson, J",R523,"Richardson, M"
-"Richardson, M",R524,"Richardson, S"
-"Richardson, S",R525,"Richardson, W"
-"Richardson, W",R526,Riche
+Rice,R495,"Rice,G"
+"Rice,G",R496,"Rice,M"
+"Rice,M",R497,Rich
+Rich,R498,"Rich,M"
+"Rich,M",R499,Richard
+Richard,R511,"Richard,G"
+"Richard,G",R512,"Richard,M"
+"Richard,M",R513,Richards
+Richards,R514,"Richards,F"
+"Richards,F",R515,"Richards,J"
+"Richards,J",R516,"Richards,M"
+"Richards,M",R517,"Richards,S"
+"Richards,S",R518,"Richards,W"
+"Richards,W",R519,Richardson
+Richardson,R521,"Richardson,D"
+"Richardson,D",R522,"Richardson,J"
+"Richardson,J",R523,"Richardson,M"
+"Richardson,M",R524,"Richardson,S"
+"Richardson,S",R525,"Richardson,W"
+"Richardson,W",R526,Riche
 Riche,R527,Richel
 Richel,R528,Richer
 Richer,R529,Richi
 Richi,R531,Richm
-Richm,R532,"Richmond, M"
-"Richmond, M",R533,Richt
+Richm,R532,"Richmond,M"
+"Richmond,M",R533,Richt
 Richt,R534,Richter
-Richter,R535,"Richter, M"
-"Richter, M",R536,"Richter, S"
-"Richter, S",R537,Rici
+Richter,R535,"Richter,M"
+"Richter,M",R536,"Richter,S"
+"Richter,S",R537,Rici
 Rici,R538,Rick
 Rick,R539,Rico
 Rico,R541,Rid
 Rid,R542,Riddel
 Riddel,R543,Ride
 Ride,R544,Ridl
-Ridl,R545,"Ridley, M"
-"Ridley, M",R546,Rido
+Ridl,R545,"Ridley,M"
+"Ridley,M",R546,Rido
 Rido,R547,Rie
 Rie,R548,Ried
 Ried,R549,Riedes
@@ -8828,21 +8828,21 @@ Rio,R585,Rios
 Rios,R586,Riou
 Riou,R587,Rip
 Rip,R588,Ripley
-Ripley,R589,"Ripley, H"
-"Ripley, H",R591,"Ripley, R"
-"Ripley, R",R592,Ripp
+Ripley,R589,"Ripley,H"
+"Ripley,H",R591,"Ripley,R"
+"Ripley,R",R592,Ripp
 Ripp,R593,Riq
 Riq,R594,Ris
 Ris,R595,Riss
 Riss,R596,Rist
 Rist,R597,Rit
-Rit,R598,"Ritchie, G"
-"Ritchie, G",R599,"Ritchie, M"
-"Ritchie, M",R611,Rits
+Rit,R598,"Ritchie,G"
+"Ritchie,G",R599,"Ritchie,M"
+"Ritchie,M",R611,Rits
 Rits,R612,Ritt
 Ritt,R613,Ritter
-Ritter,R614,"Ritter, M"
-"Ritter, M",R615,Riv
+Ritter,R614,"Ritter,M"
+"Ritter,M",R615,Riv
 Riv,R616,Rivan
 Rivan,R617,Rivar
 Rivar,R618,Rivau
@@ -8857,38 +8857,38 @@ Riz,R627,Ro
 Ro,R628,Robar
 Robar,R629,Robb
 Robb,R631,Robbins
-Robbins,R632,"Robbins, F"
-"Robbins, F",R633,"Robbins, J"
-"Robbins, J",R634,"Robbins, M"
-"Robbins, M",R635,"Robbins, S"
-"Robbins, S",R636,"Robbins, W"
-"Robbins, W",R637,Robe
+Robbins,R632,"Robbins,F"
+"Robbins,F",R633,"Robbins,J"
+"Robbins,J",R634,"Robbins,M"
+"Robbins,M",R635,"Robbins,S"
+"Robbins,S",R636,"Robbins,W"
+"Robbins,W",R637,Robe
 Robe,R638,Robert
-Robert,R639,"Robert, G"
-"Robert, G",R641,"Robert, M"
-"Robert, M",R642,Roberts
-Roberts,R643,"Roberts, F"
-"Roberts, F",R644,"Roberts, J"
-"Roberts, J",R645,"Roberts, M"
-"Roberts, M",R646,"Roberts, S"
-"Roberts, S",R647,"Roberts, W"
-"Roberts, W",R648,Robertson
-Robertson,R649,"Robertson, J"
-"Robertson, J",R651,"Robertson, S"
-"Robertson, S",R652,Robes
+Robert,R639,"Robert,G"
+"Robert,G",R641,"Robert,M"
+"Robert,M",R642,Roberts
+Roberts,R643,"Roberts,F"
+"Roberts,F",R644,"Roberts,J"
+"Roberts,J",R645,"Roberts,M"
+"Roberts,M",R646,"Roberts,S"
+"Roberts,S",R647,"Roberts,W"
+"Roberts,W",R648,Robertson
+Robertson,R649,"Robertson,J"
+"Robertson,J",R651,"Robertson,S"
+"Robertson,S",R652,Robes
 Robes,R653,Robi
 Robi,R654,Robin
 Robin,R655,Robine
 Robine,R656,Robins
 Robins,R657,Robinson
-Robinson,R658,"Robinson, D"
-"Robinson, D",R659,"Robinson, G"
-"Robinson, G",R661,"Robinson, J"
-"Robinson, J",R662,"Robinson, M"
-"Robinson, M",R663,"Robinson, S"
-"Robinson, S",R664,"Robinson, T"
-"Robinson, T",R665,"Robinson, W"
-"Robinson, W",R666,Robs
+Robinson,R658,"Robinson,D"
+"Robinson,D",R659,"Robinson,G"
+"Robinson,G",R661,"Robinson,J"
+"Robinson,J",R662,"Robinson,M"
+"Robinson,M",R663,"Robinson,S"
+"Robinson,S",R664,"Robinson,T"
+"Robinson,T",R665,"Robinson,W"
+"Robinson,W",R666,Robs
 Robs,R667,Roby
 Roby,R668,Roc
 Roc,R669,Rocc
@@ -8917,8 +8917,8 @@ Rodn,R694,Rodo
 Rodo,R695,Rodr
 Rodr,R696,Rodw
 Rodw,R697,Roe
-Roe,R698,"Roe, M"
-"Roe, M",R699,Roeb
+Roe,R698,"Roe,M"
+"Roe,M",R699,Roeb
 Roeb,R711,Roed
 Roed,R712,Roeh
 Roeh,R713,Roel
@@ -8929,15 +8929,15 @@ Roer,R717,Roes
 Roes,R718,Roet
 Roet,R719,Rog
 Rog,R721,Roger
-Roger,R722,"Roger, M"
-"Roger, M",R723,Rogers
-Rogers,R724,"Rogers, D"
-"Rogers, D",R725,"Rogers, G"
-"Rogers, G",R726,"Rogers, J"
-"Rogers, J",R727,"Rogers, M"
-"Rogers, M",R728,"Rogers, S"
-"Rogers, S",R729,"Rogers, W"
-"Rogers, W",R731,Roget
+Roger,R722,"Roger,M"
+"Roger,M",R723,Rogers
+Rogers,R724,"Rogers,D"
+"Rogers,D",R725,"Rogers,G"
+"Rogers,G",R726,"Rogers,J"
+"Rogers,J",R727,"Rogers,M"
+"Rogers,M",R728,"Rogers,S"
+"Rogers,S",R729,"Rogers,W"
+"Rogers,W",R731,Roget
 Roget,R732,Rogg
 Rogg,R733,Rogi
 Rogi,R734,Rogn
@@ -8951,8 +8951,8 @@ Rok,R742,Roko
 Roko,R743,Rol
 Rol,R744,Role
 Role,R745,Rolf
-Rolf,R746,"Rolfe, M"
-"Rolfe, M",R747,Roli
+Rolf,R746,"Rolfe,M"
+"Rolfe,M",R747,Roli
 Roli,R748,Roll
 Roll,R749,Rolles
 Rolles,R751,Rollett
@@ -8983,8 +8983,8 @@ Rook,R777,Roop
 Roop,R778,Roor
 Roor,R779,Roos
 Roos,R781,Root
-Root,R782,"Root, M"
-"Root, M",R783,Rop
+Root,R782,"Root,M"
+"Root,M",R783,Rop
 Rop,R784,Ropes
 Ropes,R785,Roq
 Roq,R786,Ror
@@ -8992,12 +8992,12 @@ Ror,R787,Ros
 Ros,R788,Rosar
 Rosar,R789,Rosc
 Rosc,R791,Rosco
-Rosco,R792,"Roscoe, G"
-"Roscoe, G",R793,"Roscoe, M"
-"Roscoe, M",R794,Rose
-Rose,R795,"Rose, G"
-"Rose, G",R796,"Rose, M"
-"Rose, M",R797,Roseb
+Rosco,R792,"Roscoe,G"
+"Roscoe,G",R793,"Roscoe,M"
+"Roscoe,M",R794,Rose
+Rose,R795,"Rose,G"
+"Rose,G",R796,"Rose,M"
+"Rose,M",R797,Roseb
 Roseb,R798,Rosec
 Rosec,R799,Rosel
 Rosel,R811,Rosem
@@ -9011,16 +9011,16 @@ Rosew,R818,Rosi
 Rosi,R819,Rosin
 Rosin,R821,Rosn
 Rosn,R822,Ross
-Ross,R823,"Ross, G"
-"Ross, G",R824,"Ross, M"
-"Ross, M",R825,"Ross, S"
-"Ross, S",R826,"Ross, W"
-"Ross, W",R827,Rossel
+Ross,R823,"Ross,G"
+"Ross,G",R824,"Ross,M"
+"Ross,M",R825,"Ross,S"
+"Ross,S",R826,"Ross,W"
+"Ross,W",R827,Rossel
 Rossel,R828,Rosset
 Rosset,R829,Rossi
-Rossi,R831,"Rossi, G"
-"Rossi, G",R832,"Rossi, M"
-"Rossi, M",R833,Rossig
+Rossi,R831,"Rossi,G"
+"Rossi,G",R832,"Rossi,M"
+"Rossi,M",R833,Rossig
 Rossig,R834,Rossin
 Rossin,R835,Rossl
 Rossl,R836,Rossm
@@ -9061,8 +9061,8 @@ Rovet,R874,Rovi
 Rovi,R875,Row
 Row,R876,Rowan
 Rowan,R877,Rowe
-Rowe,R878,"Rowe, M"
-"Rowe, M",R879,Rowel
+Rowe,R878,"Rowe,M"
+"Rowe,M",R879,Rowel
 Rowel,R881,Rowi
 Rowi,R882,Rowl
 Rowl,R883,Rowle
@@ -9117,22 +9117,22 @@ Rupr,R947,Rur
 Rur,R948,Rus
 Rus,R949,Rusch
 Rusch,R951,Rush
-Rush,R952,"Rush, M"
-"Rush, M",R953,Rusht
+Rush,R952,"Rush,M"
+"Rush,M",R953,Rusht
 Rusht,R954,Rushw
 Rushw,R955,Rusk
 Rusk,R956,Rusp
 Rusp,R957,Russ
 Russ,R958,Russel
 Russel,R959,Russell
-Russell,R961,"Russell, D"
-"Russell, D",R962,"Russell, F"
-"Russell, F",R963,"Russell, J"
-"Russell, J",R964,"Russell, M"
-"Russell, M",R965,"Russell, P"
-"Russell, P",R966,"Russell, S"
-"Russell, S",R967,"Russell, W"
-"Russell, W",R968,Russi
+Russell,R961,"Russell,D"
+"Russell,D",R962,"Russell,F"
+"Russell,F",R963,"Russell,J"
+"Russell,J",R964,"Russell,M"
+"Russell,M",R965,"Russell,P"
+"Russell,P",R966,"Russell,S"
+"Russell,S",R967,"Russell,W"
+"Russell,W",R968,Russi
 Russi,R969,Rust
 Rust,R971,Rut
 Rut,R972,Rutg
@@ -9141,8 +9141,8 @@ Ruth,R974,Rutherf
 Rutherf,R975,Ruthv
 Ruthv,R976,Ruti
 Ruti,R977,Rutl
-Rutl,R978,"Rutland, M"
-"Rutland, M",R979,Rutledge
+Rutl,R978,"Rutland,M"
+"Rutland,M",R979,Rutledge
 Rutledge,R981,Rutt
 Rutt,R982,Ruv
 Ruv,R983,Rux
@@ -9150,8 +9150,8 @@ Rux,R984,Ruy
 Ruy,R985,Ruyt
 Ruyt,R986,Ruz
 Ruz,R987,Ry
-Ry,R988,"Ryan, M"
-"Ryan, M",R989,Ryc
+Ry,R988,"Ryan,M"
+"Ryan,M",R989,Ryc
 Ryc,R991,Ryd
 Ryd,R992,Rye
 Rye,R993,Ryl
@@ -9288,8 +9288,8 @@ Saup,S258,Saur
 Saur,S259,Saut
 Saut,S261,Sauv
 Sauv,S262,Sav
-Sav,S263,"Savage, J"
-"Savage, J",S264,Savar
+Sav,S263,"Savage,J"
+"Savage,J",S264,Savar
 Savar,S265,Savas
 Savas,S266,Savi
 Savi,S267,Savo
@@ -9327,8 +9327,8 @@ Schat,S312,Schau
 Schau,S313,Sche
 Sche,S314,Sched
 Sched,S315,Schef
-Schef,S316,"Scheffer, J"
-"Scheffer, J",S317,Schei
+Schef,S316,"Scheffer,J"
+"Scheffer,J",S317,Schei
 Schei,S318,Scheif
 Scheif,S319,Scheit
 Scheit,S321,Schel
@@ -9357,16 +9357,16 @@ Schlo,S345,Schlu
 Schlu,S346,Schm
 Schm,S347,Schmi
 Schmi,S348,Schmidt
-Schmidt,S349,"Schmidt, F"
-"Schmidt, F",S351,"Schmidt, J"
-"Schmidt, J",S352,"Schmidt, L"
-"Schmidt, L",S353,"Schmidt, S"
-"Schmidt, S",S354,Schmit
+Schmidt,S349,"Schmidt,F"
+"Schmidt,F",S351,"Schmidt,J"
+"Schmidt,J",S352,"Schmidt,L"
+"Schmidt,L",S353,"Schmidt,S"
+"Schmidt,S",S354,Schmit
 Schmit,S355,Schmo
 Schmo,S356,Schn
 Schn,S357,Schne
-Schne,S358,"Schneider, J"
-"Schneider, J",S359,Schni
+Schne,S358,"Schneider,J"
+"Schneider,J",S359,Schni
 Schni,S361,Schno
 Schno,S362,Scho
 Scho,S363,Schoe
@@ -9392,8 +9392,8 @@ Schube,S384,Schue
 Schue,S385,Schul
 Schul,S386,Schultz
 Schultz,S387,Schulz
-Schulz,S388,"Schulz, J"
-"Schulz, J",S389,Schulze
+Schulz,S388,"Schulz,J"
+"Schulz,J",S389,Schulze
 Schulze,S391,Schum
 Schum,S392,Schun
 Schun,S393,Schur
@@ -9416,12 +9416,12 @@ Sco,S421,Scog
 Scog,S422,Scor
 Scor,S423,Scot
 Scot,S424,Scott
-Scott,S425,"Scott, G"
-"Scott, G",S426,"Scott, J"
-"Scott, J",S427,"Scott, M"
-"Scott, M",S428,"Scott, S"
-"Scott, S",S429,"Scott, W"
-"Scott, W",S431,Scou
+Scott,S425,"Scott,G"
+"Scott,G",S426,"Scott,J"
+"Scott,J",S427,"Scott,M"
+"Scott,M",S428,"Scott,S"
+"Scott,S",S429,"Scott,W"
+"Scott,W",S431,Scou
 Scou,S432,Scr
 Scr,S433,Scri
 Scri,S434,Scro
@@ -9485,12 +9485,12 @@ Sev,S497,Sever
 Sever,S498,Severus
 Severus,S499,Sevi
 Sevi,S511,Sew
-Sew,S512,"Sewall, S"
-"Sewall, S",S513,Seward
+Sew,S512,"Sewall,S"
+"Sewall,S",S513,Seward
 Seward,S514,Sewel
 Sewel,S515,Sewell
-Sewell,S516,"Sewell, S"
-"Sewell, S",S517,Sex
+Sewell,S516,"Sewell,S"
+"Sewell,S",S517,Sex
 Sex,S518,Sey
 Sey,S519,Seym
 Seym,S521,Seyt
@@ -9505,10 +9505,10 @@ Shap,S529,Shar
 Shar,S531,Sharpe
 Sharpe,S532,Shat
 Shat,S533,Shaw
-Shaw,S534,"Shaw, L"
-"Shaw, L",S535,"Shaw, S"
-"Shaw, S",S536,"Shaw, W"
-"Shaw, W",S537,Shay
+Shaw,S534,"Shaw,L"
+"Shaw,L",S535,"Shaw,S"
+"Shaw,S",S536,"Shaw,W"
+"Shaw,W",S537,Shay
 Shay,S538,She
 She,S539,Shed
 Shed,S541,Shef
@@ -9559,9 +9559,9 @@ Sime,S589,Siml
 Siml,S591,Simm
 Simm,S592,Simo
 Simo,S593,Simon
-Simon,S594,"Simon, J"
-"Simon, J",S595,"Simon, P"
-"Simon, P",S596,Simond
+Simon,S594,"Simon,J"
+"Simon,J",S595,"Simon,P"
+"Simon,P",S596,Simond
 Simond,S597,Simone
 Simone,S598,Simoni
 Simoni,S599,Simons
@@ -9593,27 +9593,27 @@ Sme,S637,Smel
 Smel,S638,Smi
 Smi,S639,Smil
 Smil,S641,Smit
-Smit,S642,"Smith, B"
-"Smith, B",S643,"Smith, C"
-"Smith, C",S644,"Smith, D"
-"Smith, D",S645,"Smith, E"
-"Smith, E",S646,"Smith, F"
-"Smith, F",S647,"Smith, G"
-"Smith, G",S648,"Smith, H"
-"Smith, H",S649,"Smith, J"
-"Smith, J",S651,"Smith, John"
-"Smith, John",S652,"Smith, Jos"
-"Smith, Jos",S653,"Smith, L"
-"Smith, L",S654,"Smith, M"
-"Smith, M",S655,"Smith, O"
-"Smith, O",S656,"Smith, R"
-"Smith, R",S657,"Smith, Robert"
-"Smith, Robert",S658,"Smith, S"
-"Smith, S",S659,"Smith, Sol"
-"Smith, Sol",S661,"Smith, T"
-"Smith, T",S662,"Smith, W"
-"Smith, W",S663,"Smith, Wm"
-"Smith, Wm",S664,Smits
+Smit,S642,"Smith,B"
+"Smith,B",S643,"Smith,C"
+"Smith,C",S644,"Smith,D"
+"Smith,D",S645,"Smith,E"
+"Smith,E",S646,"Smith,F"
+"Smith,F",S647,"Smith,G"
+"Smith,G",S648,"Smith,H"
+"Smith,H",S649,"Smith,J"
+"Smith,J",S651,"Smith,John"
+"Smith,John",S652,"Smith,Jos"
+"Smith,Jos",S653,"Smith,L"
+"Smith,L",S654,"Smith,M"
+"Smith,M",S655,"Smith,O"
+"Smith,O",S656,"Smith,R"
+"Smith,R",S657,"Smith,Robert"
+"Smith,Robert",S658,"Smith,S"
+"Smith,S",S659,"Smith,Sol"
+"Smith,Sol",S661,"Smith,T"
+"Smith,T",S662,"Smith,W"
+"Smith,W",S663,"Smith,Wm"
+"Smith,Wm",S664,Smits
 Smits,S665,Smo
 Smo,S666,Smy
 Smy,S667,Smythe
@@ -9677,8 +9677,8 @@ Spe,S741,Spee
 Spee,S742,Spel
 Spel,S743,Spen
 Spen,S744,Spencer
-Spencer,S745,"Spencer, S"
-"Spencer, S",S746,Spene
+Spencer,S745,"Spencer,S"
+"Spencer,S",S746,Spene
 Spene,S747,Spens
 Spens,S748,Sper
 Sper,S749,Sperr
@@ -9715,9 +9715,9 @@ Stam,S783,Stan
 Stan,S784,Stand
 Stand,S785,Stanh
 Stanh,S786,Stanl
-Stanl,S787,"Stanley, J"
-"Stanley, J",S788,"Stanley, S"
-"Stanley, S",S789,Stans
+Stanl,S787,"Stanley,J"
+"Stanley,J",S788,"Stanley,S"
+"Stanley,S",S789,Stans
 Stans,S791,Stant
 Stant,S792,Stap
 Stap,S793,Stapl
@@ -9743,28 +9743,28 @@ Stel,S824,Sten
 Sten,S825,Steno
 Steno,S826,Step
 Step,S827,Stephen
-Stephen,S828,"Stephen, M"
-"Stephen, M",S829,"Stephen, S"
-"Stephen, S",S831,Stephens
-Stephens,S832,"Stephens, G"
-"Stephens, G",S833,"Stephens, L"
-"Stephens, L",S834,"Stephens, R"
-"Stephens, R",S835,Stephenson
-Stephenson,S836,"Stephenson, R"
-"Stephenson, R",S837,Ster
+Stephen,S828,"Stephen,M"
+"Stephen,M",S829,"Stephen,S"
+"Stephen,S",S831,Stephens
+Stephens,S832,"Stephens,G"
+"Stephens,G",S833,"Stephens,L"
+"Stephens,L",S834,"Stephens,R"
+"Stephens,R",S835,Stephenson
+Stephenson,S836,"Stephenson,R"
+"Stephenson,R",S837,Ster
 Ster,S838,Stern
 Stern,S839,Stet
 Stet,S841,Steu
 Steu,S842,Stev
 Stev,S843,Stevens
-Stevens,S844,"Stevens, M"
-"Stevens, M",S845,"Stevens, S"
-"Stevens, S",S846,Stevenson
-Stevenson,S847,"Stevenson, M"
-"Stevenson, M",S848,Stew
-Stew,S849,"Stewart, M"
-"Stewart, M",S851,"Stewart, T"
-"Stewart, T",S852,Stey
+Stevens,S844,"Stevens,M"
+"Stevens,M",S845,"Stevens,S"
+"Stevens,S",S846,Stevenson
+Stevenson,S847,"Stevenson,M"
+"Stevenson,M",S848,Stew
+Stew,S849,"Stewart,M"
+"Stewart,M",S851,"Stewart,T"
+"Stewart,T",S852,Stey
 Stey,S853,Sti
 Sti,S854,Stie
 Stie,S855,Stil
@@ -9778,26 +9778,26 @@ Sto,S863,Stoc
 Stoc,S864,Stockl
 Stockl,S865,Stockt
 Stockt,S866,Stod
-Stod,S867,"Stoddard, M"
-"Stoddard, M",S868,"Stoddard, S"
-"Stoddard, S",S869,Stoe
+Stod,S867,"Stoddard,M"
+"Stoddard,M",S868,"Stoddard,S"
+"Stoddard,S",S869,Stoe
 Stoe,S871,Stoel
 Stoel,S872,Stof
 Stof,S873,Stok
 Stok,S874,Stol
 Stol,S875,Stolt
 Stolt,S876,Ston
-Ston,S877,"Stone, J"
-"Stone, J",S878,"Stone, M"
-"Stone, M",S879,"Stone, T"
-"Stone, T",S881,Stoo
+Ston,S877,"Stone,J"
+"Stone,J",S878,"Stone,M"
+"Stone,M",S879,"Stone,T"
+"Stone,T",S881,Stoo
 Stoo,S882,Stop
 Stop,S883,Stor
 Stor,S884,Stork
 Stork,S885,Storr
 Storr,S886,Story
-Story,S887,"Story, S"
-"Story, S",S888,Stou
+Story,S887,"Story,S"
+"Story,S",S888,Stou
 Stou,S889,Stow
 Stow,S891,Stowe
 Stowe,S892,Stowell
@@ -9819,15 +9819,15 @@ Strin,S918,Stro
 Stro,S919,Strog
 Strog,S921,Stron
 Stron,S922,Strong
-Strong,S923,"Strong, P"
-"Strong, P",S924,Strot
+Strong,S923,"Strong,P"
+"Strong,P",S924,Strot
 Strot,S925,Stroz
 Stroz,S926,Stru
 Stru,S927,Stry
 Stry,S928,Stu
-Stu,S929,"Stuart, J"
-"Stuart, J",S931,"Stuart, M"
-"Stuart, M",S932,Stud
+Stu,S929,"Stuart,J"
+"Stuart,J",S931,"Stuart,M"
+"Stuart,M",S932,Stud
 Stud,S933,Stuk
 Stuk,S934,Stur
 Stur,S935,Sturm
@@ -9843,9 +9843,9 @@ Suev,S945,Suf
 Suf,S946,Sug
 Sug,S947,Sui
 Sui,S948,Sul
-Sul,S949,"Sullivan, M"
-"Sullivan, M",S951,"Sullivan, S"
-"Sullivan, S",S952,Sully
+Sul,S949,"Sullivan,M"
+"Sullivan,M",S951,"Sullivan,S"
+"Sullivan,S",S952,Sully
 Sully,S953,Sulp
 Sulp,S954,Sum
 Sum,S955,Sumn
@@ -9915,10 +9915,10 @@ Tain,T134,Tais
 Tais,T135,Tak
 Tak,T136,Tal
 Tal,T137,Talbot
-Talbot,T138,"Talbot, G"
-"Talbot, G",T139,"Talbot, M"
-"Talbot, M",T141,"Talbot, S"
-"Talbot, S",T142,Tale
+Talbot,T138,"Talbot,G"
+"Talbot,G",T139,"Talbot,M"
+"Talbot,M",T141,"Talbot,S"
+"Talbot,S",T142,Tale
 Tale,T143,Talf
 Talf,T144,Talh
 Talh,T145,Tali
@@ -9940,15 +9940,15 @@ Tanc,T162,Tand
 Tand,T163,Tane
 Tane,T164,Tank
 Tank,T165,Tann
-Tann,T166,"Tanner, M"
-"Tanner, M",T167,Tans
+Tann,T166,"Tanner,M"
+"Tanner,M",T167,Tans
 Tans,T168,Tant
 Tant,T169,Tanz
 Tanz,T171,Tap
 Tap,T172,Tapl
 Tapl,T173,Tapp
-Tapp,T174,"Tappan, M"
-"Tappan, M",T175,Tar
+Tapp,T174,"Tappan,M"
+"Tappan,M",T175,Tar
 Tar,T176,Taras
 Taras,T177,Tarau
 Tarau,T178,Tarb
@@ -9976,8 +9976,8 @@ Tasse,T212,Tassi
 Tassi,T213,Tasso
 Tasso,T214,Tasson
 Tasson,T215,Tat
-Tat,T216,"Tate, M"
-"Tate, M",T217,Tath
+Tat,T216,"Tate,M"
+"Tate,M",T217,Tath
 Tath,T218,Tati
 Tati,T219,Tatt
 Tatt,T221,Tau
@@ -9996,15 +9996,15 @@ Taverni,T234,Tax
 Tax,T235,Tay
 Tay,T236,Tayler
 Tayler,T237,Taylor
-Taylor,T238,"Taylor, C"
-"Taylor, C",T239,"Taylor, F"
-"Taylor, F",T241,"Taylor, H"
-"Taylor, H",T242,"Taylor, J"
-"Taylor, J",T243,"Taylor, M"
-"Taylor, M",T244,"Taylor, P"
-"Taylor, P",T245,"Taylor, S"
-"Taylor, S",T246,"Taylor, W"
-"Taylor, W",T247,Taz
+Taylor,T238,"Taylor,C"
+"Taylor,C",T239,"Taylor,F"
+"Taylor,F",T241,"Taylor,H"
+"Taylor,H",T242,"Taylor,J"
+"Taylor,J",T243,"Taylor,M"
+"Taylor,M",T244,"Taylor,P"
+"Taylor,P",T245,"Taylor,S"
+"Taylor,S",T246,"Taylor,W"
+"Taylor,W",T247,Taz
 Taz,T248,Tc
 Tc,T249,Tche
 Tche,T251,Tcho
@@ -10035,23 +10035,23 @@ Tello,T277,Tem
 Tem,T278,Teme
 Teme,T279,Temm
 Temm,T281,Temp
-Temp,T282,"Tempest, M"
-"Tempest, M",T283,Templ
-Templ,T284,"Temple, G"
-"Temple, G",T285,"Temple, M"
-"Temple, M",T286,"Temple, S"
-"Temple, S",T287,Templet
+Temp,T282,"Tempest,M"
+"Tempest,M",T283,Templ
+Templ,T284,"Temple,G"
+"Temple,G",T285,"Temple,M"
+"Temple,M",T286,"Temple,S"
+"Temple,S",T287,Templet
 Templet,T288,Ten
 Ten,T289,Tend
 Tend,T291,Tene
 Tene,T292,Teni
 Teni,T293,Tenis
 Tenis,T294,Tenn
-Tenn,T295,"Tennant, M"
-"Tennant, M",T296,Tenne
+Tenn,T295,"Tennant,M"
+"Tennant,M",T296,Tenne
 Tenne,T297,Tenney
-Tenney,T298,"Tenney, M"
-"Tenney, M",T299,Tenni
+Tenney,T298,"Tenney,M"
+"Tenney,M",T299,Tenni
 Tenni,T311,Tenny
 Tenny,T312,Tent
 Tent,T313,Teo
@@ -10095,20 +10095,20 @@ Tew,T354,Tex
 Tex,T355,Tey
 Tey,T356,Th
 Th,T357,Thac
-Thac,T358,"Thacher, G"
-"Thacher, G",T359,"Thacher, M"
-"Thacher, M",T361,"Thacher, S"
-"Thacher, S",T362,Thack
+Thac,T358,"Thacher,G"
+"Thacher,G",T359,"Thacher,M"
+"Thacher,M",T361,"Thacher,S"
+"Thacher,S",T362,Thack
 Thack,T363,Thai
 Thai,T364,Thal
 Thal,T365,Tham
 Tham,T366,Than
 Than,T367,Thau
 Thau,T368,Thay
-Thay,T369,"Thayer, G"
-"Thayer, G",T371,"Thayer, M"
-"Thayer, M",T372,"Thayer, S"
-"Thayer, S",T373,The
+Thay,T369,"Thayer,G"
+"Thayer,G",T371,"Thayer,M"
+"Thayer,M",T372,"Thayer,S"
+"Thayer,S",T373,The
 The,T374,Theb
 Theb,T375,Thei
 Thei,T376,Theim
@@ -10156,8 +10156,8 @@ Thielm,T432,Thiem
 Thiem,T433,Thien
 Thien,T434,Thier
 Thier,T435,Thierry
-Thierry,T436,"Thierry, M"
-"Thierry, M",T437,Thiers
+Thierry,T436,"Thierry,M"
+"Thierry,M",T437,Thiers
 Thiers,T438,Thies
 Thies,T439,Thil
 Thil,T441,Thilo
@@ -10172,36 +10172,36 @@ Tho,T449,Thol
 Thol,T451,Thom
 Thom,T452,Thoman
 Thoman,T453,Thomas
-Thomas,T454,"Thomas, C"
-"Thomas, C",T455,"Thomas, F"
-"Thomas, F",T456,"Thomas, H"
-"Thomas, H",T457,"Thomas, J"
-"Thomas, J",T458,"Thomas, M"
-"Thomas, M",T459,"Thomas, P"
-"Thomas, P",T461,"Thomas, S"
-"Thomas, S",T462,"Thomas, W"
-"Thomas, W",T463,Thomass
+Thomas,T454,"Thomas,C"
+"Thomas,C",T455,"Thomas,F"
+"Thomas,F",T456,"Thomas,H"
+"Thomas,H",T457,"Thomas,J"
+"Thomas,J",T458,"Thomas,M"
+"Thomas,M",T459,"Thomas,P"
+"Thomas,P",T461,"Thomas,S"
+"Thomas,S",T462,"Thomas,W"
+"Thomas,W",T463,Thomass
 Thomass,T464,Thomassy
 Thomassy,T465,Thomo
 Thomo,T466,Thomp
 Thomp,T467,Thompson
-Thompson,T468,"Thompson, C"
-"Thompson, C",T469,"Thompson, F"
-"Thompson, F",T471,"Thompson, H"
-"Thompson, H",T472,"Thompson, J"
-"Thompson, J",T473,"Thompson, M"
-"Thompson, M",T474,"Thompson, P"
-"Thompson, P",T475,"Thompson, S"
-"Thompson, S",T476,"Thompson, T"
-"Thompson, T",T477,"Thompson, W"
-"Thompson, W",T478,Thoms
+Thompson,T468,"Thompson,C"
+"Thompson,C",T469,"Thompson,F"
+"Thompson,F",T471,"Thompson,H"
+"Thompson,H",T472,"Thompson,J"
+"Thompson,J",T473,"Thompson,M"
+"Thompson,M",T474,"Thompson,P"
+"Thompson,P",T475,"Thompson,S"
+"Thompson,S",T476,"Thompson,T"
+"Thompson,T",T477,"Thompson,W"
+"Thompson,W",T478,Thoms
 Thoms,T479,Thomsen
 Thomsen,T481,Thomson
-Thomson,T482,"Thomson, G"
-"Thomson, G",T483,"Thomson, M"
-"Thomson, M",T484,"Thomson, S"
-"Thomson, S",T485,"Thomson, W"
-"Thomson, W",T486,Thor
+Thomson,T482,"Thomson,G"
+"Thomson,G",T483,"Thomson,M"
+"Thomson,M",T484,"Thomson,S"
+"Thomson,S",T485,"Thomson,W"
+"Thomson,W",T486,Thor
 Thor,T487,Thore
 Thore,T488,Thores
 Thores,T489,Thori
@@ -10216,15 +10216,15 @@ Thornd,T498,Thorndi
 Thorndi,T499,Thorne
 Thorne,T511,Thorney
 Thorney,T512,Thornt
-Thornt,T513,"Thornton, M"
-"Thornton, M",T514,Thornw
+Thornt,T513,"Thornton,M"
+"Thornton,M",T514,Thornw
 Thornw,T515,Thoro
 Thoro,T516,Thorp
 Thorp,T517,Thorpe
-Thorpe,T518,"Thorpe, G"
-"Thorpe, G",T519,"Thorpe, M"
-"Thorpe, M",T521,"Thorpe, S"
-"Thorpe, S",T522,Thort
+Thorpe,T518,"Thorpe,G"
+"Thorpe,G",T519,"Thorpe,M"
+"Thorpe,M",T521,"Thorpe,S"
+"Thorpe,S",T522,Thort
 Thort,T523,Thou
 Thou,T524,Thoui
 Thoui,T525,Thour
@@ -10244,10 +10244,10 @@ Thurm,T539,Thurn
 Thurn,T541,Thuro
 Thuro,T542,Thurs
 Thurs,T543,Thurston
-Thurston,T544,"Thurston, G"
-"Thurston, G",T545,"Thurston, M"
-"Thurston, M",T546,"Thurston, S"
-"Thurston, S",T547,Thw
+Thurston,T544,"Thurston,G"
+"Thurston,G",T545,"Thurston,M"
+"Thurston,M",T546,"Thurston,S"
+"Thurston,S",T547,Thw
 Thw,T548,Thy
 Thy,T549,Ti
 Ti,T551,Tib
@@ -10315,10 +10315,10 @@ Tob,T628,Tobi
 Tobi,T629,Toc
 Toc,T631,Tocq
 Tocq,T632,Tod
-Tod,T633,"Todd, G"
-"Todd, G",T634,"Todd, M"
-"Todd, M",T635,"Todd, S"
-"Todd, S",T636,Tode
+Tod,T633,"Todd,G"
+"Todd,G",T634,"Todd,M"
+"Todd,M",T635,"Todd,S"
+"Todd,S",T636,Tode
 Tode,T637,Todh
 Todh,T638,Todl
 Todl,T639,Toe
@@ -10347,8 +10347,8 @@ Tone,T664,Tong
 Tong,T665,Tonn
 Tonn,T666,Tont
 Tont,T667,Too
-Too,T668,"Tooke, M"
-"Tooke, M",T669,Tool
+Too,T668,"Tooke,M"
+"Tooke,M",T669,Tool
 Tool,T671,Toom
 Toom,T672,Top
 Top,T673,Toph
@@ -10400,8 +10400,8 @@ Tourv,T733,Tous
 Tous,T734,Tousse
 Tousse,T735,Tout
 Tout,T736,Tow
-Tow,T737,"Tower, M"
-"Tower, M",T738,Towers
+Tow,T737,"Tower,M"
+"Tower,M",T738,Towers
 Towers,T739,Towg
 Towg,T741,Towl
 Towl,T742,Town
@@ -10409,25 +10409,25 @@ Town,T743,Towne
 Towne,T744,Townel
 Townel,T745,Townl
 Townl,T746,Towns
-Towns,T747,"Townsend, G"
-"Townsend, G",T748,"Townsend, M"
-"Townsend, M",T749,"Townsend, S"
-"Townsend, S",T751,"Townsend, W"
-"Townsend, W",T752,Townsh
-Townsh,T753,"Townshend, M"
-"Townshend, M",T754,Townso
+Towns,T747,"Townsend,G"
+"Townsend,G",T748,"Townsend,M"
+"Townsend,M",T749,"Townsend,S"
+"Townsend,S",T751,"Townsend,W"
+"Townsend,W",T752,Townsh
+Townsh,T753,"Townshend,M"
+"Townshend,M",T754,Townso
 Townso,T755,Toy
 Toy,T756,Toz
 Toz,T757,Tr
 Tr,T758,Trac
 Trac,T759,Tracy
-Tracy,T761,"Tracy, M"
-"Tracy, M",T762,Trad
+Tracy,T761,"Tracy,M"
+"Tracy,M",T762,Trad
 Trad,T763,Trae
 Trae,T764,Trag
 Trag,T765,Trai
-Trai,T766,"Traill, M"
-"Traill, M",T767,Train
+Trai,T766,"Traill,M"
+"Traill,M",T767,Train
 Train,T768,Tral
 Tral,T769,Tram
 Tram,T771,Tran
@@ -10438,8 +10438,8 @@ Tras,T775,Trat
 Trat,T776,Trau
 Trau,T777,Trauts
 Trauts,T778,Trav
-Trav,T779,"Travers, M"
-"Travers, M",T781,Travi
+Trav,T779,"Travers,M"
+"Travers,M",T781,Travi
 Travi,T782,Trax
 Trax,T783,Tre
 Tre,T784,Trebo
@@ -10449,8 +10449,8 @@ Trei,T787,Trel
 Trel,T788,Trem
 Trem,T789,Tremo
 Tremo,T791,Tren
-Tren,T792,"Trench, M"
-"Trench, M",T793,Trenck
+Tren,T792,"Trench,M"
+"Trench,M",T793,Trenck
 Trenck,T794,Trent
 Trent,T795,Tres
 Tres,T796,Tresh
@@ -10461,8 +10461,8 @@ Treu,T811,Trev
 Trev,T812,Trevi
 Trevi,T813,Trevis
 Trevis,T814,Trevo
-Trevo,T815,"Trevor, M"
-"Trevor, M",T816,Trew
+Trevo,T815,"Trevor,M"
+"Trevor,M",T816,Trew
 Trew,T817,Trez
 Trez,T818,Tri
 Tri,T819,Trian
@@ -10490,8 +10490,8 @@ Tro,T843,Trog
 Trog,T844,Troi
 Troi,T845,Trol
 Trol,T846,Trollo
-Trollo,T847,"Trollope, M"
-"Trollope, M",T848,Trom
+Trollo,T847,"Trollope,M"
+"Trollope,M",T848,Trom
 Trom,T849,Tromp
 Tromp,T851,Tron
 Tron,T852,Tronci
@@ -10509,9 +10509,9 @@ Troy,T864,Tru
 Tru,T865,Trud
 Trud,T866,Trum
 Trum,T867,Trumbull
-Trumbull,T868,"Trumbull, J"
-"Trumbull, J",T869,"Trumbull, S"
-"Trumbull, S",T871,Trur
+Trumbull,T868,"Trumbull,J"
+"Trumbull,J",T869,"Trumbull,S"
+"Trumbull,S",T871,Trur
 Trur,T872,Trus
 Trus,T873,Trut
 Trut,T874,Try
@@ -10529,25 +10529,25 @@ Tuc,T886,Tuch
 Tuch,T887,Tucher
 Tucher,T888,Tuck
 Tuck,T889,Tucker
-Tucker,T891,"Tucker, G"
-"Tucker, G",T892,"Tucker, M"
-"Tucker, M",T893,"Tucker, S"
-"Tucker, S",T894,"Tucker, W"
-"Tucker, W",T895,Tuckerman
-Tuckerman,T896,"Tuckerman, M"
-"Tuckerman, M",T897,Tucket
+Tucker,T891,"Tucker,G"
+"Tucker,G",T892,"Tucker,M"
+"Tucker,M",T893,"Tucker,S"
+"Tucker,S",T894,"Tucker,W"
+"Tucker,W",T895,Tuckerman
+Tuckerman,T896,"Tuckerman,M"
+"Tuckerman,M",T897,Tucket
 Tucket,T898,Tud
 Tud,T899,Tudi
 Tudi,T911,Tudo
 Tudo,T912,Tue
 Tue,T913,Tuf
-Tuf,T914,"Tufts, M"
-"Tufts, M",T915,Tuk
+Tuf,T914,"Tufts,M"
+"Tufts,M",T915,Tuk
 Tuk,T916,Tul
 Tul,T917,Tull
 Tull,T918,Tulloch
-Tulloch,T919,"Tulloch, M"
-"Tulloch, M",T921,Tullus
+Tulloch,T919,"Tulloch,M"
+"Tulloch,M",T921,Tullus
 Tullus,T922,Tully
 Tully,T923,Tulo
 Tulo,T924,Tum
@@ -10566,18 +10566,18 @@ Turgo,T937,Turi
 Turi,T938,Turk
 Turk,T939,Turl
 Turl,T941,Turn
-Turn,T942,"Turnbull, M"
-"Turnbull, M",T943,Turne
-Turne,T944,"Turner, C"
-"Turner, C",T945,"Turner, F"
-"Turner, F",T946,"Turner, H"
-"Turner, H",T947,"Turner, J"
-"Turner, J",T948,"Turner, M"
-"Turner, M",T949,"Turner, P"
-"Turner, P",T951,"Turner, S"
-"Turner, S",T952,"Turner, T"
-"Turner, T",T953,"Turner, W"
-"Turner, W",T954,Turnh
+Turn,T942,"Turnbull,M"
+"Turnbull,M",T943,Turne
+Turne,T944,"Turner,C"
+"Turner,C",T945,"Turner,F"
+"Turner,F",T946,"Turner,H"
+"Turner,H",T947,"Turner,J"
+"Turner,J",T948,"Turner,M"
+"Turner,M",T949,"Turner,P"
+"Turner,P",T951,"Turner,S"
+"Turner,S",T952,"Turner,T"
+"Turner,T",T953,"Turner,W"
+"Turner,W",T954,Turnh
 Turnh,T955,Turno
 Turno,T956,Turp
 Turp,T957,Turr
@@ -10601,11 +10601,11 @@ Twys,T976,Ty
 Ty,T977,Tyc
 Tyc,T978,Tye
 Tye,T979,Tyl
-Tyl,T981,"Tyler, G"
-"Tyler, G",T982,"Tyler, M"
-"Tyler, M",T983,"Tyler, S"
-"Tyler, S",T984,"Tyler, W"
-"Tyler, W",T985,Tym
+Tyl,T981,"Tyler,G"
+"Tyler,G",T982,"Tyler,M"
+"Tyler,M",T983,"Tyler,S"
+"Tyler,S",T984,"Tyler,W"
+"Tyler,W",T985,Tym
 Tym,T986,Tyn
 Tyn,T987,Tyndall
 Tyndall,T988,Tyng
@@ -10615,8 +10615,8 @@ Tyr,T992,Tyrrell
 Tyrrell,T993,Tys
 Tys,T994,Tyt
 Tyt,T995,Tytler
-Tytler,T996,"Tytler, S"
-"Tytler, S",T997,Tz
+Tytler,T996,"Tytler,S"
+"Tytler,S",T997,Tz
 Tz,T998,Tzs
 Tzs,T999,Ua
 Ua,U11,Ub
@@ -10742,9 +10742,9 @@ Valens,V153,Valent
 Valent,V154,Valenti
 Valenti,V155,Valentin
 Valentin,V156,Valentine
-Valentine,V157,"Valentine, J"
-"Valentine, J",V158,"Valentine, P"
-"Valentine, P",V159,Valentini
+Valentine,V157,"Valentine,J"
+"Valentine,J",V158,"Valentine,P"
+"Valentine,P",V159,Valentini
 Valentini,V161,Valer
 Valer,V162,Valeri
 Valeri,V163,Valerio
@@ -10816,8 +10816,8 @@ Vandi,V245,Vando
 Vando,V246,Vandy
 Vandy,V247,Vandyk
 Vandyk,V248,Vane
-Vane,V249,"Vane, M"
-"Vane, M",V251,Vanee
+Vane,V249,"Vane,M"
+"Vane,M",V251,Vanee
 Vanee,V252,Vang
 Vang,V253,Vanh
 Vanh,V254,Vanhe
@@ -10910,13 +10910,13 @@ Vaudoy,V359,Vaudr
 Vaudr,V361,Vaudrey
 Vaudrey,V362,Vaug
 Vaug,V363,Vaughan
-Vaughan,V364,"Vaughan, C"
-"Vaughan, C",V365,"Vaughan, G"
-"Vaughan, G",V366,"Vaughan, J"
-"Vaughan, J",V367,"Vaughan, M"
-"Vaughan, M",V368,"Vaughan, S"
-"Vaughan, S",V369,"Vaughan, W"
-"Vaughan, W",V371,Vaugi
+Vaughan,V364,"Vaughan,C"
+"Vaughan,C",V365,"Vaughan,G"
+"Vaughan,G",V366,"Vaughan,J"
+"Vaughan,J",V367,"Vaughan,M"
+"Vaughan,M",V368,"Vaughan,S"
+"Vaughan,S",V369,"Vaughan,W"
+"Vaughan,W",V371,Vaugi
 Vaugi,V372,Vaugo
 Vaugo,V373,Vaul
 Vaul,V374,Vaulo
@@ -10928,9 +10928,9 @@ Vaus,V379,Vaut
 Vaut,V381,Vauv
 Vauv,V382,Vauvi
 Vauvi,V383,Vaux
-Vaux,V384,"Vaux, G"
-"Vaux, G",V385,"Vaux, M"
-"Vaux, M",V386,Vauxc
+Vaux,V384,"Vaux,G"
+"Vaux,G",V385,"Vaux,M"
+"Vaux,M",V386,Vauxc
 Vauxc,V387,Vauz
 Vauz,V388,Vav
 Vav,V389,Vavi
@@ -11045,15 +11045,15 @@ Vern,V529,Verne
 Verne,V531,Vernet
 Vernet,V532,Verneu
 Verneu,V533,Verney
-Verney,V534,"Verney, M"
-"Verney, M",V535,Verni
+Verney,V534,"Verney,M"
+"Verney,M",V535,Verni
 Verni,V536,Vernin
 Vernin,V537,Verniz
 Verniz,V538,Verno
-Verno,V539,"Vernon, G"
-"Vernon, G",V541,"Vernon, M"
-"Vernon, M",V542,"Vernon, S"
-"Vernon, S",V543,Vernu
+Verno,V539,"Vernon,G"
+"Vernon,G",V541,"Vernon,M"
+"Vernon,M",V542,"Vernon,S"
+"Vernon,S",V543,Vernu
 Vernu,V544,Verny
 Verny,V545,Vero
 Vero,V546,Veron
@@ -11133,14 +11133,14 @@ Vickers,V637,Vico
 Vico,V638,Vicom
 Vicom,V639,Vicq
 Vicq,V641,Vict
-Vict,V642,"Victor, G"
-"Victor, G",V643,"Victor, M"
-"Victor, M",V644,"Victor, S"
-"Victor, S",V645,Victorin
+Vict,V642,"Victor,G"
+"Victor,G",V643,"Victor,M"
+"Victor,M",V644,"Victor,S"
+"Victor,S",V645,Victorin
 Victorin,V646,Vicu
 Vicu,V647,Vid
-Vid,V648,"Vidal, M"
-"Vidal, M",V649,Vidau
+Vid,V648,"Vidal,M"
+"Vidal,M",V649,Vidau
 Vidau,V651,Vide
 Vide,V652,Vidi
 Vidi,V653,Vido
@@ -11197,10 +11197,10 @@ Villanu,V718,Villar
 Villar,V719,Villaret
 Villaret,V721,Villari
 Villari,V722,Villars
-Villars,V723,"Villars, G"
-"Villars, G",V724,"Villars, M"
-"Villars, M",V725,"Villars, S"
-"Villars, S",V726,Villav
+Villars,V723,"Villars,G"
+"Villars,G",V724,"Villars,M"
+"Villars,M",V725,"Villars,S"
+"Villars,S",V726,Villav
 Villav,V727,Ville
 Ville,V728,Villec
 Villec,V729,Villef
@@ -11217,18 +11217,18 @@ Villeq,V741,Viller
 Viller,V742,Villerm
 Villerm,V743,Villero
 Villero,V744,Villers
-Villers,V745,"Villers, M"
-"Villers, M",V746,Villes
+Villers,V745,"Villers,M"
+"Villers,M",V746,Villes
 Villes,V747,Villet
 Villet,V748,Villeu
 Villeu,V749,Villi
 Villi,V751,Villiers
-Villiers,V752,"Villiers, F"
-"Villiers, F",V753,"Villiers, J"
-"Villiers, J",V754,"Villiers, M"
-"Villiers, M",V755,"Villiers, S"
-"Villiers, S",V756,"Villiers, W"
-"Villiers, W",V757,Villo
+Villiers,V752,"Villiers,F"
+"Villiers,F",V753,"Villiers,J"
+"Villiers,J",V754,"Villiers,M"
+"Villiers,M",V755,"Villiers,S"
+"Villiers,S",V756,"Villiers,W"
+"Villiers,W",V757,Villo
 Villo,V758,Villon
 Villon,V759,Villot
 Villot,V761,Vilm
@@ -11238,13 +11238,13 @@ Vim,V764,Vimo
 Vimo,V765,Vin
 Vin,V766,Vinc
 Vinc,V767,Vincent
-Vincent,V768,"Vincent, C"
-"Vincent, C",V769,"Vincent, F"
-"Vincent, F",V771,"Vincent, J"
-"Vincent, J",V772,"Vincent, M"
-"Vincent, M",V773,"Vincent, S"
-"Vincent, S",V774,"Vincent, W"
-"Vincent, W",V775,Vinch
+Vincent,V768,"Vincent,C"
+"Vincent,C",V769,"Vincent,F"
+"Vincent,F",V771,"Vincent,J"
+"Vincent,J",V772,"Vincent,M"
+"Vincent,M",V773,"Vincent,S"
+"Vincent,S",V774,"Vincent,W"
+"Vincent,W",V775,Vinch
 Vinch,V776,Vinci
 Vinci,V777,Vinck
 Vinck,V778,Vind
@@ -11258,10 +11258,10 @@ Vink,V786,Vinn
 Vinn,V787,Vino
 Vino,V788,Vint
 Vint,V789,Vinton
-Vinton,V791,"Vinton, G"
-"Vinton, G",V792,"Vinton, M"
-"Vinton, M",V793,"Vinton, S"
-"Vinton, S",V794,Vio
+Vinton,V791,"Vinton,G"
+"Vinton,G",V792,"Vinton,M"
+"Vinton,M",V793,"Vinton,S"
+"Vinton,S",V794,Vio
 Vio,V795,Violl
 Violl,V796,Viom
 Viom,V797,Vion
@@ -11279,10 +11279,10 @@ Virl,V819,Viru
 Viru,V821,Vis
 Vis,V822,Visch
 Visch,V823,Visco
-Visco,V824,"Visconti, G"
-"Visconti, G",V825,"Visconti, M"
-"Visconti, M",V826,"Visconti, S"
-"Visconti, S",V827,Visd
+Visco,V824,"Visconti,G"
+"Visconti,G",V825,"Visconti,M"
+"Visconti,M",V826,"Visconti,S"
+"Visconti,S",V827,Visd
 Visd,V828,Vise
 Vise,V829,Visi
 Visi,V831,Vism
@@ -11328,21 +11328,21 @@ Voell,V874,Voer
 Voer,V875,Voet
 Voet,V876,Vog
 Vog,V877,Vogel
-Vogel,V878,"Vogel, M"
-"Vogel, M",V879,Vogh
+Vogel,V878,"Vogel,M"
+"Vogel,M",V879,Vogh
 Vogh,V881,Vogi
 Vogi,V882,Vogl
-Vogl,V883,"Vogler, M"
-"Vogler, M",V884,Vogo
+Vogl,V883,"Vogler,M"
+"Vogler,M",V884,Vogo
 Vogo,V885,Vogt
-Vogt,V886,"Vogt, M"
-"Vogt, M",V887,Vogu
+Vogt,V886,"Vogt,M"
+"Vogt,M",V887,Vogu
 Vogu,V888,Voi
 Voi,V889,Voigt
-Voigt,V891,"Voigt, G"
-"Voigt, G",V892,"Voigt, M"
-"Voigt, M",V893,"Voigt, S"
-"Voigt, S",V894,Voil
+Voigt,V891,"Voigt,G"
+"Voigt,G",V892,"Voigt,M"
+"Voigt,M",V893,"Voigt,S"
+"Voigt,S",V894,Voil
 Voil,V895,Voir
 Voir,V896,Vois
 Vois,V897,Voit
@@ -11393,13 +11393,13 @@ Vorster,V956,Vort
 Vort,V957,Vory
 Vory,V958,Vos
 Vos,V959,Vose
-Vose,V961,"Vose, D"
-"Vose, D",V962,"Vose, H"
-"Vose, H",V963,"Vose, J"
-"Vose, J",V964,"Vose, M"
-"Vose, M",V965,"Vose, S"
-"Vose, S",V966,"Vose, W"
-"Vose, W",V967,Vosm
+Vose,V961,"Vose,D"
+"Vose,D",V962,"Vose,H"
+"Vose,H",V963,"Vose,J"
+"Vose,J",V964,"Vose,M"
+"Vose,M",V965,"Vose,S"
+"Vose,S",V966,"Vose,W"
+"Vose,W",V967,Vosm
 Vosm,V968,Voss
 Voss,V969,Vossi
 Vossi,V971,Vou
@@ -11438,27 +11438,27 @@ Wack,W115,Wad
 Wad,W116,Waddi
 Waddi,W117,Waddington
 Waddington,W118,Wade
-Wade,W119,"Wade, M"
-"Wade, M",W121,Wadh
+Wade,W119,"Wade,M"
+"Wade,M",W121,Wadh
 Wadh,W122,Wadl
 Wadl,W123,Wads
-Wads,W124,"Wadsworth, M"
-"Wadsworth, M",W125,Wae
+Wads,W124,"Wadsworth,M"
+"Wadsworth,M",W125,Wae
 Wae,W126,Wael
 Wael,W127,Waf
 Waf,W128,Wag
 Wag,W129,Wagen
 Wagen,W131,Wagn
-Wagn,W132,"Wagner, G"
-"Wagner, G",W133,"Wagner, M"
-"Wagner, M",W134,"Wagner, S"
-"Wagner, S",W135,Wah
+Wagn,W132,"Wagner,G"
+"Wagner,G",W133,"Wagner,M"
+"Wagner,M",W134,"Wagner,S"
+"Wagner,S",W135,Wah
 Wah,W136,Wahlen
 Wahlen,W137,Wai
 Wai,W138,Waill
 Waill,W139,Wain
-Wain,W141,"Wainwright, M"
-"Wainwright, M",W142,Wais
+Wain,W141,"Wainwright,M"
+"Wainwright,M",W142,Wais
 Wais,W143,Wait
 Wait,W144,Waite
 Waite,W145,Wak
@@ -11467,9 +11467,9 @@ Wakef,W147,Wakeh
 Wakeh,W148,Wakel
 Wakel,W149,Wal
 Wal,W151,Walch
-Walch,W152,"Walch, J"
-"Walch, J",W153,"Walch, P"
-"Walch, P",W154,Walck
+Walch,W152,"Walch,J"
+"Walch,J",W153,"Walch,P"
+"Walch,P",W154,Walck
 Walck,W155,Walco
 Walco,W156,Wald
 Wald,W157,Walde
@@ -11485,28 +11485,28 @@ Waldr,W167,Walds
 Walds,W168,Wale
 Wale,W169,Walei
 Walei,W171,Wales
-Wales,W172,"Wales, M"
-"Wales, M",W173,Walf
+Wales,W172,"Wales,M"
+"Wales,M",W173,Walf
 Walf,W174,Walg
 Walg,W175,Wali
 Wali,W176,Walk
-Walk,W177,"Walker, D"
-"Walker, D",W178,"Walker, F"
-"Walker, F",W179,"Walker, J"
-"Walker, J",W181,"Walker, M"
-"Walker, M",W182,"Walker, P"
-"Walker, P",W183,"Walker, S"
-"Walker, S",W184,"Walker, T"
-"Walker, T",W185,"Walker, W"
-"Walker, W",W186,Wall
-Wall,W187,"Wallace, D"
-"Wallace, D",W188,"Wallace, F"
-"Wallace, F",W189,"Wallace, J"
-"Wallace, J",W191,"Wallace, M"
-"Wallace, M",W192,"Wallace, P"
-"Wallace, P",W193,"Wallace, S"
-"Wallace, S",W194,"Wallace, W"
-"Wallace, W",W195,Wallc
+Walk,W177,"Walker,D"
+"Walker,D",W178,"Walker,F"
+"Walker,F",W179,"Walker,J"
+"Walker,J",W181,"Walker,M"
+"Walker,M",W182,"Walker,P"
+"Walker,P",W183,"Walker,S"
+"Walker,S",W184,"Walker,T"
+"Walker,T",W185,"Walker,W"
+"Walker,W",W186,Wall
+Wall,W187,"Wallace,D"
+"Wallace,D",W188,"Wallace,F"
+"Wallace,F",W189,"Wallace,J"
+"Wallace,J",W191,"Wallace,M"
+"Wallace,M",W192,"Wallace,P"
+"Wallace,P",W193,"Wallace,S"
+"Wallace,S",W194,"Wallace,W"
+"Wallace,W",W195,Wallc
 Wallc,W196,Wallen
 Wallen,W197,Waller
 Waller,W198,Walley
@@ -11518,27 +11518,27 @@ Wallis,W214,Wallo
 Wallo,W215,Walm
 Walm,W216,Waln
 Waln,W217,Walp
-Walp,W218,"Walpole, M"
-"Walpole, M",W219,Walr
+Walp,W218,"Walpole,M"
+"Walpole,M",W219,Walr
 Walr,W221,Wals
 Wals,W222,Walsh
-Walsh,W223,"Walsh, D"
-"Walsh, D",W224,"Walsh, J"
-"Walsh, J",W225,"Walsh, M"
-"Walsh, M",W226,"Walsh, S"
-"Walsh, S",W227,"Walsh, W"
-"Walsh, W",W228,Walsi
+Walsh,W223,"Walsh,D"
+"Walsh,D",W224,"Walsh,J"
+"Walsh,J",W225,"Walsh,M"
+"Walsh,M",W226,"Walsh,S"
+"Walsh,S",W227,"Walsh,W"
+"Walsh,W",W228,Walsi
 Walsi,W229,Walt
-Walt,W231,"Walter, G"
-"Walter, G",W232,"Walter, M"
-"Walter, M",W233,"Walter, S"
-"Walter, S",W234,Walters
+Walt,W231,"Walter,G"
+"Walter,G",W232,"Walter,M"
+"Walter,M",W233,"Walter,S"
+"Walter,S",W234,Walters
 Walters,W235,Walth
 Walth,W236,Walther
 Walther,W237,Walto
-Walto,W238,"Walton, G"
-"Walton, G",W239,"Walton, M"
-"Walton, M",W241,Walw
+Walto,W238,"Walton,G"
+"Walton,G",W239,"Walton,M"
+"Walton,M",W241,Walw
 Walw,W242,Wam
 Wam,W243,Wan
 Wan,W244,Wand
@@ -11550,57 +11550,57 @@ Wann,W249,Wans
 Wans,W251,Wap
 Wap,W252,War
 War,W253,Warburton
-Warburton,W254,"Warburton, M"
-"Warburton, M",W255,Ward
-Ward,W256,"Ward, C"
-"Ward, C",W257,"Ward, F"
-"Ward, F",W258,"Ward, J"
-"Ward, J",W259,"Ward, M"
-"Ward, M",W261,"Ward, P"
-"Ward, P",W262,"Ward, S"
-"Ward, S",W263,"Ward, W"
-"Ward, W",W264,Warde
+Warburton,W254,"Warburton,M"
+"Warburton,M",W255,Ward
+Ward,W256,"Ward,C"
+"Ward,C",W257,"Ward,F"
+"Ward,F",W258,"Ward,J"
+"Ward,J",W259,"Ward,M"
+"Ward,M",W261,"Ward,P"
+"Ward,P",W262,"Ward,S"
+"Ward,S",W263,"Ward,W"
+"Ward,W",W264,Warde
 Warde,W265,Wardl
 Wardl,W266,Ware
-Ware,W267,"Ware, D"
-"Ware, D",W268,"Ware, J"
-"Ware, J",W269,"Ware, M"
-"Ware, M",W271,"Ware, S"
-"Ware, S",W272,"Ware, W"
-"Ware, W",W273,Waren
+Ware,W267,"Ware,D"
+"Ware,D",W268,"Ware,J"
+"Ware,J",W269,"Ware,M"
+"Ware,M",W271,"Ware,S"
+"Ware,S",W272,"Ware,W"
+"Ware,W",W273,Waren
 Waren,W274,Warh
 Warh,W275,Wari
-Wari,W276,"Waring, M"
-"Waring, M",W277,Warn
+Wari,W276,"Waring,M"
+"Waring,M",W277,Warn
 Warn,W278,Warner
-Warner,W279,"Warner, D"
-"Warner, D",W281,"Warner, J"
-"Warner, J",W282,"Warner, M"
-"Warner, M",W283,"Warner, S"
-"Warner, S",W284,"Warner, W"
-"Warner, W",W285,Warr
-Warr,W286,"Warren, C"
-"Warren, C",W287,"Warren, F"
-"Warren, F",W288,"Warren, J"
-"Warren, J",W289,"Warren, M"
-"Warren, M",W291,"Warren, P"
-"Warren, P",W292,"Warren, S"
-"Warren, S",W293,"Warren, W"
-"Warren, W",W294,Warri
+Warner,W279,"Warner,D"
+"Warner,D",W281,"Warner,J"
+"Warner,J",W282,"Warner,M"
+"Warner,M",W283,"Warner,S"
+"Warner,S",W284,"Warner,W"
+"Warner,W",W285,Warr
+Warr,W286,"Warren,C"
+"Warren,C",W287,"Warren,F"
+"Warren,F",W288,"Warren,J"
+"Warren,J",W289,"Warren,M"
+"Warren,M",W291,"Warren,P"
+"Warren,P",W292,"Warren,S"
+"Warren,S",W293,"Warren,W"
+"Warren,W",W294,Warri
 Warri,W295,Wart
 Wart,W296,Wartens
 Wartens,W297,Warto
 Warto,W298,Warw
-Warw,W299,"Warwick, M"
-"Warwick, M",W311,Was
+Warw,W299,"Warwick,M"
+"Warwick,M",W311,Was
 Was,W312,Waser
 Waser,W313,Wash
-Wash,W314,"Washburn, M"
-"Washburn, M",W315,Washi
+Wash,W314,"Washburn,M"
+"Washburn,M",W315,Washi
 Washi,W316,Washington
-Washington,W317,"Washington, G"
-"Washington, G",W318,"Washington, M"
-"Washington, M",W319,Wass
+Washington,W317,"Washington,G"
+"Washington,G",W318,"Washington,M"
+"Washington,M",W319,Wass
 Wass,W321,Wasser
 Wasser,W322,Wassi
 Wassi,W323,Wat
@@ -11609,28 +11609,28 @@ Waterf,W325,Waterh
 Waterh,W326,Waterl
 Waterl,W327,Waterm
 Waterm,W328,Waters
-Waters,W329,"Waters, M"
-"Waters, M",W331,Waterst
+Waters,W329,"Waters,M"
+"Waters,M",W331,Waterst
 Waterst,W332,Waterw
 Waterw,W333,Watk
 Watk,W334,Watke
 Watke,W335,Watkinson
 Watkinson,W336,Wats
-Wats,W337,"Watson, D"
-"Watson, D",W338,"Watson, J"
-"Watson, J",W339,"Watson, M"
-"Watson, M",W341,"Watson, S"
-"Watson, S",W342,"Watson, W"
-"Watson, W",W343,Watt
-Watt,W344,"Watt, J"
-"Watt, J",W345,"Watt, P"
-"Watt, P",W346,"Watt, i"
-"Watt, i",W347,Watts
-Watts,W348,"Watts, D"
-"Watts, D",W349,"Watts, J"
-"Watts, J",W351,"Watts, M"
-"Watts, M",W352,"Watts, S"
-"Watts, S",W353,Wau
+Wats,W337,"Watson,D"
+"Watson,D",W338,"Watson,J"
+"Watson,J",W339,"Watson,M"
+"Watson,M",W341,"Watson,S"
+"Watson,S",W342,"Watson,W"
+"Watson,W",W343,Watt
+Watt,W344,"Watt,J"
+"Watt,J",W345,"Watt,P"
+"Watt,P",W346,"Watt,i"
+"Watt,i",W347,Watts
+Watts,W348,"Watts,D"
+"Watts,D",W349,"Watts,J"
+"Watts,J",W351,"Watts,M"
+"Watts,M",W352,"Watts,S"
+"Watts,S",W353,Wau
 Wau,W354,Waut
 Waut,W355,Waw
 Waw,W356,Way
@@ -11641,25 +11641,25 @@ We,W361,Weal
 Weal,W362,Weav
 Weav,W363,Web
 Web,W364,Webb
-Webb,W365,"Webb, G"
-"Webb, G",W366,"Webb, M"
-"Webb, M",W367,"Webb, S"
-"Webb, S",W368,Webbe
+Webb,W365,"Webb,G"
+"Webb,G",W366,"Webb,M"
+"Webb,M",W367,"Webb,S"
+"Webb,S",W368,Webbe
 Webbe,W369,Webber
-Webber,W371,"Webber, M"
-"Webber, M",W372,Weber
-Weber,W373,"Weber, G"
-"Weber, G",W374,"Weber, M"
-"Weber, M",W375,"Weber, S"
-"Weber, S",W376,Webs
-Webs,W377,"Webster, C"
-"Webster, C",W378,"Webster, F"
-"Webster, F",W379,"Webster, J"
-"Webster, J",W381,"Webster, M"
-"Webster, M",W382,"Webster, P"
-"Webster, P",W383,"Webster, S"
-"Webster, S",W384,"Webster, W"
-"Webster, W",W385,Wech
+Webber,W371,"Webber,M"
+"Webber,M",W372,Weber
+Weber,W373,"Weber,G"
+"Weber,G",W374,"Weber,M"
+"Weber,M",W375,"Weber,S"
+"Weber,S",W376,Webs
+Webs,W377,"Webster,C"
+"Webster,C",W378,"Webster,F"
+"Webster,F",W379,"Webster,J"
+"Webster,J",W381,"Webster,M"
+"Webster,M",W382,"Webster,P"
+"Webster,P",W383,"Webster,S"
+"Webster,S",W384,"Webster,W"
+"Webster,W",W385,Wech
 Wech,W386,Weck
 Weck,W387,Wed
 Wed,W388,Wede
@@ -11668,8 +11668,8 @@ Wedel,W391,Wedg
 Wedg,W392,Wedgw
 Wedgw,W393,Wee
 Wee,W394,Weeks
-Weeks,W395,"Weeks, M"
-"Weeks, M",W396,Weem
+Weeks,W395,"Weeks,M"
+"Weeks,M",W396,Weem
 Weem,W397,Weer
 Weer,W398,Weev
 Weev,W399,Weg
@@ -11690,20 +11690,20 @@ Weir,W425,Weis
 Weis,W426,Weise
 Weise,W427,Weisk
 Weisk,W428,Weiss
-Weiss,W429,"Weiss, J"
-"Weiss, J",W431,"Weiss, P"
-"Weiss, P",W432,Weissen
+Weiss,W429,"Weiss,J"
+"Weiss,J",W431,"Weiss,P"
+"Weiss,P",W432,Weissen
 Weissen,W433,Weit
 Weit,W434,Weits
 Weits,W435,Weitz
 Weitz,W436,Wek
 Wek,W437,Wel
 Wel,W438,Welch
-Welch,W439,"Welch, M"
-"Welch, M",W441,Welck
+Welch,W439,"Welch,M"
+"Welch,M",W441,Welck
 Welck,W442,Weld
-Weld,W443,"Weld, M"
-"Weld, M",W444,Welde
+Weld,W443,"Weld,M"
+"Weld,M",W444,Welde
 Welde,W445,Welh
 Welh,W446,Well
 Well,W447,Weller
@@ -11711,16 +11711,16 @@ Weller,W448,Welles
 Welles,W449,Wellesl
 Wellesl,W451,Welli
 Welli,W452,Wells
-Wells,W453,"Wells, G"
-"Wells, G",W454,"Wells, M"
-"Wells, M",W455,"Wells, S"
-"Wells, S",W456,Wellw
+Wells,W453,"Wells,G"
+"Wells,G",W454,"Wells,M"
+"Wells,M",W455,"Wells,S"
+"Wells,S",W456,Wellw
 Wellw,W457,Wels
 Wels,W458,Welse
 Welse,W459,Welsh
-Welsh,W461,"Welsh, J"
-"Welsh, J",W462,"Welsh, P"
-"Welsh, P",W463,Welt
+Welsh,W461,"Welsh,J"
+"Welsh,J",W462,"Welsh,P"
+"Welsh,P",W463,Welt
 Welt,W464,Welw
 Welw,W465,Wem
 Wem,W466,Wen
@@ -11733,9 +11733,9 @@ Wendt,W473,Weng
 Weng,W474,Weni
 Weni,W475,Wenl
 Wenl,W476,Went
-Went,W477,"Wentworth, G"
-"Wentworth, G",W478,"Wentworth, M"
-"Wentworth, M",W479,Wentz
+Went,W477,"Wentworth,G"
+"Wentworth,G",W478,"Wentworth,M"
+"Wentworth,M",W479,Wentz
 Wentz,W481,Wenz
 Wenz,W482,Wep
 Wep,W483,Wer
@@ -11746,9 +11746,9 @@ Weren,W487,Werf
 Werf,W488,Werl
 Werl,W489,Wern
 Wern,W491,Werner
-Werner,W492,"Werner, G"
-"Werner, G",W493,"Werner, M"
-"Werner, M",W494,Wernh
+Werner,W492,"Werner,G"
+"Werner,G",W493,"Werner,M"
+"Werner,M",W494,Wernh
 Wernh,W495,Werni
 Werni,W496,Werns
 Werns,W497,Werp
@@ -11756,15 +11756,15 @@ Werp,W498,Wert
 Wert,W499,Wes
 Wes,W511,Wesen
 Wesen,W512,Wesl
-Wesl,W513,"Wesley, M"
-"Wesley, M",W514,Wess
+Wesl,W513,"Wesley,M"
+"Wesley,M",W514,Wess
 Wess,W515,West
-West,W516,"West, D"
-"West, D",W517,"West, J"
-"West, J",W518,"West, M"
-"West, M",W519,"West, S"
-"West, S",W521,"West, W"
-"West, W",W522,Westb
+West,W516,"West,D"
+"West,D",W517,"West,J"
+"West,J",W518,"West,M"
+"West,M",W519,"West,S"
+"West,S",W521,"West,W"
+"West,W",W522,Westb
 Westb,W523,Westc
 Westc,W524,Weste
 Weste,W525,Wester
@@ -11775,9 +11775,9 @@ Westh,W529,Westm
 Westm,W531,Westmi
 Westmi,W532,Westmo
 Westmo,W533,Westo
-Westo,W534,"Weston, G"
-"Weston, G",W535,"Weston, P"
-"Weston, P",W536,Westp
+Westo,W534,"Weston,G"
+"Weston,G",W535,"Weston,P"
+"Weston,P",W536,Westp
 Westp,W537,Westr
 Westr,W538,Wet
 Wet,W539,Wetm
@@ -11792,17 +11792,17 @@ Weyl,W548,Weym
 Weym,W549,Wh
 Wh,W551,Whal
 Whal,W552,Whart
-Whart,W553,"Wharton, M"
-"Wharton, M",W554,What
+Whart,W553,"Wharton,M"
+"Wharton,M",W554,What
 What,W555,Whe
 Whe,W556,Wheatl
 Wheatl,W557,Wheato
 Wheato,W558,Whed
 Whed,W559,Whee
 Whee,W561,Wheeler
-Wheeler,W562,"Wheeler, G"
-"Wheeler, G",W563,"Wheeler, P"
-"Wheeler, P",W564,Wheelo
+Wheeler,W562,"Wheeler,G"
+"Wheeler,G",W563,"Wheeler,P"
+"Wheeler,P",W564,Wheelo
 Wheelo,W565,Wheelw
 Wheelw,W566,Whelp
 Whelp,W567,Whet
@@ -11810,22 +11810,22 @@ Whet,W568,Whew
 Whew,W569,Whi
 Whi,W571,Whid
 Whid,W572,Whip
-Whip,W573,"Whipple, J"
-"Whipple, J",W574,"Whipple, P"
-"Whipple, P",W575,Whis
+Whip,W573,"Whipple,J"
+"Whipple,J",W574,"Whipple,P"
+"Whipple,P",W575,Whis
 Whis,W576,Whit
-Whit,W577,"Whitaker, M"
-"Whitaker, M",W578,Whitb
+Whit,W577,"Whitaker,M"
+"Whitaker,M",W578,Whitb
 Whitb,W579,Whitc
 Whitc,W581,White
-White,W582,"White, C"
-"White, C",W583,"White, F"
-"White, F",W584,"White, J"
-"White, J",W585,"White, M"
-"White, M",W586,"White, P"
-"White, P",W587,"White, S"
-"White, S",W588,"White, W"
-"White, W",W589,Whitef
+White,W582,"White,C"
+"White,C",W583,"White,F"
+"White,F",W584,"White,J"
+"White,J",W585,"White,M"
+"White,M",W586,"White,P"
+"White,P",W587,"White,S"
+"White,S",W588,"White,W"
+"White,W",W589,Whitef
 Whitef,W591,Whiteh
 Whiteh,W592,Whiteho
 Whiteho,W593,Whitel
@@ -11833,20 +11833,20 @@ Whitel,W594,Whitf
 Whitf,W595,Whitg
 Whitg,W596,Whiti
 Whiti,W597,Whiting
-Whiting,W598,"Whiting, G"
-"Whiting, G",W599,"Whiting, M"
-"Whiting, M",W611,"Whiting, S"
-"Whiting, S",W612,"Whiting, W"
-"Whiting, W",W613,Whitm
-Whitm,W614,"Whitman, M"
-"Whitman, M",W615,Whitmore
+Whiting,W598,"Whiting,G"
+"Whiting,G",W599,"Whiting,M"
+"Whiting,M",W611,"Whiting,S"
+"Whiting,S",W612,"Whiting,W"
+"Whiting,W",W613,Whitm
+Whitm,W614,"Whitman,M"
+"Whitman,M",W615,Whitmore
 Whitmore,W616,Whitney
-Whitney,W617,"Whitney, D"
-"Whitney, D",W618,"Whitney, J"
-"Whitney, J",W619,"Whitney, M"
-"Whitney, M",W621,"Whitney, S"
-"Whitney, S",W622,"Whitney, W"
-"Whitney, W",W623,Whitt
+Whitney,W617,"Whitney,D"
+"Whitney,D",W618,"Whitney,J"
+"Whitney,J",W619,"Whitney,M"
+"Whitney,M",W621,"Whitney,S"
+"Whitney,S",W622,"Whitney,W"
+"Whitney,W",W623,Whitt
 Whitt,W624,Whitti
 Whitti,W625,Whitting
 Whitting,W626,Whittl
@@ -11889,8 +11889,8 @@ Wilbu,W666,Wilc
 Wilc,W667,Wild
 Wild,W668,Wildb
 Wildb,W669,Wilde
-Wilde,W671,"Wilde, M"
-"Wilde, M",W672,Wilder
+Wilde,W671,"Wilde,M"
+"Wilde,M",W672,Wilder
 Wilder,W673,Wildm
 Wildm,W674,Wildt
 Wildt,W675,Wile
@@ -11901,18 +11901,18 @@ Wili,W679,Wilk
 Wilk,W681,Wilkes
 Wilkes,W682,Wilki
 Wilki,W683,Wilkins
-Wilkins,W684,"Wilkins, M"
-"Wilkins, M",W685,Wilkinson
-Wilkinson,W686,"Wilkinson, M"
-"Wilkinson, M",W687,Wilks
+Wilkins,W684,"Wilkins,M"
+"Wilkins,M",W685,Wilkinson
+Wilkinson,W686,"Wilkinson,M"
+"Wilkinson,M",W687,Wilks
 Wilks,W688,Will
 Will,W689,Willar
-Willar,W691,"Willard, D"
-"Willard, D",W692,"Willard, J"
-"Willard, J",W693,"Willard, M"
-"Willard, M",W694,"Willard, S"
-"Willard, S",W695,"Willard, W"
-"Willard, W",W696,Willc
+Willar,W691,"Willard,D"
+"Willard,D",W692,"Willard,J"
+"Willard,J",W693,"Willard,M"
+"Willard,M",W694,"Willard,S"
+"Willard,S",W695,"Willard,W"
+"Willard,W",W696,Willc
 Willc,W697,Wille
 Wille,W698,Willem
 Willem,W699,Willen
@@ -11921,24 +11921,24 @@ Willer,W712,Willes
 Willes,W713,Willey
 Willey,W714,Willi
 Willi,W715,William
-William,W716,"William, G"
-"William, G",W717,"William, M"
-"William, M",W718,"William, S"
-"William, S",W719,Williams
-Williams,W721,"Williams, C"
-"Williams, C",W722,"Williams, F"
-"Williams, F",W723,"Williams, J"
-"Williams, J",W724,"Williams, M"
-"Williams, M",W725,"Williams, P"
-"Williams, P",W726,"Williams, S"
-"Williams, S",W727,"Williams, W"
-"Williams, W",W728,Williamson
-Williamson,W729,"Williamson, J"
-"Williamson, J",W731,"Williamson, P"
-"Williamson, P",W732,Willin
+William,W716,"William,G"
+"William,G",W717,"William,M"
+"William,M",W718,"William,S"
+"William,S",W719,Williams
+Williams,W721,"Williams,C"
+"Williams,C",W722,"Williams,F"
+"Williams,F",W723,"Williams,J"
+"Williams,J",W724,"Williams,M"
+"Williams,M",W725,"Williams,P"
+"Williams,P",W726,"Williams,S"
+"Williams,S",W727,"Williams,W"
+"Williams,W",W728,Williamson
+Williamson,W729,"Williamson,J"
+"Williamson,J",W731,"Williamson,P"
+"Williamson,P",W732,Willin
 Willin,W733,Willis
-Willis,W734,"Willis, M"
-"Willis, M",W735,Willist
+Willis,W734,"Willis,M"
+"Willis,M",W735,Willist
 Willist,W736,Willm
 Willm,W737,Willmo
 Willmo,W738,Willo
@@ -11948,16 +11948,16 @@ Willso,W742,Wilm
 Wilm,W743,Wilmo
 Wilmo,W744,Wilr
 Wilr,W745,Wils
-Wils,W746,"Wilson, C"
-"Wilson, C",W747,"Wilson, F"
-"Wilson, F",W748,"Wilson, J"
-"Wilson, J",W749,"Wilson, M"
-"Wilson, M",W751,"Wilson, P"
-"Wilson, P",W752,"Wilson, S"
-"Wilson, S",W753,"Wilson, W"
-"Wilson, W",W754,Wilt
-Wilt,W755,"Wilton, M"
-"Wilton, M",W756,Wim
+Wils,W746,"Wilson,C"
+"Wilson,C",W747,"Wilson,F"
+"Wilson,F",W748,"Wilson,J"
+"Wilson,J",W749,"Wilson,M"
+"Wilson,M",W751,"Wilson,P"
+"Wilson,P",W752,"Wilson,S"
+"Wilson,S",W753,"Wilson,W"
+"Wilson,W",W754,Wilt
+Wilt,W755,"Wilton,M"
+"Wilton,M",W756,Wim
 Wim,W757,Win
 Win,W758,Winche
 Winche,W759,Winck
@@ -11977,20 +11977,20 @@ Winkelm,W774,Winkl
 Winkl,W775,Winn
 Winn,W776,Wins
 Wins,W777,Winslow
-Winslow,W778,"Winslow, G"
-"Winslow, G",W779,"Winslow, M"
-"Winslow, M",W781,"Winslow, S"
-"Winslow, S",W782,Winst
+Winslow,W778,"Winslow,G"
+"Winslow,G",W779,"Winslow,M"
+"Winslow,M",W781,"Winslow,S"
+"Winslow,S",W782,Winst
 Winst,W783,Wint
-Wint,W784,"Winter, G"
-"Winter, G",W785,"Winter, M"
-"Winter, M",W786,"Winter, S"
-"Winter, S",W787,Winterf
+Wint,W784,"Winter,G"
+"Winter,G",W785,"Winter,M"
+"Winter,M",W786,"Winter,S"
+"Winter,S",W787,Winterf
 Winterf,W788,Winth
 Winth,W789,Winthrop
-Winthrop,W791,"Winthrop, J"
-"Winthrop, J",W792,"Winthrop, P"
-"Winthrop, P",W793,Wintr
+Winthrop,W791,"Winthrop,J"
+"Winthrop,J",W792,"Winthrop,P"
+"Winthrop,P",W793,Wintr
 Wintr,W794,Winw
 Winw,W795,Wio
 Wio,W796,Wip
@@ -11998,8 +11998,8 @@ Wip,W797,Wir
 Wir,W798,Wirt
 Wirt,W799,Wis
 Wis,W811,Wise
-Wise,W812,"Wise, M"
-"Wise, M",W813,Wisem
+Wise,W812,"Wise,M"
+"Wise,M",W813,Wisem
 Wisem,W814,Wisn
 Wisn,W815,Wiss
 Wiss,W816,Wist
@@ -12032,15 +12032,15 @@ Wog,W845,Woh
 Woh,W846,Woi
 Woi,W847,Wol
 Wol,W848,Wolcott
-Wolcott,W849,"Wolcott, M"
-"Wolcott, M",W851,Wold
+Wolcott,W849,"Wolcott,M"
+"Wolcott,M",W851,Wold
 Wold,W852,Wolf
-Wolf,W853,"Wolf, J"
-"Wolf, J",W854,"Wolf, P"
-"Wolf, P",W855,Wolffe
-Wolffe,W856,"Wolffe, J"
-"Wolffe, J",W857,"Wolffe, P"
-"Wolffe, P",W858,Wolfg
+Wolf,W853,"Wolf,J"
+"Wolf,J",W854,"Wolf,P"
+"Wolf,P",W855,Wolffe
+Wolffe,W856,"Wolffe,J"
+"Wolffe,J",W857,"Wolffe,P"
+"Wolffe,P",W858,Wolfg
 Wolfg,W859,Wolfr
 Wolfr,W861,Wolk
 Wolk,W862,Woll
@@ -12053,18 +12053,18 @@ Wolt,W868,Woltm
 Woltm,W869,Wolz
 Wolz,W871,Wom
 Wom,W872,Woo
-Woo,W873,"Wood, C"
-"Wood, C",W874,"Wood, F"
-"Wood, F",W875,"Wood, J"
-"Wood, J",W876,"Wood, M"
-"Wood, M",W877,"Wood, P"
-"Wood, P",W878,"Wood, S"
-"Wood, S",W879,"Wood, W"
-"Wood, W",W881,Woodbri
-Woodbri,W882,"Woodbridge, M"
-"Woodbridge, M",W883,Woodbu
-Woodbu,W884,"Woodbury, M"
-"Woodbury, M",W885,Woodc
+Woo,W873,"Wood,C"
+"Wood,C",W874,"Wood,F"
+"Wood,F",W875,"Wood,J"
+"Wood,J",W876,"Wood,M"
+"Wood,M",W877,"Wood,P"
+"Wood,P",W878,"Wood,S"
+"Wood,S",W879,"Wood,W"
+"Wood,W",W881,Woodbri
+Woodbri,W882,"Woodbridge,M"
+"Woodbridge,M",W883,Woodbu
+Woodbu,W884,"Woodbury,M"
+"Woodbury,M",W885,Woodc
 Woodc,W886,Woodf
 Woodf,W887,Woodh
 Woodh,W888,Woodho
@@ -12072,34 +12072,34 @@ Woodho,W889,Woodhu
 Woodhu,W891,Woodm
 Woodm,W892,Woodr
 Woodr,W893,Woods
-Woods,W894,"Woods, J"
-"Woods, J",W895,"Woods, M"
-"Woods, M",W896,"Woods, S"
-"Woods, S",W897,"Woods, W"
-"Woods, W",W898,Woodw
-Woodw,W899,"Woodward, J"
-"Woodward, J",W911,"Woodward, P"
-"Woodward, P",W912,Wool
+Woods,W894,"Woods,J"
+"Woods,J",W895,"Woods,M"
+"Woods,M",W896,"Woods,S"
+"Woods,S",W897,"Woods,W"
+"Woods,W",W898,Woodw
+Woodw,W899,"Woodward,J"
+"Woodward,J",W911,"Woodward,P"
+"Woodward,P",W912,Wool
 Wool,W913,Woolm
 Woolm,W914,Woolr
 Woolr,W915,Wools
 Wools,W916,Woolw
 Woolw,W917,Woot
 Woot,W918,Wor
-Wor,W919,"Worcester, G"
-"Worcester, G",W921,"Worcester, M"
-"Worcester, M",W922,"Worcester, S"
-"Worcester, S",W923,Word
+Wor,W919,"Worcester,G"
+"Worcester,G",W921,"Worcester,M"
+"Worcester,M",W922,"Worcester,S"
+"Worcester,S",W923,Word
 Word,W924,Wordsw
-Wordsw,W925,"Wordsworth, M"
-"Wordsworth, M",W926,Worl
+Wordsw,W925,"Wordsworth,M"
+"Wordsworth,M",W926,Worl
 Worl,W927,Worm
 Worm,W928,Woro
 Woro,W929,Wors
 Wors,W931,Wort
 Wort,W932,Worthington
-Worthington,W933,"Worthington, M"
-"Worthington, M",W934,Wortl
+Worthington,W933,"Worthington,M"
+"Worthington,M",W934,Wortl
 Wortl,W935,Wot
 Wot,W936,Wott
 Wott,W937,Wou
@@ -12111,13 +12111,13 @@ Wrax,W943,Wre
 Wre,W944,Wren
 Wren,W945,Wri
 Wri,W946,Wright
-Wright,W947,"Wright, C"
-"Wright, C",W948,"Wright, F"
-"Wright, F",W949,"Wright, J"
-"Wright, J",W951,"Wright, M"
-"Wright, M",W952,"Wright, S"
-"Wright, S",W953,"Wright, W"
-"Wright, W",W954,Wris
+Wright,W947,"Wright,C"
+"Wright,C",W948,"Wright,F"
+"Wright,F",W949,"Wright,J"
+"Wright,J",W951,"Wright,M"
+"Wright,M",W952,"Wright,S"
+"Wright,S",W953,"Wright,W"
+"Wright,W",W954,Wris
 Wris,W955,Writ
 Writ,W956,Wro
 Wro,W957,Wroth
@@ -12136,8 +12136,8 @@ Wurtz,W971,Wurz
 Wurz,W972,Wus
 Wus,W973,Wy
 Wy,W974,Wyatt
-Wyatt,W975,"Wyatt, M"
-"Wyatt, M",W976,Wyc
+Wyatt,W975,"Wyatt,M"
+"Wyatt,M",W976,Wyc
 Wyc,W977,Wyd
 Wyd,W978,Wye
 Wye,W979,Wyk
@@ -12148,8 +12148,8 @@ Wym,W984,Wyn
 Wyn,W985,Wynf
 Wynf,W986,Wyng
 Wyng,W987,Wynn
-Wynn,W988,"Wynne, M"
-"Wynne, M",W989,Wynt
+Wynn,W988,"Wynne,M"
+"Wynne,M",W989,Wynt
 Wynt,W991,Wyo
 Wyo,W992,Wyr
 Wyr,W993,Wys
@@ -12174,8 +12174,8 @@ Yah,Y13,Yai
 Yai,Y14,Yak
 Yak,Y15,Yal
 Yal,Y16,Yale
-Yale,Y17,"Yale, M"
-"Yale, M",Y18,Yales
+Yale,Y17,"Yale,M"
+"Yale,M",Y18,Yales
 Yales,Y19,Yan
 Yan,Y21,Yane
 Yane,Y22,Yani
@@ -12186,10 +12186,10 @@ Yar,Y26,Yard
 Yard,Y27,Yarf
 Yarf,Y28,Yarr
 Yarr,Y29,Yat
-Yat,Y31,"Yates, G"
-"Yates, G",Y32,"Yates, M"
-"Yates, M",Y33,"Yates, S"
-"Yates, S",Y34,Yatm
+Yat,Y31,"Yates,G"
+"Yates,G",Y32,"Yates,M"
+"Yates,M",Y33,"Yates,S"
+"Yates,S",Y34,Yatm
 Yatm,Y35,Yb
 Yb,Y36,Ye
 Ye,Y37,Yeam
@@ -12208,28 +12208,28 @@ Yh,Y51,Yl
 Yl,Y52,Yn
 Yn,Y53,Yo
 Yo,Y54,Yon
-Yon,Y55,"Yonge, G"
-"Yonge, G",Y56,"Yonge, M"
-"Yonge, M",Y57,"Yonge, S"
-"Yonge, S",Y58,"Yonge, W"
-"Yonge, W",Y59,Yor
-Yor,Y61,"York, J"
-"York, J",Y62,"York, P"
-"York, P",Y63,Yorke
-Yorke,Y64,"Yorke, M"
-"Yorke, M",Y65,Yot
+Yon,Y55,"Yonge,G"
+"Yonge,G",Y56,"Yonge,M"
+"Yonge,M",Y57,"Yonge,S"
+"Yonge,S",Y58,"Yonge,W"
+"Yonge,W",Y59,Yor
+Yor,Y61,"York,J"
+"York,J",Y62,"York,P"
+"York,P",Y63,Yorke
+Yorke,Y64,"Yorke,M"
+"Yorke,M",Y65,Yot
 Yot,Y66,You
 You,Y67,Young
-Young,Y68,"Young, C"
-"Young, C",Y69,"Young, E"
-"Young, E",Y71,"Young, G"
-"Young, G",Y72,"Young, J"
-"Young, J",Y73,"Young, M"
-"Young, M",Y74,"Young, P"
-"Young, P",Y75,"Young, S"
-"Young, S",Y76,"Young, T"
-"Young, T",Y77,"Young, W"
-"Young, W",Y78,Youngm
+Young,Y68,"Young,C"
+"Young,C",Y69,"Young,E"
+"Young,E",Y71,"Young,G"
+"Young,G",Y72,"Young,J"
+"Young,J",Y73,"Young,M"
+"Young,M",Y74,"Young,P"
+"Young,P",Y75,"Young,S"
+"Young,S",Y76,"Young,T"
+"Young,T",Y77,"Young,W"
+"Young,W",Y78,Youngm
 Youngm,Y79,Youngs
 Youngs,Y81,Yous
 Yous,Y82,Youss
@@ -12305,10 +12305,10 @@ Zif,Z68,Zil
 Zil,Z69,Zim
 Zim,Z71,Zimmer
 Zimmer,Z72,Zimmermann
-Zimmermann,Z73,"Zimmermann, F"
-"Zimmermann, F",Z74,"Zimmermann, M"
-"Zimmermann, M",Z75,"Zimmermann, S"
-"Zimmermann, S",Z76,Zin
+Zimmermann,Z73,"Zimmermann,F"
+"Zimmermann,F",Z74,"Zimmermann,M"
+"Zimmermann,M",Z75,"Zimmermann,S"
+"Zimmermann,S",Z76,Zin
 Zin,Z77,Zink
 Zink,Z78,Zinz
 Zinz,Z79,Zir

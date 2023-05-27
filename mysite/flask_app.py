@@ -19,37 +19,27 @@ app.config['MYSQL_PASSWORD'] = 'univesp2023'
 bootstrap = Bootstrap(app)
 mysql = MySQL(app)
 
-
-class NameForm(FlaskForm):
-    name = StringField('Digite a Entrada Principal', validators=[DataRequired()])
+class CutterForm(FlaskForm):
+    entrada = StringField('Digite a Entrada Principal', validators=[DataRequired()])
     submit = SubmitField('Gerar código Cutter')
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
-    '''form = NameForm()
-    if form.validate_on_submit():
-        user = User.query.filter_by(username=form.name.data).first()
-        if user is None:
-            user = User(username=form.name.data)
-            db.session.add(user)
-            db.session.commit()
-            session['known'] = False
-        else:
-            session['known'] = True
-        session['name'] = form.name.data
-        return redirect(url_for('index'))
-    return render_template('index.html', form=form, name=session.get('name'),
-                           known=session.get('known', False))'''
-    return render_template('index.html')
+	entrada=None
+	form=CutterForm()
+	if form.validate_on_submit():
+		session['entrada'] = form.entrada.data
+		return redirect(url_for('index'))
+	return render_template('index.html', form=form, entrada=session.get('entrada'))
 
-GERA_CODIGO = 'select codigo from CutterSanborn where sobrenome="Smit"'
-
-@app.route('/mysql_test')
-def mysql_test():
+@app.route('/entrada/<entrada>')
+def retorna_codigo(entrada):
+    consulta = f"SELECT codigo FROM CutterSanborn WHERE Sobrenome <= '{entrada}' AND ProximoNome > '{entrada}';"
     conn = mysql.connection
     cur = conn.cursor()
-    cur.execute(GERA_CODIGO)
+    cur.execute(consulta)
     output = cur.fetchall()[0][0]
     return str(output)
+
 
